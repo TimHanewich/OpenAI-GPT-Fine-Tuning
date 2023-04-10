@@ -128,7 +128,30 @@ namespace OpenAiFineTuning
                 }
             }
 
-            //Delete all contents of a folder
+            //Sort all by date
+            Dictionary<string, List<Message>> CONVERSATIONS_SORTED = new Dictionary<string, List<Message>>();
+            foreach (KeyValuePair<string, List<Message>> kvp in CONVERSATIONS)
+            {
+                //Resort messages
+                List<Message> sorted = new List<Message>();
+                while (kvp.Value.Count > 0)
+                {
+                    Message oldest = kvp.Value[0];
+                    foreach (Message m in kvp.Value)
+                    {
+                        if (m.date < oldest.date)
+                        {
+                            oldest = m;
+                        }
+                    }
+                    sorted.Add(oldest);
+                    kvp.Value.Remove(oldest);
+                }
+
+                //Re-add
+                CONVERSATIONS_SORTED.Add(kvp.Key, sorted);
+            }
+            CONVERSATIONS = CONVERSATIONS_SORTED;
 
             //Write
             foreach (KeyValuePair<string, List<Message>> kvp in CONVERSATIONS)
