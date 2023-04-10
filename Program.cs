@@ -10,7 +10,8 @@ namespace OpenAiFineTuning
     {
         public static void Main(string[] args)
         {
-            Download();
+            Speech[][] scripts = GetAllScripts();
+            Console.WriteLine(scripts.Length.ToString());
         }
     
         public static void Download()
@@ -92,6 +93,33 @@ namespace OpenAiFineTuning
             twt.Close();
             Console.WriteLine("Wrote to");
             Console.WriteLine(path);
+        }
+    
+        private static Speech[][] GetAllScripts(string top_dir = @"C:\Users\timh\Downloads\tah\openai-fine-tuning\gilligans_island_scripts")
+        {
+            List<Speech[]> ToReturn = new List<Speech[]>();
+
+            //Get files
+            string[] files = System.IO.Directory.GetFiles(top_dir);
+            foreach (string file in files)
+            {
+                string content = System.IO.File.ReadAllText(file);
+                Speech[]? scr = Newtonsoft.Json.JsonConvert.DeserializeObject<Speech[]>(content);
+                if (scr != null)
+                {
+                    ToReturn.Add(scr);
+                }
+            }
+
+            //Get directories
+            string[] dirs = System.IO.Directory.GetDirectories(top_dir);
+            foreach (string dir in dirs)
+            {
+                Speech[][] from_dir = GetAllScripts(dir);
+                ToReturn.AddRange(from_dir);
+            }
+
+            return ToReturn.ToArray();
         }
     }
 }
