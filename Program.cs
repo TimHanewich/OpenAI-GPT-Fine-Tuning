@@ -14,6 +14,11 @@ namespace OpenAiFineTuning
         public static void Main(string[] args)
         {
 
+            
+        }
+    
+        public static void AssembleConversationsFromSmsTexts()
+        {
             //SETTINGS
             string sms_xml = @"C:\Users\timh\Downloads\tah\SMS backup\20190508\Samsung Galaxy S5 Texts Backup 5-8-2019.xml";
             string conversations_dir = @"C:\Users\timh\Downloads\tah\openai-fine-tuning\conversations";
@@ -178,10 +183,8 @@ namespace OpenAiFineTuning
                 sw.Close();
                 fs.Close();
             }
-
-            
         }
-    
+
         public static void Download()
         {
             string url = "http://www.gilligansisle.com/scripts/script98.html";
@@ -289,5 +292,7 @@ namespace OpenAiFineTuning
 
             return ToReturn.ToArray();
         }
+    
+    
     }
 }
