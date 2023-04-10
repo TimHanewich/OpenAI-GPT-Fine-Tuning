@@ -14,9 +14,26 @@ namespace OpenAiFineTuning
         public static void Main(string[] args)
         {
 
+            //SETTINGS
+            string conversations_dir = @"C:\Users\timh\Downloads\tah\openai-fine-tuning\conversations";
+
             //The end product
             Dictionary<string, List<Message>> CONVERSATIONS = new Dictionary<string, List<Message>>();
 
+            //Read if there are any
+            string[] files = System.IO.Directory.GetFiles(conversations_dir);
+            foreach (string file in files)
+            {
+                string file_name = System.IO.Path.GetFileNameWithoutExtension(file);
+                string content = System.IO.File.ReadAllText(file);
+                List<Message>? msgs = JsonConvert.DeserializeObject<List<Message>>(content);
+                if (msgs != null)
+                {
+                    CONVERSATIONS.Add(file_name, msgs);
+                }
+            }
+
+            //Read from the target
             Stream s = System.IO.File.OpenRead(@"C:\Users\timh\Downloads\tah\SMS backup\20220204\sms-20220204114755.xml");
             StreamReader sr = new StreamReader(s);
             while (true)
@@ -104,11 +121,16 @@ namespace OpenAiFineTuning
                 }
             }
 
+            //Delete all contents of a folder
+
             //Write
-            string conversations_dir = @"C:\Users\timh\Downloads\tah\openai-fine-tuning\conversations";
             foreach (KeyValuePair<string, List<Message>> kvp in CONVERSATIONS)
             {
                 string path = Path.Combine(conversations_dir, kvp.Key + ".json");
+                if (System.IO.File.Exists(path))
+                {
+                    System.IO.File.Delete(path);
+                }
                 FileStream fs = System.IO.File.Create(path);
                 StreamWriter sw = new StreamWriter(fs);
                 sw.Write(JsonConvert.SerializeObject(kvp.Value, Newtonsoft.Json.Formatting.Indented));
