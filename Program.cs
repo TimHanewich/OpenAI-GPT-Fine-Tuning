@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Newtonsoft.Json;
 using System.Net;
 using System.Net.Http;
+using Newtonsoft.Json.Linq;
 
 namespace OpenAiFineTuning
 {
@@ -10,6 +11,10 @@ namespace OpenAiFineTuning
     {
         public static void Main(string[] args)
         {
+
+            JArray ja = new JArray();
+
+            //Collect
             Speech[][] scripts = GetAllScripts();
             foreach (Speech[] script in scripts)
             {
@@ -26,14 +31,12 @@ namespace OpenAiFineTuning
                             {
 
 
-                                if (prompt.Dialog.Contains("?"))
-                                {
-                                    Console.WriteLine(prompt.Character + ": " + prompt.Dialog.Trim());
-                                    Console.WriteLine();
-                                    Console.WriteLine(s.Character + ": " + s.Dialog.Trim());
-                                    Console.ReadLine();
-                                    Console.Clear();
-                                }
+                                string _prompt = "Gilligan! " + prompt.Dialog.Trim();
+                                string _completion = s.Dialog.Trim();
+                                JObject jo = new JObject();
+                                jo.Add("prompt", _prompt);
+                                jo.Add("completion", _completion);
+                                ja.Add(jo);
                                 
                             }
                         }
@@ -41,6 +44,16 @@ namespace OpenAiFineTuning
                     prompt = s;
                 }
             }
+        
+            //Write to file
+            FileStream fs = System.IO.File.OpenWrite(@"C:\Users\timh\Downloads\tah\openai-fine-tuning\training.jsonl");
+            StreamWriter sw = new StreamWriter(fs);
+            foreach (JObject jo in ja)
+            {
+                sw.WriteLine(jo.ToString(Formatting.None));
+            }
+            sw.Close();
+            fs.Close();
         }
     
         public static void Download()
