@@ -10,6 +10,11 @@ namespace OpenAiFineTuning
     {
         public static void Main(string[] args)
         {
+            Download();
+        }
+    
+        public static void Download()
+        {
             string url = "http://www.gilligansisle.com/scripts/script98.html";
 
             //Get data
