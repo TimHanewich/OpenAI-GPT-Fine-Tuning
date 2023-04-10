@@ -15,7 +15,7 @@ namespace OpenAiFineTuning
         {
 
             //SETTINGS
-            string sms_xml = @"C:\Users\timh\Downloads\tah\SMS backup\20220204\sms-20220204114755.xml";
+            string sms_xml = @"C:\Users\timh\Downloads\tah\SMS backup\20190508\Samsung Galaxy S5 Texts Backup 5-8-2019.xml";
             string conversations_dir = @"C:\Users\timh\Downloads\tah\openai-fine-tuning\conversations";
 
             //The end product
@@ -42,89 +42,96 @@ namespace OpenAiFineTuning
             StreamReader sr = new StreamReader(s);
             while (true)
             {
-                string? line = sr.ReadLine();
-                if (line != null)
+                try
                 {
-                    if (line.Trim().StartsWith("<sms "))
+                    string? line = sr.ReadLine();
+                    if (line != null)
                     {
-                        Console.WriteLine("Parsing SMS # " + on_number.ToString("#,##0") + "... ");
-                        on_number = on_number + 1;
-
-                        XElement x = XElement.Parse(line);
-
-                        //Values we will extract
-                        string body = "";
-                        string with_number = "";
-                        int speaker = -1; //0 = somebody else, 1 = tim
-                        DateTimeOffset date = new DateTime();
-
-                        //Get the body
-                        XAttribute? xbody = x.Attribute("body");
-                        if (xbody != null)
+                        if (line.Trim().StartsWith("<sms "))
                         {
-                            body = xbody.Value;
-                        }
+                            Console.WriteLine("Parsing SMS # " + on_number.ToString("#,##0") + "... ");
+                            on_number = on_number + 1;
 
-                        //Get the with number (address)
-                        XAttribute? xwith = x.Attribute("address");
-                        if (xwith != null)
-                        {
-                            with_number = xwith.Value.Replace(" ", "").Replace("-", "").Replace("+", "").Replace("(", "").Replace(")", "");
-                        }
+                            XElement x = XElement.Parse(line);
 
-                        //Speaker
-                        XAttribute? xtype = x.Attribute("type");
-                        if (xtype != null)
-                        {
-                            if (xtype.Value == "1") //This was a text message I received.
+                            //Values we will extract
+                            string body = "";
+                            string with_number = "";
+                            int speaker = -1; //0 = somebody else, 1 = tim
+                            DateTimeOffset date = new DateTime();
+
+                            //Get the body
+                            XAttribute? xbody = x.Attribute("body");
+                            if (xbody != null)
                             {
-                                speaker = 0;
+                                body = xbody.Value;
                             }
-                            else if (xtype.Value == "2") //This ws a text message I sent.
+
+                            //Get the with number (address)
+                            XAttribute? xwith = x.Attribute("address");
+                            if (xwith != null)
                             {
-                                speaker = 1;
+                                with_number = xwith.Value.Replace(" ", "").Replace("-", "").Replace("+", "").Replace("(", "").Replace(")", "");
                             }
-                        }
-                    
 
-                        //Date
-                        XAttribute? xdate = x.Attribute("date");
-                        if (xdate != null)
-                        {
-                            date = DateTimeOffset.FromUnixTimeMilliseconds(Convert.ToInt64(xdate.Value));
-                        }
-
-                        //Construct
-                        Message m = new Message();
-                        m.speaker = speaker;
-                        m.body = body;
-                        m.date = date.DateTime;
-
-
-                        //Add
-                        bool added = false;
-                        foreach (KeyValuePair<string, List<Message>> kvp in CONVERSATIONS)
-                        {
-                            if (added == false)
+                            //Speaker
+                            XAttribute? xtype = x.Attribute("type");
+                            if (xtype != null)
                             {
-                                if (kvp.Key == with_number)
+                                if (xtype.Value == "1") //This was a text message I received.
                                 {
-                                    kvp.Value.Add(m);
-                                    added = true;
+                                    speaker = 0;
+                                }
+                                else if (xtype.Value == "2") //This ws a text message I sent.
+                                {
+                                    speaker = 1;
                                 }
                             }
+                        
+
+                            //Date
+                            XAttribute? xdate = x.Attribute("date");
+                            if (xdate != null)
+                            {
+                                date = DateTimeOffset.FromUnixTimeMilliseconds(Convert.ToInt64(xdate.Value));
+                            }
+
+                            //Construct
+                            Message m = new Message();
+                            m.speaker = speaker;
+                            m.body = body;
+                            m.date = date.DateTime;
+
+
+                            //Add
+                            bool added = false;
+                            foreach (KeyValuePair<string, List<Message>> kvp in CONVERSATIONS)
+                            {
+                                if (added == false)
+                                {
+                                    if (kvp.Key == with_number)
+                                    {
+                                        kvp.Value.Add(m);
+                                        added = true;
+                                    }
+                                }
+                            }
+                            if (added == false)
+                            {
+                                CONVERSATIONS.Add(with_number, new List<Message>(){m});
+                            }
+                        
+                        
                         }
-                        if (added == false)
-                        {
-                            CONVERSATIONS.Add(with_number, new List<Message>(){m});
-                        }
-                    
-                    
+                    }
+                    else
+                    {
+                        break;
                     }
                 }
-                else
+                catch (Exception ex)
                 {
-                    break;
+                    Console.WriteLine("FAILURE! " + ex.Message);
                 }
             }
 

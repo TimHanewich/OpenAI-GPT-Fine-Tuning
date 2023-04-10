@@ -30,3 +30,9 @@ Each JSON file in the `conversations` folder contains the conversation like this
 ]
 ```
 - `speaker` 0 is the person speaking with Tim, `speaker` 1 is Tim's response.
+
+## To Do
+- "C:\Users\timh\Downloads\tah\SMS backup\20220204\sms-20220204114755.xml"
+- "C:\Users\timh\Downloads\tah\SMS backup\20220111\sms-20220111123522.xml"
+- "C:\Users\timh\Downloads\tah\SMS backup\20220304\sms-20220304151131.xml"
+- "C:\Users\timh\Downloads\tah\SMS backup\20220310\sms-20220310151434.xml"
