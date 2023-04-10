@@ -4,6 +4,8 @@ using Newtonsoft.Json;
 using System.Net;
 using System.Net.Http;
 using Newtonsoft.Json.Linq;
+using System.Xml;
+using System.Xml.Linq;
 
 namespace OpenAiFineTuning
 {
@@ -12,48 +14,100 @@ namespace OpenAiFineTuning
         public static void Main(string[] args)
         {
 
-            JArray ja = new JArray();
+            //The end product
+            Dictionary<string, List<Message>> CONVERSATIONS = new Dictionary<string, List<Message>>();
 
-            //Collect
-            Speech[][] scripts = GetAllScripts();
-            foreach (Speech[] script in scripts)
+            Stream s = System.IO.File.OpenRead(@"C:\Users\timh\Downloads\tah\SMS backup\20220204\sms-20220204114755.xml");
+            StreamReader sr = new StreamReader(s);
+            while (true)
             {
-
-                Speech? prompt = null;
-
-                foreach (Speech s in script)
+                string? line = sr.ReadLine();
+                if (line != null)
                 {
-                    if (s.Character == "gilligan")
+                    if (line.Trim().StartsWith("<sms "))
                     {
-                        if (prompt != null)
+                        XElement x = XElement.Parse(line);
+
+                        //Values we will extract
+                        string body = "";
+                        string with_number = "";
+                        int speaker = -1; //0 = somebody else, 1 = tim
+
+                        //Get the body
+                        XAttribute? xbody = x.Attribute("body");
+                        if (xbody != null)
                         {
-                            if (prompt.Character != "gilligan")
+                            body = xbody.Value;
+                        }
+
+                        //Get the with number (address)
+                        XAttribute? xwith = x.Attribute("address");
+                        if (xwith != null)
+                        {
+                            with_number = xwith.Value.Replace(" ", "").Replace("-", "").Replace("+", "").Replace("(", "").Replace(")", "");
+                        }
+
+                        //Speaker
+                        XAttribute? xtype = x.Attribute("type");
+                        if (xtype != null)
+                        {
+                            if (xtype.Value == "1") //This was a text message I received.
                             {
-
-
-                                string _prompt = "Gilligan! " + prompt.Dialog.Trim();
-                                string _completion = s.Dialog.Trim();
-                                JObject jo = new JObject();
-                                jo.Add("prompt", _prompt);
-                                jo.Add("completion", _completion);
-                                ja.Add(jo);
-                                
+                                speaker = 0;
+                            }
+                            else if (xtype.Value == "2") //This ws a text message I sent.
+                            {
+                                speaker = 1;
                             }
                         }
+                    
+
+                        //Construct
+                        Message m = new Message();
+                        m.speaker = speaker;
+                        m.body = body;
+
+
+                        //Add
+                        bool added = false;
+                        foreach (KeyValuePair<string, List<Message>> kvp in CONVERSATIONS)
+                        {
+                            if (added == false)
+                            {
+                                if (kvp.Key == with_number)
+                                {
+                                    kvp.Value.Add(m);
+                                    added = true;
+                                }
+                            }
+                        }
+                        if (added == false)
+                        {
+                            CONVERSATIONS.Add(with_number, new List<Message>(){m});
+                        }
+                    
+                    
                     }
-                    prompt = s;
+                }
+                else
+                {
+                    break;
                 }
             }
-        
-            //Write to file
-            FileStream fs = System.IO.File.OpenWrite(@"C:\Users\timh\Downloads\tah\openai-fine-tuning\training.jsonl");
-            StreamWriter sw = new StreamWriter(fs);
-            foreach (JObject jo in ja)
+
+            //Write
+            string conversations_dir = @"C:\Users\timh\Downloads\tah\openai-fine-tuning\conversations";
+            foreach (KeyValuePair<string, List<Message>> kvp in CONVERSATIONS)
             {
-                sw.WriteLine(jo.ToString(Formatting.None));
+                string path = Path.Combine(conversations_dir, kvp.Key + ".json");
+                FileStream fs = System.IO.File.Create(path);
+                StreamWriter sw = new StreamWriter(fs);
+                sw.Write(JsonConvert.SerializeObject(kvp.Value, Newtonsoft.Json.Formatting.Indented));
+                sw.Close();
+                fs.Close();
             }
-            sw.Close();
-            fs.Close();
+
+            
         }
     
         public static void Download()
