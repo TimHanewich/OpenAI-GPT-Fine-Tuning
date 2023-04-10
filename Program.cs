@@ -132,6 +132,8 @@ namespace OpenAiFineTuning
             Dictionary<string, List<Message>> CONVERSATIONS_SORTED = new Dictionary<string, List<Message>>();
             foreach (KeyValuePair<string, List<Message>> kvp in CONVERSATIONS)
             {
+                Console.WriteLine("Sorting '" + kvp.Key + "'");
+
                 //Resort messages
                 List<Message> sorted = new List<Message>();
                 while (kvp.Value.Count > 0)
