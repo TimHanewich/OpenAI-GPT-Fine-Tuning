@@ -15,6 +15,7 @@ namespace OpenAiFineTuning
         {
 
             //SETTINGS
+            string sms_xml = @"C:\Users\timh\Downloads\tah\SMS backup\20220204\sms-20220204114755.xml";
             string conversations_dir = @"C:\Users\timh\Downloads\tah\openai-fine-tuning\conversations";
 
             //The end product
@@ -34,7 +35,7 @@ namespace OpenAiFineTuning
             }
 
             //Read from the target
-            Stream s = System.IO.File.OpenRead(@"C:\Users\timh\Downloads\tah\SMS backup\20220204\sms-20220204114755.xml");
+            Stream s = System.IO.File.OpenRead(sms_xml);
             StreamReader sr = new StreamReader(s);
             while (true)
             {
