@@ -1,0 +1,1590 @@
+[
+    {
+        "Character": "skipper",
+        "Dialog": " There's the plane! Ah ha! The plane!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yeah let me see let me see!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yeah it is a plane! Oh oh! It's Wrong Way Feldman! He's come... "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " ...Baaaaaack!"
+    },
+    {
+        "Character": "all",
+        "Dialog": " Hey Wrong Way! It's good to see you! Oh Wrong Way!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's good to see ya!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Awe tha...thanks professor thanks!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Girls why don't ya fix Wrong Way something to eat."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " OK"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Alright!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " What about help!? Are they going to send a boat out after us!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " You wouldn't believe what a trip I had. I liked to crash! I was attacked by a giant Eagle! "
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " An Eagle, Oh how dreadful!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Yeah, I almost shot it down till I saw it was one of ours! American!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Alright alright Wrong Way but, what about the rescue!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Oh boy I had some trouble! It took me almost two months to get this plane off the ground! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Two months?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Yeah it was in the cellar of a museum! I had a devil of a time getting it through the door! Th...the stairs were alright but the door was so narrow!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Wrong Way are they going to send a boat after us?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " So we can be rescued!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Di...did you notify any authorities?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Certainly not! What in the world would I do a thing like that for?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " So we can get off the island!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " And leave this paradise?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You mean to say that, nobody knows that you're here!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Ah to tell the truth, I don't where I am."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Then we're not going to be rescued?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Course not. And you can be sure that nobody followed me either. I...I flew with my light off."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Wa...wa...tell me eh, why did you come back here?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " To get away from that horrid thing that you call civilization. Oh you can have the modern world. Rush rush rush, push push push! I don't want no part of it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But we want to go home!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " My boy. (pause) This is your home. (pause) And it's going to be mine. For the rest of my life."
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act one",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Be reasonable Wrong Way you've got to go back and get help!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " I am not leaving this here island, we are better off here!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But Wrong Way we're home sick we miss the states."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " What's there to miss? All that hustle and bustle? Th...the trains, the subways, the whistles, the noise, no privacy ho ho, this is the life! Earth trees grass nature!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Bu...but when we get back you can go live in Yellow stone park!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " I tried that already. Even the bears are civilized! Th...they wear boy scout uniforms, put out fires!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Wrong Way we want to go back. Won't you think about it?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " There is nothing to think about!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh but you don't want to eat Pineapples and coconuts for the rest of your life!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Awe it's better than what I et in New York! Oh ho, what a restaurant that was! They couldn't even get a simple little ole order straight! All I asked for was a plain T-bone steak! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Steak?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Yeah, a T-bone. And what did they bring me? A Filet, that thick!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That thick!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " I...I like mine well done you see, a...and this was all red and juicy inside ah...so I sent it back, and they brung me anuder, so this was well done alright but they put on a lot a, mushrooms and that b...arnaise sauce. (pause) And I couldn't even get the, waitresses eye sh...she was busy with some glutton. With a custard and whip cream, sick!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That thick?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " All that pushin shovin I don't know what...what you want to go back there for?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wrong Way?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Yeh?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Tell me about that steak again?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": "        (WHISPERING) Thruston I don't think we should."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": "       (WHISPERING) There's nothing wrong with the old fashioned bribe. It's the only way I can get this flying pig head to take us back to the states!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": "       (WHISPERING) But I don't think it's going to work, he's terribly honest."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": "       (WHISPERING) Every man has his price, now if he rescues us I'll...I'll promise him one of our oil wells."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": "        (WHISPERING) Thurston you mean you'd give him one of our oil wells!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": "      (WHISPERING) I didn't say give I said promise to! There's a difference. Don't worry about the old wolf of wall street."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": "       (WHISPERING) Good luck darling."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": "       (WHISPERING) You know me I'll handle him!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I understand that your ah really serious about not going back."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " I'm sorry Howell it's something you wouldn't know nothin about. It does not concern money."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No no no you miss judge me! Since I've been on this island I've been doing a lot of thinking. I don't even think about money anymore. "
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Why have we gone off the gold standard?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No I know your laughing at me, I agree with you completely I think the world is in a terrible mess, and I don't want to leave either."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Ah you must be kindin!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No no no no I mean it mean it."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Why it's a good thing your not over there now with all that spendin that buildin."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Must be terrible."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Oh with all the money wasted on the factories buildins high rise apartments."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Awful awful."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " And the RENTS! The land lords just rackin it in!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ghastly!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " And those flimsy new apartments in New York, so expensive."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I know I know I own one."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Oh yes I...I was...ah...ah surprised to find out that your rents are the lowest in that whole area!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Me? I have the lowest rents."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Yeah, you will be happy to know that your building is the only one still under rent control! Leave the others make the money you have the peace of mind! I tell ya you couldn't stand it if you was there right now. Why the stock markets gone crazy! People are making money hand over fist. Land values are soarin, an...and the new tax cut. And the bank Money money money!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " STOP!!! Have you no mercy?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " ...And the musicals is even worse than the dramas. Now I seen seven of them back in New York and there was only one that was any good. Uh it had this young girl in it, uh about your age."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Yeah!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Matter of fact she even looked like you, maybe you know her, uh Debbie Dawson?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "       (EXCITEDLY) Well she was my room mate!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " She's the toast of Broadway! I met her back stage. Poor girl, with the reporters and the photographers."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I could've had that part if I was there."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Awe your lucky ya didn't. Poor kid, all the time no time for herself, rushin around with the movie offers and the publicity stills and the interviews, what kind of life is that for a young girl?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Oh yeah...ye...that's alright honey, you...you have a good cry. I feel the same way about poor Debbie. Facin a life like that."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well I tried talking to him too. But he's determined to stay here."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " One things for sure he hasn't been good on the morale around here! Ginger hasn't stopped crying and Mr. Howell's threatening to jump off his steamer trunk!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Wait a minute! I could fly that plane, Wrong Way taught me how remember!? It's ignition, contact, choke, throttle stick, flaps!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Say that's worth a try!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Or is it flaps, choke, throttle, stick contact?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh never mind Gilligan you couldn't make it to the cockpit!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " If there was only some reason Wrong Way had to go back."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes a real GOOD reason like an emergency or something! Hey that's it! A doctor! Wa...when I was in the Navy we had to send all the way back to port for a doctor!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Maybe you've got something there!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I could pretend I was sick! SKIPPER Gilligan you won't have to pretend cause you'll just mess it up! I'll take care of this! You find Wrong Way while I get set!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh! Oh!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " There he is! Something's wrong with him!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Oh where does it hurt!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Right here Wrong Way! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Op...ep...ep...oh!!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " I think it might be your appendix. Either that or you been eatin those wild radishes again."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I think it's my appendix Wrong Way."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He needs a doctor!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Your right he needs an operation immediately!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " We'll have to go back and get a doctor."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Ah not necessary I'll do it myself!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You can take out an appendix!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Course! Under battlefield conditions. I done it for my old friend Buckey Lorenzo!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Bu...but I think I need a doctor!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Funny, that's what Buckey said too! But it come out beautifully! Of course I did make the incision a little too long. But that didn't bother old Buckey! He.he just wore his bathin suit a little higher after that!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh I...I feel great! Ya...you won't have to operate after all!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " You all say that, ya...hold him down Gilligan."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What are you doing Gilligan!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Don't worry skipper you'll be alright just take it easy."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You idiot there's nothing wrong with me!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yeah I forgot. I've got to get you out of here."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Alright Gilligan I'll be back in a minute I gotta berl these instruments."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh but how can you operate, you don't have any anesthetic?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Oh I'll do the same thing for him I done for old Buckey. Hit him behind the ear with a monkey wrench."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh but Wrong Way you won't have to, see I...I...I feel great! I....look I'm dancing!!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Delirious already!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well I want to tell you I can run too! See!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Well I guess now's the time!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Maybe it was the wild radishes after all."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " How do you feel?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Fine!! Fine!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Make this look good Gilligan, it might be our last chance."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll do my best."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Remember the symptoms. You got to make him think that you got Bola Bola fever."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Dry mouth."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Stomach ache."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Dizziness."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ringing ears"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Sore head."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh Yeah. I hope I look bad enough."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Don't worry Gilligan just be yourself."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": "       (OFF SCREEN) Mary Ann!! "
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Mary Ann! (pause) You got any of that fried coconut left?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Get going."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Ah...oh Gilligan. What is it!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh I feel terrible!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Wha...wha...wha...what's wrong!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh...oh I got a dry mouth..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " ...ahhhhh stomach ache dizziness ringing ears and a sore head yeah that's it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan! Little buddy! You look awful what's the matter!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I got a dry mouth..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " ...You know!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " I seen him staggering along I don't know."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wha...wha...what do you think Wrong Way!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Ah...ah...ah could be ah jungle fever, then again..."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " ...does it hurt here?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ooo ooo ooo yeah! Ooo yeah!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " I mean really hurt?"
+    },
+    {
+        "Character": "gillgian",
+        "Dialog": ""
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " I don't believe it I don't believe it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Fever!? "
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " No no it's another appendicitis you better get my monkey wrench!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh no! I think your wrong Wrong Way "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " He...he's hot!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh I'm burning up! I'm on fire I'm on fire!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Bola Bola fever!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " I...I thought it was Bola Bola fever but he don't have all the symptoms!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " He doesn't!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " No no...no!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What are some of the other ones!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Well, fainting spells for..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It's serious Wrong Way!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " No it's not as serious, it's probably just a, twenty four hour Bola Bola."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well how do you know!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Because with a serious Bola Bola you get nose bleeds!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We'll be right back!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " No...no...no that's tropical Bola Bola fever! No with the Bola Bola you just have the fainting!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " He's getting worse! He needs help!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Your right, maybe the professor can fix him up huh!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wrong Way he needs a doctor!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Wa... that would mean goin back to Hawaia. I'll have to think that over. Goin back to Hawaia?"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act two",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper, if I see Wrong Way, do I have to faint again?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No you did it enough yesterday. We haven't convinced him by now it's just no use."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Good I hate to faint, it hurts when you hit the ground."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Good morning!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well there's not much..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Good morning."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh good morning Mary Ann."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Where's Wrong Way? Isn't he having breakfast?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He's probably asleep."
+    },
+    {
+        "Character": "may ann",
+        "Dialog": " Oh no he isn't I went down to wake him and he wasn't there!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well maybe he's down at the Lagoon!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh, ok, your coffee will be ready in a minute. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": ""
+    },
+    {
+        "Character": "hey!",
+        "Dialog": ""
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan! Everybody he's gone!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Who's gone!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Wrong Way! He's gone to get help!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh it worked it worked!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Wha...wha...what's all this excitement!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " It's Wrong Way, I found this note at the clearing!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes well read it."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Listen. BEING A MAN OF CONSCIENCE AND PRINCIPLE, I FOUND MYSELF FACED WITH A DIFFICULT..."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Never mind the memoirs, get to the important part!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Aaaah...AND SO, AND SO I DECIDED THAT GILLIGAN'S LIFE IS MORE IMPORTANT THAN MY SELFISH NEEDS. THUS I HAVE GONE TO THE MAIN LAND. IT'S A FAR FAR BETTER THING I DO. BE RIGHT BACK!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Ooooh! Thurston we're going to be rescued!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes, unless he's gone the wrong way again!  It is a possibility!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": "      (DEPRESSINGLY) I wonder what's taking him so long!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Hope he can find Hawaii."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I wonder if they'll send a boat or a plane."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Where he landed they'll probably send a kayak."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You know the first thing I do when I get back is I'm going to have a thick juicy steak!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Gee I can hardly wait to see my mother I've never been gone this long without calling her."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Me too."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I can't wait to see my name up in lights. Ginger Googenhiemer."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Isn't your name Ginger Grant?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Yeah but if my names going to be in lights, I want as many lights as I can get."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh...I think I'll have a nice ice cold beer too!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I just want to sleep in a nice soft bed. What are you going to do Mr. Howell?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Double the rent!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Awe Thurston!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Is that wrong Lovey?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well of course it is! Triple the rent!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " A plane!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I think I see Wrong Way's plane!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Lets go towards the clearing!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey Wrong Way! You made it back!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Mission accomplished!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Awe you did it Wrong Way you did it!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Oh please...please. Ah bein a man of conscience and principle, I found myself faced..."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " What is that your graduation speech! We've heard that before!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Well here you are Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What is it?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " The Bola Bola serum."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well what about a doctor isn't someone following you?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Certainly not! I had a heck of a time gettin that without bein noticed!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You mean you didn't contact anyone!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " And give up our privacy!? Your lucky nobody seen me leave! I had to take off behind a pack of pelicans!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " You mean nobody knows we're here!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Not from me!!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Oh...fainted huh? "
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Ahhhh...it's a good thing I got back in time, looks like an epidemic!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " See anything professor?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " No not yet."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We should keep looking. Somebody might have followed him."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here I'll take over for a while."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Boy I was sure Wrong Way was going to come back with a doctor."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " In our state of mind he should have brought back a psychiatrist!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey there's Wrong Way!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wonderful."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He's leaning up against a tree."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well I guess he's got what he wants."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Peace and serenity. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oooo what I wouldn't give for a little NOISE!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Me too. I miss all the shoving and shouting and pushing."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I could use a little of that myself. Saturday night at the library. The hustle and the bustle at the reference desk."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Give Wrong Way a little hustle bustle. Shake him up a bit!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Say what if we did give Wrong Way a little hustle bustle?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He'd get so mad he'd leave the island!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's IT! We'll give him exactly what he's been complaining about! We'll make this island twice as bad as civilization!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " He'll sure be glad to get out of here!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " RIGHT!!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " What's goin on here!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well everybody up, it's time to work!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " WORK!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well certainly, didn't you know? We're trying to build a city!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " A city?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Sure, just like back home."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah we got to get civilized."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Ah...fine, you'z fellas get civilized I'm goin back to bed."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Just a minute Wrong Way not so fast!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now you take this sledge and get over there and start driving those stakes in."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Why me!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Everyone does his part!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Wha...wha...What's your part!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " My part is to see that you do your part, I'm the foreman now start driving that stake in the ground! "
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " You better hurry up with the clay. The professor's waiting to bake the bricks."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Ah this is the first time I ever been in a six day clay race."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " What's that?"
+    },
+    {
+        "Character": "inger",
+        "Dialog": " Coffee break."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Thank goodness."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Hey don't stop! The clay is hardening!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " How am I gonna drink my coffee!?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I'll get it for you. Don't slow down, the clay'll harden."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Here you are."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " That's awful!! What is that!?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " It's coffee!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " It's coffee!!?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh we make it from fish! I mean the instant's not as good as the regular but...here."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " No I don't want anymore!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " SKIPPER! He's ready!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " A little cream cheese on a roll? A prune Danish?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well come on don't stop pumping wrong Way there's lots more clay where this came from!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Pump, that's it pump!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " OK Wrong Way, you work here for a while on the freeway."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Freewa...What do we need a freeway for we...we don't even have one single car!!?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well we can't let everything go to the last minute!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mr. Howell is in charge see you later!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh ah you're the new man Aye?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Oh I ain't never done this kind of work before."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " You'll adore it!! Getting down to mother earth! There's nothing like the feeling of dirt against your opera gloves!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " FREEWAY!!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well how else are we going to get down to the new music center!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah not to mention the art museum and the city hall, you see it's part of our slum clearance project!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Ooooo darling how marvelous! We haven't even finished the freeway and we've had our first accident!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": "      (TO WRONG WAY) Just don't stand there get to work!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " An Axe!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes you have to work over here you see, and when you finished chopping that tree down (pause) there's fifteen more just like it over there!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well how'd it go Wrong Way are you finished?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Just about. What's for supper?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Soup and salad, fish oh yes and uh, Ginger made one of her delicious deserts."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Oh great cause I'm almost starved!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Awe, to bad you missed it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Tired huh Wrong Way?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " What ever gave you that idea."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ah that's one thing that's so nice about the islands. Peace and quiet. No traffic noises to wake you up. No noisy neighbors."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Wha...can't you two shut up and get a little sleep!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Good night Wrong Way."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Ah yeah."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Good night Wrong Way."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I said good night!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Good night already!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper, do you mind if I read?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No not at all."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " How about you Wrong Way?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " no no"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Hey what is this a hut or a light house!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't want to hurt my eyes."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Let's see. Reggy stood at the door way, his finger on the trigger of a snub nose thirty eight. His eyes were transfixed...(pause) Hey skipper? What does this mean here?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Where?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Do you mind!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'm not sure Gilligan."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Please, I gotta get some sleep!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Alright Gilligan, turn off the light."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " What is it an Earth quake!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No it's an apple, do you want one?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " No."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh hey you got any carrots over there?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No, I got some celery."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh good."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Couldn't you eat a nice quiet banana? Get some SLEEP!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Wrong Way? You can sleep late tomorrow morning."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " I can!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Sure tomorrow's Saturday."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Oh that's wonderful! Wonderful! Tha...thank you skipper! Thank you! It's wonderful I can sleep! I can sleep!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What's the matter?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " I'm too excited, I can't sleep!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Where is he now?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well he's probably down at the lagoon, I haven't let him wash in three days."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well I HOPE he's down there!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He better break pretty soon or we will."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I can't work anymore, I've got to get excused tomorrow. I...I promise Lovey will give me a note."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well we got to keep this up, even at our own expense."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Isn't that Wrong Way's plane?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes it must be!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Come ON!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lovey, run...run!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Happy FLIGHT!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well, there he goes!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " This time I hope he tells somebody!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Why shouldn't he? No reason to keep it a secret. We don't have a paradise anymore!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well even if he doesn't tell anyone we'll still be rescued!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " We will?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sure, the skipper loaded that plane with maps and notes, somebody's bound to find'em!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I didn't think we were ever going to get off this island but, this time it's in the bag! Even Wrong Way can't mess it up!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh it's too good to be true!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Imagine we're really going home!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh that crazy wonderful fool, I'll give him that oil well even if it is a dry one!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Good luck Wrong Way!!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Anybody want anything to eat?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh we should have heard something by now he's been gone three days."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well I'm afraid there's always the possibility he could have crashed."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes I thought about that but I was afraid to say anything."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh no he couldn't have!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well don't worry dear, he's probably covered!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well...I'm sure at least he tried."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh yes, we have to give him credit for trying."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey skipper! Skipper skipper! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What is it!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "     (OVERY EXCITED) A note, there's a note from Wrong Way!! In a bottle! I found it down there at the beach!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Let me see that!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I CHARTED MY COURSE FOR HONOLULU BUT ODDLY ENOUGH I LOST MY BEARINGS WHEN I FLEW INTO THE EYE OF A VIOLENT CLOUD."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " SOMEHOW I LANDED ON A BEAUTIFUL TROPICAL ISLAND AND HAVE FINALLY FOUND THE PARADISE I WAS LOOKING FOR. ALTHOUGH I'M PROBABLY NOT AS HAPPY AS YOU ARE, IT'S GOOD ENOUGH FOR ME. MAYBE NEXT TIME I'LL MAKE IT TO HONOLULU."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " BEST WISHES W. W. FELDMAN Well that's it! He left us high and dry!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper? We got more trouble."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wha...what!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It says, RETURN THE EMPTY."
+    }
+]

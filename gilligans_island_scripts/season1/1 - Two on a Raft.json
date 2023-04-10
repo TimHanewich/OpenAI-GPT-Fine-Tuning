@@ -1,0 +1,1418 @@
+[
+    {
+        "Character": "skipper",
+        "Dialog": " Hey Gilligan. (pause) Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh my gosh! Man overboard!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll save you skipper!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, the Minnow's been beached!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Beached!? When the storm was over and it was calm you said we'd be home in no time!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It may take longer."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But when the passengers wake up and want to get off at the marina, what are gonna tell'em?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'll think of something."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " How are we gonna get home!? "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Look at those holes!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No skipper, I'm very happy to be here. I'm so happy I could kiss the ground!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " This island tastes terrible."
+    },
+    {
+        "Character": "radio announcer",
+        "Dialog": " AND THERE IS STILL NO WORD ON THE FATE OF THE PASSENGERS AND CREW WHO WERE ABOARD THE SMALL SIGHT SEEING BOAT THE S. S. MINNOW WHEN SHE SAILED LAST TUESDAY FROM HONOLULU HARBOR FOR A THREE HOUR ISLAND CRUISE. THE CREW CONSISTED OF A YOUNG FIRST MATE NAMED GILLIGAN, HIS SKIPPER JONAS GRUMBY IS AN OLD SALT I THESE WATERS. THE PASSENGER LIST INCLUDED ONE OF THE WORLDS WEALTHIEST MEN, BILLIONAIRE THURSTON HOWELL THE THIRD AND HIS SOCIALLY PROMINENT WIFE, THE INTERNATIONAL HOSTESS, LOVEY HOWELL. ALSO ABOARD THE MISSING BOAT WERE MISS MARY ANN SUMMERS OF WINFIELD KANSAS AND MISS GINGER GRANT OF HOLLYWOOD. MARY ANN SUMMERS AN ATTRACTIVE YOUNG BRUNETTE IS EMPLOYED AT THE WINFIELD GENERAL STORE. GLAMOROUS GINGER GRANT ACCORDING TO FRIENDS, BOARDED THE BOAT AFTER A NIGHT CLUB SINGING ENGAGEMENT STILL WEARING THE EVENING DRESS FROM HER LAST PERFORMANCE. THE FINAL MEMBER OF THE MISSING GROUP WAS PROFESSOR ROY HINKLEY, RESEARCH SCIENTIST AND WELL KNOWN SCOUT MASTER. HOPE FOR THEIR SURVIVAL GROWS DIM. AND NOW THE LATEST FROM WALL STREET, TODAY THE DOW JONES INDUSTRIAL AVERAGE"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Don't shut that off! That's the best part! I mean really!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act one",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper! Hey Skipper! I finished it! I finished it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh that's great! I knew you could do it Gilligan! I'm real proud of my little buddy!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wait a minute. Do you call that finished!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Not the raft, the sign!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's a beauty isn't it!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes Gilligan, but we can't sail a sign. Now start lashing those poles together with that vine!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aye, aye, sir."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper you and Gilligan have got to give up this crazy scheme."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Professor there is nothing crazy about trying to reach civilization in order to bring back help."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " On the type of raft your building it's scientifically impossible, you haven't got a chance."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " We haven't?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Absolutely not."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "        (STERNLY) Gilligan."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " With out the proper materials you can't possible survive the wind the waves the coral reefs, not to mention the sharks."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "        (STERNLY) Gilligan."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " The entire adventure is suicidal."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Get back here!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper, maybe the professor's right. Maybe he got something there. I mean this is a nice little island, why don't we stick around for a little while."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Start tying!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " It's the most wonderful thing I've ever heard of Ginger.  Gilligan and the skipper risking everything! Braving those stormy seas and fighting off the attack of savages!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Reminds me of a trip I once took to Catalina on a movie producers yacht."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi girls! How you coming along with the sail?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Great!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh it's almost finished!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey those look like my socks in there!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " They are!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Thanks for the contribution it's just what we needed to finish the sail."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well, that does it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " OK, I'll take it down to the raft."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Wait!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Huh."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Don't you want to read the sail!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Read the sail?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh it was Gingers idea! Look what she wrote on the front!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sos?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " S   O   S."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yeah I read it upside down."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " On the other side we wanted to write please hurry, but we ran out of socks."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Before you put that shellac on, make sure that mast is secure."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh the mast is strong enough to hold the sail."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, it might have to hold us if we run into a storm out there! Oh never mind I'll check it myself!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Not bad! Not bad at all! Gilligan your doing a"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " goodjob. What are you doing with that?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh the professor made the shellac out of coconut sap and sugar. You want some?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " NO! Now finish up that job!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And stop eating that shellac!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Watch the rope skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "     (SARCASTICALLY) Thanks a lot Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " This'd be great frozen! A shellac-cicle!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Where is the putty the professor made?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh the putty is delicious skipper! He made it out of crushed Mangos and berry seeds Mmmmmmp!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, can I make you understand this! We are not going out there for a joy ride! It might get pretty rough out there!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper!? "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What is it professor?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper look at these I found in one of the caves."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Uh oh! Gilligan do you know what these are?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No, but if they taste as good as the putty I'll have them for desert."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Looks like a native arrow head to me."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Look at this ceremonial mask. It looks very much like the work of the savage Marubi tribe."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh professor we have been all over this island, there are no natives on it! Now what is it your driving at?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " First the Marubi still exist as a tribe. Second they may very well be on one of the nearby islands. Third, you and your raft might land on one of those islands."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Fourth, maybe we shouldn't go."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan it is our duty. When this raft is ready, we are going to shove off."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "      (RELUCTANTLY) Aye, aye, sir."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Professor? Those savage Marubies, what do they do?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " They're collectors Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh that doesn't sound too bad. What do they collect?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Heads."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "     (HIGH PITCHED) Heads?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh skipper. Ahhere's that list of things I want you to do the moment your raft docks."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'll get to 'em just as soon as I can Mr. Howell."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes I think you'll find the list self explanatory. These are the names of the stocks you see. The letter S opposite means sell, B means buy, M means merge and H meanswonder what H means?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " H is for Howell dear, it's your note paper."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah yes yes of course, H that's me! You too."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You folks don't understand. We'll be kept busy when we land just arranging a rescue party."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh, captain, speaking of parties, would you please get in touch with Mrs. Vanhampton? You see Mr. Howell and I promised to attend her party, and we weren't able to, what with getting ship wrecked and everything."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well I'm sorry folks but I can't worry about the stock market and parties. We've got a lot of things to do FIRST!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lovey, there's only one way to protect our interests. I will have to go along on the raft. Ah Gilligan, bring my luggage."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Never mind Gilligan! Just keep loading the supplies on board."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Mr. Howell, you don't know what it's like out there on the ocean. You may be bitten by a shark!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " A shark bite a Howell!? Hehheh he wouldn't dare!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well besides, we haven't got room enough for your luggage!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh well that's different. If I can't go first class, I won't go at all! Come along Lovey. Even tourist is crowded!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well folks, looks like Gilligan and I are ready to shove off!   MARY ANN AND GINGER Wait a minute!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Wait, these are for you! They'll bring you luck!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well how very nice ladies! Just wonderful. Just about all I can say is Aloha Nui Oi. That's Hawaiian for, till we meet again."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I learned a little Hawaiian. When I was singing in a club in Waikiki. Wahni Wiki huki loki nu, and every word of it comes from the bottom of my heart."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Gee that's real nice Ginger. What does it mean?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " This bar is off limits to all military personnel."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well come on Gilligan, it looks like we're ready to shove off! Hoist the anchor, let go of the stern line!"
+    },
+    {
+        "Character": "all",
+        "Dialog": "    (AD LIBBING) Aloha! Good Bye! Bon Voyage!..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Goodbye folks! Row Gilligan! Row!"
+    },
+    {
+        "Character": "all",
+        "Dialog": "    (AD LIBBING) Aloha! Good Bye! Bon Voyage! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Goodbye! Bye! Bye!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan. Gilligan! Did you pull in the anchor!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That would make us go a lot faster."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well go get it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well, bye!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "       (YELLING) Call my agent!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Be careful!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Goodbye!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Bye!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Be careful!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Bye!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Goodbye Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Bye!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston, I do believe Gilligan's gone underwater."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan! (pause) Gilligan!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Good, he's up again."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Take care!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm flipping my lid I tell ya! Everywhere I look, it's water water water!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You stop that Gilligan, that's an order!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well I'm sick of orders! And I'm sick of the sun and the wind and the spray and the salt!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What are you talking about!? We've only been gone twenty minutes!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Gee is that all?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now sit down there and start paddling! Dig in! FAST!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " How do you think they're doing professor?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Awe it's hard to tell, but at least they've had calm seas for the past three days."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Ooooo I hope they'll get through. They've got a good raft, and the skipper's a fine sailor and wellGilligan isoh I hope they'll get through."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No sign of land, sign of ships, no wind, nothing!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey skipper? Let's have breakfast."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We had breakfast."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Let's have lunch."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We had lunch."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Let's have dinner!   SKIPPER AND GILLIGAN We had dinner too."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " By the way, where are those tropical lei's the girls made for us?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I had a snack."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan will you stop talking about food!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " OK skipper. (pause) I wish I had something to drink. Like a hamburger, or French fries."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey, I wished for something to drink and there's a bottle. Maybe it's soda."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Maybe it's a bottle of beer!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " There's something in it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey it's a note."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What is it?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " HELP, WE ARE MAROONED ON A DESERT ISLAND. They spelled marooned wrong."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Let me see that! Gilligan this is the note that you wrote!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yeah, I don't know how to spell marooned."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Errrrgive me that bottle!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We got company!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I sure hope they had three meals today."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Where's that shark repellent? Didn't the professor say he was going to make some?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah, it was delicious."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Gilligan get over there and start paddling!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Keep paddling!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper look!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Don't just stand there, keep paddling!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thought we'd never get away from those sharks!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Thank goodness bamboo is filling."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We haven't got much raft left, but we'll get where we're going. We got a good current behind us."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yep skipper! From here on it looks like smooth sailing!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper, do you think we should abandon ship!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It's too late! It's already abandoned us!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act two",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You all right Gilligan?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh I'm fine skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What's that?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I saved the raft."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Good work Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I wonder where we are."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I don't know, we must have traveled hundreds of miles. (pause) First thing we gotta do is build a fire."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yeah. Right skipper. I've got some matches right here."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All right Gilligan, I'm all set here! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aye, aye, skipper Oooo Ooooo! Take it! Take it! Take it please skipper! Take it! Takeittakeittakeittakeit!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Put it on the fire!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What did you do that for!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It was hot!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Of course it was hot!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " This is certainly better than that open beach out there."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well don't just stand there, bring some wood for the fire."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Professor, Ginger oh, look, oh there's smoke on the other side of the island!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Girls I'm afraid we may be in for some trouble. There's a chance the Marubi may have returned to this island. "
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Those head hunters!? Oh golly professor what do we do!?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " The first thing we ought to do is hide our heads!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I want you girls to gather up some of these Conch shells and meet me at the clearing!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " But but"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " At the clearing! I'm going to warn the Howell's about this!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan look!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey that's pretty good skipper! How did you make the other foot prints!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Those aren't mine!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well they sure aren't mine, I don't have that many feet!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " There are other people on this island."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh great lets go find 'em!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " WAIT!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Huh?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Remember what the professor said about the Marubi headhunters?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Suppose they live on this island?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "       (SLUMPS DOWN) Yeah."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh dash it all Lovey I've free putted again!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well I think your doing very well dear, considering your using a clam shell on a bamboo stick for a putter."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Not to mention an avocado pit for a ball. Here, I'llI'll try it again."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Mr. Howell!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " QUIET please!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " But Mr. Howell!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Shhhhhh professor! Mr. Howell is putting."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I know but I got important news!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Not while I'm putting."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Mr. Howell, I believe the Marubi may be here."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I don't care who's here, they are not playing through!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston, I believe the Marubi are those nasty headhunters the professor told us about."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I think it's advisable we prepare a defense."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well as I always say a good defense is a strong offense. Wipe the buzzards out before they can attack us!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes but how?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Simple! First we blow up their bridge!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Mr. Howell I don't even know if they have a bridge."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Those crafty devils they've out smarted us already. Alright stand back, quiet please."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Professor, oh professor!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " We got the Conch shells!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh good! "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Good! Now these shells will be our warning system. And if you run into danger just blow into them like this."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What's that!!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now lets all try it just to make sure."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Must be the wail of the Marubis!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh no!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh yes! We better camouflage ourselves!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh stop that Gilligan, this is no laughing matter!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now this is the cave where I found the Marubi arrowhead. Might be safe in there."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " My, looks dark in here!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " It is! Pitch dark! It'll make a wonderful hiding place. (Pause) "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And with those rocks"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I think I can, rig a pretty interesting trap for our Marubi friends."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hold Still Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I sure hope this island doesn't have any Termites!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " At least we'll be safe like this so we can scout around and see what's what."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper I think you made my roots too long!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Never mind! Just take short steps like this."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " How do I look?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Like a fat bush!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " When I want your opinion, I'll ask for it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You just asked for it."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " OH SHUT UP!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Shhhhhh!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Remember now, if there's any danger just stand still and you're a tree! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan come back here!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Here's some more."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Good! Start spreading these around but be careful, it's all set. Now the vine is the trigger. It goes over here, around the tree stump, up here, over to here, and is attached to these two small rocks."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " And if anyone tries to get into the cave"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " The minute they touch that vine, it creates a tension, out come these two rocks and the WHOLE thing comes tumbling down on them."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " That's a wonderful trap professor!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Be careful now. It's all set to go."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Over here skipper!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Watch the rock skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "     (SARCASTICALLY) Thanks a lot Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Are you alright!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'm fine. Just fine! (pause) I got to rest a second. Will you stop going so fast!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " OK skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " From now on we'll stick close together. Did you see anything? (Pause) Well?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I've been attacked!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Attacked!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " By a woodpecker."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Shooo!  Shooo!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " HEY!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Are you going to keep peckin my head?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Wait!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " What?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " That tree over there moved!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " The tree ran away! "
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " And there goes a fat bush!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " It IS the Marubi! They often disguise themselves. We better warn the others! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper! There gonna attack any minute! I'm getting out of this tree!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now is no time to panic Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's as good a time as any!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Will you watch where your going!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What did you stop for skipper?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Look Gilligan a cave. We can hide in the cave! (PAUSE) Well what are you waiting for?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The skipper always leads his crew."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan get in the cave!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Wait, wait, I got a great idea. (pause) Why don't we fix a trap with these rocks. Fix'em so they fall down on the Muribi, anand we canwe can use a vine, look just like this one here see? Good idea?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What a ridiculous scheme. Do you really think that you can take vine, run it along the ground here, over this tree stump, up along side the cave, and tie it into these rocks so that all these rocks fall down."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It IS a trap! Must have been set by the Marubi! Gilligan now I know we'll be safe in that cave. When the Marubi come back, see that their trap isn't sprung, they'll go away!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Watch the vine! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What are you stopping for?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Never mind I'll go ahead!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ooooomf!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " There's a low rock there!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thanks a lot Gilligan! (pause) Cut that out!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Quit it!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aye, aye!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oooomf!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Another one."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Hurry!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Here we go!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now be careful of this vine. It's the trap I told you about. Careful. Right into the cave. You'll be perfectly safe in there. "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Good heavens."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey don't go in there mister, there's Marubi in there!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Professor, what are you doing on this island!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well we've always been on this island!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh, than that must be us in there! I better go tell'em!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Be careful of that vine! It's a trap!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I know!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " They threw me out!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'll tell'em you stay here!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Be careful of the vine it's a trap!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I know! PROFESSOR   (O.S) All clear Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh boy it's good to be home again!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Let me give you a hand. Oh, that Gilligan! It's all his fault!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I, warned him about that vine!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Watch yourself now Mary Ann. Don't scrape your back. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Careful, careful. Are you all right?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I think so."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Watch your ankles."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Are you hurt?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Careful Ginger."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " No, I'm all right."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " But look at my dress! It's the only dress I have. It's ruined!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh that Gilligan! Careful Mrs. Howell."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thank you captain."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Are you well?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Not very."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Careful."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Watch yourself now."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " TremendousI thought we had beenOhhhh!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Careful Mr. Howell"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Reminds me of the back nine"
+    },
+    {
+        "Character": "professor",
+        "Dialog": "       (TO SKIPPER) Careful with him."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Watch your stepthat's it. Well where's Gilligan!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'm gonna count to three, if you don't come out, I'm gonna come in and getcha! One! Two! THREE!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper gone. Gilligan one smart Marubi!"
+    }
+]

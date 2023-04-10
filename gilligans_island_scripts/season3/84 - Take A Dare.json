@@ -1,0 +1,1838 @@
+[
+    {
+        "Character": "skipper",
+        "Dialog": " I got another one! I got another one!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey skipper, you catch one more you'll have enough for a whole can of sardines."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Very funny. Give me that fish. I suppose you're gonna stay up here on the beach while I do all the work."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No skipper. I'm listening to a very important radio program. It's called Take a Dare, and they're talking about a guy on a deserted island."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh there's nothing I'd rather here more!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Me either. Did ya hear that! Oooo! You hear that skipper!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan I can't hear anything!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " ...AND IF OUR CONTESTANT CAN SURVIVE FOR ONE FULL WEEK, TAKE A DARE WILL PAY HIM TEN THOUSAND DOLLARS."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wow!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " NOW HE MUST EXIST WITH..."
+    },
+    {
+        "Character": "radio",
+        "Dialog": " ...NOTHING BUT THE CLOTHES ON HIS BACK, AND WITHOUT HELP FROM ANYONE. "
+    },
+    {
+        "Character": "radio",
+        "Dialog": " COULD YOU TAKE THAT DARE? THINK OF IT! TEN THOUSAND DOLLARS!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm thinking of it, and it's making me sick."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Why? Is it because this fellas gonna get ten thousand dollars."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah and I'm doing it for nothing!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " THE MAN WHO ACCEPTED OUR DARE, MR..."
+    },
+    {
+        "Character": "radio",
+        "Dialog": " ...GEORGE BARKLEY, HAS ALREADY BEEN DROP OFF ON A DESERTED ISLAND. "
+    },
+    {
+        "Character": "radio",
+        "Dialog": " DURING THE WEEK WE WILL BE IN TOUCH WITH MR. BARKLEY PERIODICALLY BE SHORT WAVE. NOW REMEMBER, HE MUST RECEIVE ABSOLUTELY NO HELP. HE MUST BE ENTIRELY ALONE, OR HE FORFEITS THE PRIZE."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Good luck George Barkley wherever you are."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh well never mind this program Gilligan we've got to bring back dinner."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey skipper!? That's not enough fish for seven people. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I know Gilligan you're so right. We better pick up some bananas huh?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ok."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ok."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Gilligan! Move! Lets get some bananas!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act i",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "        (STRAINED) All right Gilligan, give me your, bananas and, pick up the pails of fish."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ok skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "        (STRAINED) And hurry it up! These things are getting heavy!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey skipper!? "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What is it now!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Have you got the fish?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Cut that out! Of course I haven't got the fish."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well they're gone!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " How could the fish be gone!? Ep...fish don't fly away!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Flying fish do! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I once saw a flying fish once. And he was soaring sweeping, gliding, he was..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan! We didn't catch flying fish!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey that's right."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well I'm glad you think I'm right about something!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Maybe the professor or someone saw them and took 'em back to camp while we were picking bananas."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hey maybe you're right!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm glad you think I'm right about something!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Will you cut that out! Now lets get back to camp!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ok."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ah...Gilligan!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Is there anything that you can do to make my job a little easier?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sure skipper! I'll play some marching music!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " So have I..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "       (STRAINED) Boy can these ba...bananas get heavy!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Maybe we should have peeled the first."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes well ah...oh Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No they'd be too slippery!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh...ep...will you forget the bananas and see if the girls brought the fish up from the lagoon?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Hey skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "       (EXHAUSTED) Hey professor."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Got problems?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ep...problems? No I've haven't got any problems, just, er...I did some fishing down at the lagoon an...and I had two pails of fish and somebody brought 'em up here. Ah...ep, maybe it was you. Did you bring 'em up?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " No it wasn't I. Did you ask the Howells?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No, but I'll go over and ask 'em right now."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Or perhaps it was Gilligan."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You know maybe you're right. It could have been Gilligan, because, you know, he does things eh...eh...oh wait a minute professor how could it be Gilligan he was with me!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " ...and when we came back with the bananas, the fish weren't there."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well maybe a big wave washed the pails of fish away."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No no I heard the weather forecast on the radio, right after the Take a Dare program."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Take a Dare program!? Oh that's my favorite program! What was the stunt this week?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " They put a man on a deserted island all alone."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I know a monkey!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No a real man."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " No I mean maybe a monkey carried the pails of fish away."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh what will the contestant win!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ten thousand dollars if he can stay there a week."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Maybe it was a seal."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No, seals don't like money they like fish."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh tell us about the man."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well, if he gets any help, he looses the pails."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Gilligan I think you're a little confused."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No I'm not. If the man can stay on a deserted fish for a week, he gets ten thousand pails!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Deserted fish!?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Ten thousand pails!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That doesn't sound quite right does it?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " No, now why don't you start all over and tell us about the fish."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Tell us about the radio program."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ok. The fish disappeared, they dropped him on an island, when we went for the bananas, he gets ten thousand dollars, we don't know who did it, and if he gets any help he looses.(pause) I think."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Pick up two pails of fish!? A Howell!?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Ish!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well somebody took 'em!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Perhaps a pail of diamonds."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Perhaps a pail of, Gold fish?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lov..., Gold, Lovey you made a witty one!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thanks you darling."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well it's a mystery to me!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Captain I just... ...captain I just adore mysteries! Now give me the facts won't you?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well sure Mrs. Howell."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston isn't it exciting!? It reminds of the time our town house was burglarized."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wa...wa...well now you see..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " ...Gilligan and I were fishing down at the lagoon..."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Captain we know it wasn't you."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " The burglar was a much smaller man."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Mrs. Howell please, if you'll just let me finish one sentence."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Captain you're absolutely right. Eh...eh...Lovey stay, on, topic."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now, when we got back with the...       (CONTINUED) ...bananas, we notice that both pails of fish were missing."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Did you happen to notice...        (CONTINUED) ... tall dark stranger, with a slouched hat and a black cape, loitering in the corridor? "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What corridor?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Captain if you're going to withhold evidence how do you expect me to solve your crime?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Eh...Lovey let the captain finish...        (CONTINUED) ...his dreary story. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well I thank you both very much but eh...eh...just forget the whole thing, never mind."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ha...ha...ha, thank you!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I do hope this book has a happy ending."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " What book?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " The case of the disappearing fish! Or what ever it's called."
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) ITS GOOD TO KNOW THAT YOUR TRANSMITTER IS WORKING MR. BARKLEY. "
+    },
+    {
+        "Character": "radio",
+        "Dialog": "       (BARKLEY) IT'S WORKING FINE. AH THANK YOU."
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) AND KNOW THE  QUESTION ON EVERYONE'S MIND. WHAT ARE YOU DOING FOR FOOD?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I bet he's living on fish and coconuts like we're doing!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Shhhhh!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": "       (BARKLEY) I'M LIVING ON FISH AND COCONUTS."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " See! What did I tell ya!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You heard the program before."
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) MR. BARKLEY, YOU HAVE NO...      (CONTINUED) ...FISHING EQUIPMENT OR TOOLS. CORRECT?"
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " That's right."
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) THEN HOW DO YOU CATCH FISH, AND OPEN COCONUTS?"
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " I use, my bare hands."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wow! He must be a powerful man!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And strong too!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Come on Gilligan, let's go out and round up some stuff for dinner."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Gee I'd sure liked to help that guy."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan don't you understand what the...       (CONTINUED) ...programs all about!?  If someone helps him, he doesn't get the ten thousand dollars!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ok then I won't help him. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Good boy."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Even if I knew where he was. Even if I knew where I was. Even if I knew where we was."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Were."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Were."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Gilligan!? Have you been playing shuffleboard with my plates again!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Me!?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " And what about our frying pan!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Plates? Frying pan? Is there something significant there?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " No plates no frying pan, no dinner!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " There's something significant there."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Mary Ann!? Did you take my hammock to collect the wash again!?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I did not!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well it's missing!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well my plates are missing!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " And our frying pans missing!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Say...      (CONTINUED) ...what's going on here!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I am discussing my hammock!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I am trying to discuss our missing plates!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " And our missing frying pan!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Wait a minute! I have an announcement to make of interest to everyone!"
+    },
+    {
+        "Character": "kipper",
+        "Dialog": " Yes!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " One of you is a thief!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Why now just a minute Howell!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well our silver knives and forks are missing."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You're all under house arrest!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well what about our...       (CONTINUED) ...plates!?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " And our frying pan!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I demand the return of my hammock immediately!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Yes, our family heirlooms should never be borrowed."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Or stolen!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well none of us would steal anything!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " One of you's a thief and no one can leave this island."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I intend to notify the F B A!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Good! Mr. Howell's going to notify them too!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " This is ridiculous!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I'm gonna sue!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Will you listen to me! Will you hold it down now! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan keep looking now. Must have been monkeys that stole that stuff."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah skipper, monkeys are pretty clever. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes but it but it was pretty dumb of them to steal a frying pan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well maybe they wanted fried bananas. They must be tired of eating raw bananas all the time."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " My detective magazine. Why did they steal that!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Like I said, they're pretty clever."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Gilligan, monkeys can't read!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yeah!? Then where did they get the recipe for fried bananas!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I think I just heard something."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well what was it?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh nothing. Just some guy, laying in a hammock, eating a banana, and reading your detective magazine."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Shhhhh!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan do you know who that is?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No skipper, I don't get up this way very often."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well can't you guess?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well..."
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) CALLING MR. GEORGE BARKLEY, COME IN MR. BARKLEY."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skinny Davis!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh! Shhhhh! No! It's the man from the Take a Dare show!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It can't be! He's on a deserted island, this island has people!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) MR. BARKLEY COME IN PLEASE."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Barkley speaking, go ahead."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's him skipper its him!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hmmmm...shhhhhh, now listen."
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) ARE YOU ALL RIGHT MR. BARKLEY?"
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Well, this primitive life is a little hard to get use to. But, I'm going to stick it out."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Some primitive life. Why that phony, we're going in and break this up right now!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) MR. BARKLEY, WE WERE WONDERING IF..."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " I've got to sign off! I...I...I've got to fight off some wild animals!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You give me that microphone or I'll break every bone in your...!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh! Ha...ha...ha! May day! May day! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Come in! Ep...ep...I'm sorry to spoil your fun mister but we've got to get off this island!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " May day! Ep...come in May day! Eb...calling anybody!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hi!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hello there!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hi!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " This is the skipper of the SS Minnow!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I know that!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I wasn't talking to you Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But you said come in anybody!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I didn't mean you!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " May day! May day! Come in!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't think there's anybody there."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I think you're right! Give me that thing!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh! Not the banana!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " May day! Come in May Day!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I, I guess that I broke it when I grabbed the mic."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Now isn't that a shame."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " There's no problem. Don't worry Mr. Barkley, the professor can fix anything."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah he can fix anything!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's right he can fix it!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " It's hopeless.   GILLIGAN AND SKIPPER What!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " The part that goes on here is missing.   GILLIGAN AND SKIPPER Missing!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act ii",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Any luck professor!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh, there's no way to make this transmitter work without that missing part."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well, isn't there some, substitute we can make?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Maybe the batteries dead."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan what's the matter!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well maybe Gilligan's dead!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What did you do!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Nothing, I just went like..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan will you stop that!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " How did you do with Barkley?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh it was like talking to a stone wall."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah it was like talking to a stone wall."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I mean I begged with him, I pleaded with him I...I...I...I even offered to belt his brains out."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He begged with him, he pleaded with him, am...am...am...am...am...am...."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's enough Gilligan!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well there's no doubt Mr. Barkley removed that part."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well fellas is the transmitter fixed yet?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'm afraid Mr. Barkley has removed a vital part."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well put it back!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " It bit me!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I ordered him to put it back but he just laughed!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Mr. Barkley's attitude is quite simple to understand."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I don't understand it."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well its based on money."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I understand."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " If their people find he's not alone on this island, he'll forfeit the ten thousand dollars."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well round up that fellow and have him report to my quarters."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Talk to him all you want Mr. Howell, but he won't listen."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " He's a most stubborn man."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All he wants to do is get that ten thousand dollars!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Greed Mr. Howell, makes people do strange things."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Greed I can understand. But all this commotion about petty cash!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Now Lovey this Mr. Barkley can get us off the island so treat him with the utmost consideration."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh intend to dear. I thought I might even treat him as an equal."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ha...ha...ha...ha good girl! Very good."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh shhhhhh. Uh...eh...eh come in!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah good afternoon Mr. Barkley!"
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " The skipper said, that you wanted to see me?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes I believe you're interested in a certain, sum of money."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Uh...hmm, you bet I am."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh money won't be of any use on the island. Thurston and I have LOADS of it, we haven't even unpacked it yet!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " One moment please."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ahhhhh! Smarts!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Now sir a, which denomination, do you a, prefer?"
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " You got to be kidding!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " My husband never jokes about money."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No, here's ten thousand dollars and just go, fix the transmitter."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Forget it."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Eleven thousand!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Fifteen thousand!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Twenty thousand!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Twenty-five thousand!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " THIRTY-thousand!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ep...ep Lovey!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You're bidding AGAINST me!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh darling I'm so sorry but you how I ALWAYS get carried away at auctions!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Name a reasonable figure and we'll dicker sir."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " FORGET it! This stuff wouldn't even pass for STAGE money!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh I know..."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " STAGE money!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " ...you'd rather have a check. I'll write him one."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Lady, don't try and kid me. "
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " To whom do I make it out?"
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Skip it!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Skip it. And your last name?"
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Lady, that check, is no better than this phony money! OR the rhinestone ring you're wearing."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Rhinestone ring!?"
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Or dime store pearls."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Dime store pearls!? Oh! I feel one of my spells coming on!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes Lovey, perhaps you better lay down."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " No no the beds aren't made, I'll have to faint standing up. Ready?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ready."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " ...and he thinks the Howell's money is phony, and their jewelry imitation."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh there must be someway to get him to fix that transmitter."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't think so. We tried everything. The skipper even threatened to, beat him up!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Maybe you didn't use the right weapon."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yeah? You mean like a throwing knife?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Noooooo."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A blowgun! "
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Definitely not."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A hand grenade?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Huh...ah"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What did you have in mind?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yeah. Well I'd better be going Ginger."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Mary Ann do you want to go with me?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " What for? You already have hi out numbered."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Mr. Barkley."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Imagine bumping into you here."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Well, I was just a, just taking a little walk."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh. A person could get lost here if he didn't know his way around."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Yeah, I guess he could."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I've been here ever so long and I still have all sorts of trouble. "
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " And it's been so very very hard without a real man around."
+    },
+    {
+        "Character": "barkely",
+        "Dialog": " Mmm...hmmm. Well unfortunately a, I won't be staying much longer."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Awe, but you will be here a, few days longer any way won't ya?"
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " For the rest of the week."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well that's very good Mr. Barkley because a,... GINGER ...I have a feeling you and I have an awful lot in common."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Oh, like a, what?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well a, you're a man, I'm a woman."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Oh a, I'm a man you're a woman. Beautiful arrangement. How 'bout meeting later?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Later?"
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Say a,..."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": ""
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Till then."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Oooo! Look, make, that, NINE!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Don't forget the missing part of the transmitter honey."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Oh forget about that. Lets a, say, eight thirty."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Oh, how 'bout NOW!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well, to put it, oops, in your own sweet wonder full words..."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Uh...huh!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Forget it!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan, got bad news. The whole transmitters gone."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " There's no doubt about it, that sneaky character deliberately kept that missing part from us all along!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " If you're gonna keep talking I'm not gonna be able to hear my favorite radio program."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well we can't hear it anyway Gilligan!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) ...YOU ONLY HAVE TWO DAYS LEFT MR. BARKLEY, AND ALL AMERICA WANTS THE ANSWER..."
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) ...TO ONE QUESTION. CAN YOU HANG ON FOR ANOTHER FORTY-EIGHT HOURS AND WIN ALL THAT MONEY!?"
+    },
+    {
+        "Character": "radio",
+        "Dialog": "       (BARKLEY) TELL MY PUBLIC TO HANG ON, BECAUSE THAT'S EXACTLY WHAT I'M GOING TO DO!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) OH YOU'VE SHOWN RARE COURAGE MR. BARKLEY. "
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) AND I'M SURE THIS IS GOING TO MAKE YOU FAMOUS!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " We must locate...        (CONTINUED) ...him within the next forty-eight hours."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well certainly the next forty-eight hours but wha...wha...where we gonna look!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Anywhere! EVERYwhere!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " We don't have to look!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We don't!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No, we can stay right here, when he comes back to say good by, we CATCH him!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper! Why don't we..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Shhhhhhh!! Look up there. There he is."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh! Lets yell when we get close to him."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What so he can hear us!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No, to make sure the people on the radio hear us."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Something wrong with that idea, but I just  haven't got time enough to figure it out."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " I didn't get that last question sir."
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) I SAID, I IMAGINE YOU'VE BEEN..."
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) ...ANXIOUS TO SEE PEOPLE AGAIN."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Wha...what a, people?"
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) ANY PEOPLE!"
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Oh a, yes a, a not seeing another human being for a week is a, is a, tougher, than you think."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'm skipper..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " ...of the minnow!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And Gilligan Gilligan Gilligan!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) MR. BARKLEY! THOSE VOICES, ARE THERE PEOPLE WITH YOU?"
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " A...a no sir a, there must be another radio program on this frequency!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Don't sign off!"
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " A...a I'm having a small problem this is Barkley signing off!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hold it Barkley! I'll take that!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Give me that mic!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hello! Ep...ep...ep...ep, hello! This is skipper of the Minnow! There are seven other people on the island besides your Mr. Barkley!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Tell 'em about me!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'm sorry to do this Barkley but i...its all for the best."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " A, You can't win them all."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Can I talk can I talk!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes certainly Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Testing, one two..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh come on get on with it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " When you get here there'll be seven of us here and we'll be wearing carnations! Red ones red ones!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh give me that!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We'll see you tomorrow! Over and out!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thank you Barkley!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " How did I sound Mr. Howell?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " That was Beethoven's fifth!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wha...never mind this! Eh...did you hear me!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Of course not. All I heard was that Barkley fellow."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wha...but you must have heard me!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Us!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well he said something about having a small problem and then he just signed off just like that, that's the way!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper? He couldn't of tricked us again?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No we're too smart to be tricked again."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Only little babies get tricked again.  GILLIGAN AND SKIPPER He tricked us again."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " Yes yes, an...and I...I can't wait to see the thousands, a, no...no, the millions, of my fans."
+    },
+    {
+        "Character": "barkley",
+        "Dialog": " A...a...a look! I...I...I can't talk anymore tha...this transmitter's is going dead a, just pick me up tomorrow as prearranged! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It smashed on the rocks!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper! Ohhh!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper there he goes!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now listen carefully. Mr. Barkley has to come out of hiding soon so he can be picked up."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Serves him right if he misses the boat."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Just as long as WE don't miss it."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well with each of us stationed on a different part of the island we WON'T!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well what do we do if we see the boat!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yell."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Loud."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Ah, Loudly."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That too."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now lets see if we all understand."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " We each have an assigned place. We are to, keep alert."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And we are to yell if we sight a boat. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And to run immediately to where the boat lands. Understand?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Understand. Gilligan do you understand that?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah. We each have an assigned place, we're to stay alert..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "       (CONTINUED) Ahhh! Yell loudly if we sight the boat, and run to where it lands."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan you got it right little buddy!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sorry about that chief!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm watching the helicopter take off."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You're suppose to be out here looking at the... Helicopter!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, why didn't you say something!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You told me to yell if I saw a boat right?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Right!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " For your information, I'm smart enough to know the difference between a boat and a helicopter."
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) MR. BARKLEY, IS NOW SIGNING THE AFFIDAVIT THAT HE HAD NO OUTSIDE CONTACT, DURING ALL THE TIME HE WAS ON THE DESERTED ISLAND."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " How do you like that!? And he's getting away with it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah, to the tune of ten thousand dollars."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " One of my favorite melodies."
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) NOW IF WE CAN JUST HAVE THE TRANSMITTER, MR. BARKLEY USED,...      (CONTINUED) ...WHILE HE WAS ON THE ISLAND."
+    },
+    {
+        "Character": "radio",
+        "Dialog": "       (BARKLEY) I DON'T HAVE THE TRANSMITTER WITH ME."
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) WELL THAT'S ALL RIGHT. WE JUST THOUGHT IT WOULD BE MORE FUN TO HAVE YOU OPEN THE SECRET PANEL HERE ON THE PROGRAM."
+    },
+    {
+        "Character": "radio",
+        "Dialog": "       (BARKLEY) WHAT SECRET PANEL?"
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (ANNOUNCER) WHY THE ONE AT THE BOTTOM OF YOUR TRANSMITTER! THAT'S WHERE WE PUT YOUR TEN THOUSAND DOLLARS! "
+    },
+    {
+        "Character": "radio",
+        "Dialog": "      (BARKLEY) OH ME!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan I give up."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Me too."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All day long we've looked for that ten thousand dollars, and all day long we've had nothing but bad luck!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Our usual good luck."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You mean bad luck."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No for me it's good luck. I found my secret agent ring! First I lost it in the hut, then I lost it in the cave. And then, I found it again!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You found your secret agent ring!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah! See that skipper!? It's got a secret compartment..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ehhhhh! Well know you've lost it again!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Afternoon Mr. Howell."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh hello there fellas! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What are you doing down here?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well I was down there washing out my money, and when I, hung it out to dry, believe it or not, there was an extra ten thousand dollars! Interest seems to follow me wherever I go! Ha...ha...ha...by George!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh no!"
+    }
+]

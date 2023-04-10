@@ -1,0 +1,1818 @@
+[
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper? Is that you?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No, it wasn't you skipper."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper, skipper wake up wake up!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What's the matter!? What is it little buddy!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I just saw a ghost, out there!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh for goodness sake Gilligan! You didn't wake me up out of a sound sleep to tell me about your nightmare!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No no no! I saw a real live ghost, out there!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, people are alive, ghost are dead!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Then I saw a real dead ghost, and he ran that way!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well if he was dead, how come he was running that way!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But skipper! But Skipper! He's right out there skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Gilligan will you stop that! Now go to sleep! GOOD NIGHT! (pause) You're dreaming!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh. Yeah maybe I was dreaming. I just dreamt I saw a ghost."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " There's no such thing as a..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " ...ghooooooooo"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act one",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Come on Gilligan, we both have things to do!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Please skipper, don't make me come out."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan I've told you there are no ghosts! Now come on outside, we both got important things to do! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skip...skipper can't we both do them without me?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No Gilligan. Just come out side and I'll prove that there was no ghost!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well, I'll prove there was!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Would you mind telling me what you're doing!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Looking for the ghost's footprints!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Gilligan! Look I just got through telling you there's no such things as ghosts!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " There never has been, there never will be! And another thing, tha...tha...they don't leave foot prints!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh. Maybe he left some fingerprints!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Will you stop that! For goodness sakes, you're gonna have everybody around here scared to death!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But skipper what I saw last night was a ghost!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " How can you be so sure!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I've seen a lot of ghost movies, I never forget a face!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Look Gilligan, I'm gonna get some fresh water for the hut. Why don't you go out and get some firewood."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What if I meet the ghost?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ep...ep...well then he can help you carry the wood! And don't go around telling all those stories..."
+    },
+    {
+        "Character": "continued",
+        "Dialog": " ...now Gilligan. You'll have everybody as jumpy as you are!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm not jumpy. Hmmm!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh I'm sorry Mary Ann."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh that's all right. At least I know it was you who caused the trouble. Last night we didn't know what it was!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What, what was?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well while we were asleep in our cabin, and...and somebody knocked on the door. And when we said who is it, nobody answered!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " So it was there too."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " What was there?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Huh? Oh, maybe it was a traveling door- to-door salesman."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " On this island?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No, what I meant was maybe there was air in your hot water tank!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Gilligan we don't have a hot water tank."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ah...what I meant was, air in your pipes!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " We don't have any pipes either!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Maybe you ought to have a talk with your landlord."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh Gilligan this is serious! We heard some awfully strange noises in the night! And Gilligan?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Once when I got up and looked out the window, I thought I saw..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " DON'T say it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ahh! Ghooo!! Oh hi Ginger."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Ah Mary Ann did you see the magazine I was reading last night?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Yeah I thought you left it on the table."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I thought so too."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Maybe it's under the table."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Couldn't be."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Why not?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " The tables gone too."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's why not all right!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Ginger. I think Gilligan knows something."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't know anything about anything."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " That's strange."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " What's strange? For Gilligan not to know anything about anything is perfectly normal."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lovey I wonder how we're going to get that thing down?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I mean it'll take an engineer..."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh hi Mr. and Mrs. Howell."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Is there something wrong Gilligan?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes...yes my boy you seem like you're in another world."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mr. Howell don't say that, I want to stay here in this world."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ha..ha..ha permission granted. HA!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston you're so democratic."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lovey, Lovey watch your language! Gilligan my boy there's something I want to discuss with you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes Mr. Howell?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I wish you'd stop from playing those dreary little practical jokes."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Me? What kind of jokes?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well like that like...like that!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I mean the idea of putting my practice polo pony way up in..."
+    },
+    {
+        "Character": "continued",
+        "Dialog": " ...a tree like that."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I didn't do that Mr. Howell!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well the polo pony didn't fly up there."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It might have!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " It what!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " If it was a horse fly!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Gillian my boy you still want to stay in this world!?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh Thurston you should scold him too for doing that silly dance in our patio last night. It wasn't at all funny."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh wasn't it cold out there I mean, doing that dance, dress only in a little white night shirt?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mr. Howell I didn't do any dance in your..."
+    },
+    {
+        "Character": "continued",
+        "Dialog": " ...patio last night!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh, well then it must have been somebody  else."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes, but whom!?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Whom?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't know, but it wasn't meem!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Who."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You know Lovey my dear, we're going to have a dickens of a time getting that thing down, so, do be careful!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Meem!? I!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oooo!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What time did you say this was professor?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Shortly after eleven."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh well then it couldn't have been Gilligan or me cause we were both sound asleep!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Both of you?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well...yes!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well then a...if you were asleep, how could you know that Gilligan was?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well because he told me when he woke up!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well if Gilligan was asleep, how could he know that you were?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well because I...uh...well, yes. If there's anything I can't stand its logic!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh.  I should be able to figure out a logical answer."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " A...what, sort of a sound was it?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well, as I recall, it was a...a mournful sort of a cry. Lets see, it was a..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " oooOOooo oooOOooo..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The ghost!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The ghost, the ghost it's after me it's after me!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan it's only me!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan for goodness sake!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " OOOOooooo! OOOOoooooo! OOOoooooo! OooOooooo!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan. I am trying to get some sleep! NOW can we turn out the light!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I can't go to bed, I'm not sleepy."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well then why don't you get yourself a book? You know reading always puts you to sleep."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " OK."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now what!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I can't read I, lost my glasses."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You don't WEAR glasses!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Then how do you expect me to read?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper, come on, lets go play some checkers."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I don't want to play checkers! I want to go to sleep!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Let's play some cards! I'll let you win!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, I always win!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll let you lose!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Will you put that light out!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No sir skipper, when you're living on a haunted island anything can happen!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All right. All right, ALL RIGHT!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll get the cards."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No we're not going to play cards! We're going to settle this ghost business right here and now!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But skipper..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No arguments!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now I want you to go outside. And I don't want you to come back in until you've counted to ten!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But it's dark out there!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Go out and count to ten!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Can I count to ten by fives!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No Gilligan! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Fours?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No! By ones! One, two, three, four, five,..."
+    },
+    {
+        "Character": "continued",
+        "Dialog": " ...six, seven eight nine TEN!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I can count faster than that! OnetwothreefourfivesixseveneightnineTEN!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, outside!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " TEN!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Outside!      SKIPPER/GHOST Helloooo Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well Gilligan how does it feel to be cured? You walked right into the front of a ghost and you weren't even scared!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I knew you weren't a ghost! A ghost doesn't wear a sheet stamped SS Minnow!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We're going to cure this ghost thing right now! Anybody in their right mind knows..."
+    },
+    {
+        "Character": "continued",
+        "Dialog": " ...that there's no such thing as a...ga...eg..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " ...ah..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper! What happened? Skipper? I'll revive you, I'll revive you!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Where'd you go? Oh, there you are."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh skipper! I'm not going to sleep in that hut another minute!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " It's haunted!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " The whole island is haunted!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Skipper you'll have to put us up for the night!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well but I..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " We only have two hammocks!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh...only well! I've got mine!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Just a minute Mr. Howell!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " A Howell is sleeping! A Howell is sleeping!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Good night everybody!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I just know there's got to be a logical answer."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah but does the ghost know!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Quiet Gilligan. Go on professor."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right we all think we've seen a ghost. But could it have been say a, a patch of fog?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Didn't look like fog to me."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Me either!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right, what about a cloud? Or a white sheet?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well I think it's possible professor."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Girls, have either of you notice a sheet missing?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Come to think of it, there is a sheet missing."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " It was gone from the clothesline a few days ago!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And that was just about the time our ghost showed up. Perhaps that sheet blew off the line. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Why certainly! And it's been blowing around ever since! That's what we've all seen just a plain old sheet! Right Gilligan!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Right skipper. A sheet with arms and legs and a voice that goes ooOOOOOOOOoooo!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Stop that!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " It's gotta be a sheet."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " It's a sheet it has to be a sheet."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " It's the only logical explanation"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Therefore, find the sheet and I think you'll have your ghost."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "       (TO SKIPPER) I'll go with you."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No Gilligan, I think we can cover more ground separately. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper if I see that sheet first, I won't be covering ground, the ground will be covering me!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes, or I'LL be covering you!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Did I hear somebody? I thought I heard somebody!"
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " You, no, hear, no, body."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well that's good."
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " You, only, hear, GhOST!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ghost!?"
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " Me! I, am, ghost."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Are you a, good, good ghost, or, bad bad ghost?"
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " Goooood ghost."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh. Then how come you scare people?"
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " Because people scare me! That is why you must all get off, ghost's island!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir Mr. ghost I...I, we...we didn't know it was your island but, we have no way to get off."
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " You find way! You must all leave! And soon! Ooooooooooo..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper! Skipper! I found the ghost! I found the..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper! Skipper skipper! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan little buddy I've got great news!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Later skipper, we got to get off the island! If we only had a boat!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper! Oh we found a boat!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yeah I know! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And listen to this Gilligan! Boat has all the things you need for long trip. Take it, it is for you. Signed your friend, the ghost!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act two",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan we've got everything we need! Food, water, compass!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Everything to help us sail home!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah after all this time on the island it'll feel good to be on dry land again."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes! Gilligan, this IS dry land."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah but it's surrounded by wet!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh never mind. Now lets get up to the others and tell'em about the boat. Just can't get over the fact that a ghost gave us a boat."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well maybe he didn't."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " He what!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Maybe it's a GHOST ship. Maybe it's not really here!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well of course it's really here! Can't you see it!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah, but maybe we only THINK we can see it."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It feels like a boat."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It IS a boat Gilligan! Now I'll go up and tell the Howells and the professor. You go up and tell Mary Ann and Ginger.  "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " OK skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh and tell'em that the boats gonna be crowded so we only carry what we need."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Only carry what we need."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's right, tell the girls no souvenirs."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No souvenirs."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Tell'em to come down here with their bare essentials."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Bare essentials yeah."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " They're WHAT!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan will you get up there and tell them about the boat!! Tell them to come down here with their bare essentials!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " OK, but I sure hope they don't catch cold!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Whenever you're ready we can leave."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Gilligan you're sure that you and skipper saw the a...boat didn't you?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Uh...huh we both touched it to make sure it was real."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh in that case I'll be packed in five minutes!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh wait a minute! Aren't you scared to go on a boat that's been left by a ghost!?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh Gilligan if a witch came on this island I'd fight her for the broom!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And another thing, the skipper told me to tell everybody else including you, to bring your um...bare essentials."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I'd be happy to."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Me too."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh, ok I'll keep my eyes closed."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " So, as soon as possible we'll set sail."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh dear, there won't be anybody to meet us at the dock!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No, unless we're met by royalty, we just, won't leave that's all!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Stay behind!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " We'll GO! We'll GO!! He's so impetuous! So big too!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now look, it's a small boat so don't take anything accept what you absolutely need."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh I never go anywhere without my furs and jewelry."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I told you only the essentials!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Eh...eh...I'll handle this I'll handle this. Eh...captain suppose I were to make a rather small donation to the sailors fund?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Mr. Howell..."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " A large donation."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I'll buy it! Then they could..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " For the last time, no no NO!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " That sounds rather definite."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " All right, we'll just have to get along with these two little kits that's all."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh come on Mr. Howell. There's nothing in those trunks that we actually need for survival!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well there most certainly is! There's my fox and my leopard and my chinchilla and my mink and my sable..."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " My money!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " One more word and I leave you!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What's taking everybody so long?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Maybe nobody wants to leave."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well of course everybody's anxious to leave Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm not."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well certainly! Everybody wants to get back to civilization!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I had fun here!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " But, Gilligan there'll be people on the streets!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And pushing and shoving."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And restaurants!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Waiting for a table."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And you'll get PAID for a days work!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Who cares about money!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Wait a minute! Wait a minute! "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Who said a dirty word!? Who doesn't care about money!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh please Mr. Howell! I said no luggage!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " This is not my luggage, this is my wallet!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mrs. Howell, you sure got fat fast!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh I haven't gained an ounce."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Funny looking coat! It's got fox down to here and leopard down to there and chinchilla down to there!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston, do I have to take them off!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Not by the hair of your chinny chin chilla!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh there you are girls!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Is it all right if we each take a bag?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well yes but I...well I wished you'd share just one."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh honestly skipper we just took what we needed."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh just the bare necessities."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Lipstick, rouge, eye shadow, mascara..."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Hair rollers, hair spray, nail polish and eye liner."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper, they forgot the bare essentials, if you'll excuse me girls."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Eh..lets get going shall we."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Sorry, but we are not going anywhere."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh Thurston did you hear that? He said we're not going anywhere."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh well these eggheads, they never say what they mean."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I said exactly what I meant. We are not going!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " But professor you must be kidding!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh we got the boat and everything!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Unfortunately, I am very suspicious. There is something rotten in Denmark!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What do we care, we don't go anywhere near Denmark!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston you're right, they don't say what they mean."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now consider this. First someone tries to frighten us off the island. Then when they discover we can't leave, they provide us with a boat! Why!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I know, so we can leave! Lets go everybody!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah don't you see Gilligan, it's a traup."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No it's not a traup it's a boat! We touched it and felt it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " But, come to think of it, we haven't sailed in it. Maybe this ghost not only wants us off the island, maybe he wants us dead!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " That is a strong possibility!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well why would he want a thing like that!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'm not sure what his motive is, but just to be on the safe side, I propose we send the boat out first with a dummy aboard."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh no! Oh no! I'm not going out there alone!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan stop that!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " But what if it's safe!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well in that case, we retrieve the boat and sail for home."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh but if he's watching and there's only one dummy on board!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh NO! I said I..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " We will use seven dummies, one resembling each of us."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You might say, real dead ringers! Ah..he..ha..ha By George I made a funny one!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan I can't seem to find a coconut that's big enough for my cap."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You should a gone to the other side of the island and got a jumbo size one."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I don't think that's very funny."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " All I meant was, you're a big guy, and, you got a big head..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " ...and a big heart."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thank you. Well, never mind Gilligan. I'll...I'll end up using a gourd I guess."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Eh...what is it you're doing?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Making you!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's supposed to be me!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Only the bottom half."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Come on Gilligan I'm not this big!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " like remember? "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " But I'm not that big Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sure you are."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I am not!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sure you are."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I AM not Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sure you are."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan for goodness sakes I'm not that big!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes you are skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I AM NOT Gilligan!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes you are skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I am not!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well girls, how do they look?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh, we never could have done them ourselves professor!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well, fortunately I happen to know a little something about the construction of manikins."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Ginger, don't you think I'd look better in my red gingham dress?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Definitely, brighter colors are much better at night."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Girls that's not important."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well you know, and I'd look much better in my a, beaded beige."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " But these are the clothes you picked out!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " We changed our mind!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " We wouldn't be caught dead in these things!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well that's just exactly what might happen."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well professor, even if we're dummies we have to look right."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right, ALL right!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Professor. Tst..tst..tst..tst "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh! Good heavens forgive me!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Darling I'm all out of hundreds."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah...a good, then use these fifties my dear."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Fifty!? Oh dear no! "
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Then I'd be lopsided. I've stuffed this sleeve with hundreds."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah...ah...I'll give you a check to make up the difference."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Darling look. "
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " The others are headed for the lagoon."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well let's join them!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " All right, I'll ask the skipper to carry the dummies."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " The skipper!? Please! I wouldn't even let my own mother carry these!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Hmm, you're right."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aloha oi, aloha oi..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Gilligan! That is not necessary! Now come on lets go find the others."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " There it goes."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " If anything gonna happen, it should happen soon."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Shhhh! He should be along any minute."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, can't you ever say no?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " It doesn't look as if anything gonna happen."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah!...No!"
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " Calling W 9. You there?"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " I AM HERE, GO AHEAD."
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " We can now claim island."
+    },
+    {
+        "Character": "radio",
+        "Dialog": " SQUATTERS ARE DEAD?"
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " Very dead."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You were right professor!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Who ever did this thinks we are now dead, right? All right then..."
+    },
+    {
+        "Character": "continued",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh no not again, we just got finished being blown all to pieces!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " We are going to fight that ghost on his own ground."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The cemetery!? Oh no not me!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh no. All we have to do is round up seven sheets. All right everybody lets go!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Seven sheets?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Sheets. Oh I know what the sheets are for."
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " Other powers must now deal with us for off shore oil rights. You come?"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " I WILL GET THE BOAT STARTED AT ONCE."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now you all know what to do. Scatter and move in and out and around the huts. All right! "
+    },
+    {
+        "Character": "professor",
+        "Dialog": ""
+    },
+    {
+        "Character": "move out!",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yah! The ghosts got me!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan it's me, the professor!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Come on, get a move on!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " OoOOOooo  OOOOoooo..."
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " All right, I wait until tomorrow."
+    },
+    {
+        "Character": "radio",
+        "Dialog": " BY THEN, ENGINE WILL BE FIXED AND I COME AFTER YOU. YOU HAVE PLACE TO SLEEP?"
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " I sleep in huts. Corps cold, but beds still warm! Ha..ha..ha..ha!"
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " Wait. "
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " I hear something."
+    },
+    {
+        "Character": "radio",
+        "Dialog": " WHAT YOU HEAR?"
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " A feet step!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " A FEET STEP?"
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " Others all dead. Must be new intruder on island. I scare him away too."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't see anything do you?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No. You know why you don't?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No why?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Cause you got a sheet over your head."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " There goes one of us!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan it's the...It's the Gh...gh...gh..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ghost."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " ...ghost! Yeah!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ghost!"
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " W 9! Listen quick! "
+    },
+    {
+        "Character": "radio",
+        "Dialog": " I LISTEN."
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " This island..."
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " ...she's crazy!"
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " Pic...pick me up hurry!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ep...Everybody! There he is!"
+    },
+    {
+        "Character": "ghost",
+        "Dialog": " Oh, Never mind! I pick YOU up!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Get him!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Get him quick!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi skipper. Guess what I found down at the lagoon? "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What Gilligan?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Some of our clothes from the dummies."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh fine. Just leave 'em there on the table, I'll have Mary Ann rinse the salt water out of 'em after I finish this."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ok."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh boy, am I gonna sleep tonight now that our friend the ghost is gone!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Me too. Things were getting pretty spooky around here."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper!? Your shirt! It's haunted! The ghost haunted your shirt!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ha...ha...ha...ha, Gilligan little buddy, you're too much!"
+    }
+]

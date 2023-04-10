@@ -1,0 +1,1522 @@
+[
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper! Hey Skipper! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper! Oh! Skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ep! Gilligan is this your idea of some kind of a joke!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Look a falling star!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan it's day time, that's impossible!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Would you believe a falling moon?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No I wouldn't believe a'"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "       (CONTINUED)"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What would you believe?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'I believe it's going to hit the island!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper!? What do you think it is!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I don't know Gilligan, but we better go see!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Look Gilligan look!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What a crazy care package."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It looks like something from outer space. I believe it! No wonder, after all the stuff we shot up there, they finally shot back!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No I don't mean a weapon Gilligan, I mean it's'"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " 'it's a piece of meteor."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh no!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A piece meteor!? A meteor!!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes a meteor!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What's a meteor?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "       (FRUSTRATED) Oh brother come on lets take a closer look."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey skipper I don't think we should go to close it looks kind of spooky."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan let me explain. A piece of meteor is something off a star or a planet or something. And it breaks off every now and then and falls to Earth."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Don't go near that!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It talked!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper! Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It knows our names!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It's the professor!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Doesn't look like the professor!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Get away from there!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wonder what he's worried about."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Fast!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Let's go find out, fast!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What's wrong professor?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " That large glowing object!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's a meteor! It's like a little piece of star or planet, breaks off and'"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All right Gilligan, the professor knows all about that."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now gentleman, on the one hand there may be nothing to worry about."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "        (RELIEVED) Good."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " But on the other hand'"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I knew it! It's always the other hand that gets into trouble!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan will you be quiet and let the professor talk!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now these meteors travel millions of miles through space. Through the Stratosphere, the Ionosphere, the radiation belt picking up all'"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " 'sorts of strange rays, that's why it's glowing!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh my gosh! Wha'wha'what are we going to do about it!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I have a suggestion."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh, what?"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act i",
+        "Dialog": ""
+    },
+    {
+        "Character": "professor",
+        "Dialog": " This simple form of Geiger counter will be able to tell us whether that meteor is radioactive."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh professor if it is, it's absolutely deadly."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now just try to be calm. When we put this fallout meter together, we'll make a radiation count. And that way we'll definitely know whether there's cause for alarm."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " My alarm just went off."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh cut that out!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan there is great need for secrecy. Ginger, Mary Ann and the Howell's mustn't know anything about this."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's a good idea professor. I'll help you put this together, Gilligan'"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I,I want you to stand guard outside the hut and let no body know what we're doing."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's easy 'cause I don't even know what we're doing. (pause) By the way, what are we doing?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, outside!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": "       (TO SKIPPER) Here skipper, hold this."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Gilligan what are you suppose to be?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I can't tell you."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " What can't you tell me?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ask me what the skipper and professor are doin' in there."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " All right. What are the skipper and professor doing in there?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's what I can't tell you."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "    (SEDUCTIVELY) Gilligan come on. "
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "      (CONTINUED) You can tell Ginger."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You might as well not run your fingers through my hair, you'll probably end up with a palm of greasy kids stuff."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Why can't you tell me?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " My lips are sealed."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " There, did that steam them open?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No. It's a surprise."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " A surprise?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " My birthday. A surprise birthday party."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A surprise birthday party?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh you admitted it! Oh well gee I didn't think anybody would have remembered. Oh, don't tell anybody that I know."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ok."
+    },
+    {
+        "Character": "professor",
+        "Dialog": "       (TO GILLIGAN) Gilligan! Why did you do that?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I just wanted to tell you something."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan will you please get out of here?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ginger wanted to know what was happening in here and I didn't tell her, but she thinks she knows but she'"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan! Gilligan OUT!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ok you don't have to get sore about it."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Hi Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Who goes there friend or foe?!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well it's me, Mary Ann."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mary Ann who?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well how many Mary Ann's do you know?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Let me see I know, Mary Ann Thingelmeyer, Mary Ann Grumschmit, Mary Ann Dinglehoffer, Ma'"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh Gilligan stop that. I've got to get into the supply hut and get some clothespins for the clothes."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh no, no you can't go in there. Don't you remember this is wear your dirty shirt week?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh! There's something in there you don't want me to see!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Honest Mary Ann, I can't tell anyone."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Uh-hu, if you can't tell anyone it must be something for everybody."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah it's something for everybody all right."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " A Christmas party! They've hidden the presents in there!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " They have!? Oh boy I! No wait a minute Mary Ann'"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh Gilligan you just can't keep a secret!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I didn't tap you on the shoulder this time."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan I have good idea for you. The next time that you have an urge to come in here, CONQUER it!!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " OUT!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "     (DISAPPOINTEDLY) Oh, lets start again professor."
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " Hello there Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " HAULT! Back up and be recognized."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Recognized? Don't be silly we're mister and misses Howell you've met us dozens of times."
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " Stand aside young man we want to get our sun umbrella."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm sorry no ones allowed in there."
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " I'll have you know you're speaking to a HOWELL!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm sorry, Howell's aren't allowed in there either."
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Thurston I think I'm going to have one of my fainting spells!"
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " No no no Lovey let me handle this."
+    },
+    {
+        "Character": "mr. howel",
+        "Dialog": " Young man I'll have you know that the Howells are greeted with open arms at Buckingham Palace, the Whitehouse and the Kremlin. Which I must point out is easy to get into but murder to get out of."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm sorry no ones allowed in the supply hut. "
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Oh but I must get my parasol. This tropical sun plays havoc with delicate complexions. "
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " You're so right, and it isn't good for your skin either."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll tell you this,'"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "        (CONTINUED) 'the skipper and professor are working on a secret."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Ah I just adore secrets. I love to hear them and I love to tell them."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well I'd love to tell you but I can't."
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Oh well it doesn't matter because I know anyway."
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " Egad you're so right Lovey!"
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " And besides that'"
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " Yes which can only mean that'"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " An anniversary party?"
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " I'm going to break out my best bottle of bubbly!"
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Oh it's going to be marvelous! I know everyone will be there!"
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Oh darling'darling Ginger we have the most wonderful secret to tell you. It's about the party."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh Gilligan you promised you weren't going to tell anyone!"
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " Well don't worry about the expense of the gifts, after all it's the spirit my dear that counts."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Gifts!? Why should I bring a gift to my own birthday party?"
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " Gilligan what is the meaning of this."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm kind of confused myself."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Please stop fighting. We're preparing for the Christmas party. "
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Christmas party?! You mean birthday party!"
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Anniversary party!"
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " Young man what have you got to say for yourself!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Just one thing."
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " What?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " HEEEEEELP!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Aren't we close enough professor?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper you just right down the figures as I call them out."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ok but talk fast."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right. Ten over sixteen. Nine over seventeen. Ten over eighteen."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " So you see Gilligan there was no radiation near the meteor at all."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "        (EXCITEDLY) OH BOY!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " However there were cosmic rays."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "        (DEPRESSED) Oh boy."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Which aren't as deadly as interstellar radiation."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "        (EXCITEDLY) OH BOY!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " However they can kill you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "        (DEPRESSED) Oh boy."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, can't you say anything but oh boy?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I could say oh girl, but I don't think it'd sound right."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh please. Keep digging! Now for goodness sakes, the professors got a way of using these cosmic rays that I think are going to get us off the island."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": ""
+    },
+    {
+        "Character": "professor",
+        "Dialog": " This reflective screen I'm making will focus those cosmic rays and shoot them straight up in to the air. A weather plane or radiation detection station is bound to spot them, investigate, and we'll be rescued."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "       (EXCITEDLY) OH BOY!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ep'Ep'well the skippers allowed."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Still haven't told me why I'm digging for lead?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Why to protect ourselves from the cosmic rays when we put this screen around the meteor."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's right you see, we're gonna melt it all down, dip our clothes into it, and then they'll be full of lead!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " How 'bout that! Instead of getting the lead out, we're getting the lead in!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "       (RESTRAINED) Yes Gilligan. DIG!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hurry it up Gilligan, if this lead gets cold it won't stick to the cloth!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " This is the last one!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'm going to need more of that lead."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well there's plenty over there professor."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " These things will really hold a press."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now let the rest of it cool. We may need it later."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey skipper give me a hand with this it's awful heavy."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All right. You got this professor?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "        (STRAINED) Let's put it over there with the other things."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "        (STRAINED) Ok."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " We've gotta start getting in to our things. Shoes first."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yeah shoes first."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan how'd you get your pants on?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Stand me up and I'll tell you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Wooo you fall down you break your pants!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well yeah be careful too you might break your neck."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Professor, how ya gonna walk in these things."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well lead is a soft metal. It'll loosen up as you move around a bit."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " By the way, how DID you get into them?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh you take the pants and lay'em down there and you kinda sit down, kinda s'"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'm afraid it's rather difficult to walk."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " This lead make-up sure feels funny professor."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well we need it to protect our faces from the cosmic rays."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I feel like Frankenstein."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Whaaaa!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Come back here Gilligan! (PAUSE) Cut that out!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " We'd better move on. We're almost there."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh I hope so, these suits are sure uncomfortable."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But I bet they wear like iron!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "        (STERNLY) Come on Gilligan."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " That's wonderful! It's wonderful! The count has drop almost to zero!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You mean it might work!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I think so!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I better go tell the others!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper!Give me a hand."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ep! Gilligan UP!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Wait! Wait! Wait! There's something funny going on back there!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "       (NERVIOUSLY) Oh well we could use some laughs professor lets go back."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " No no no I don't mean funny funny, I mean funny strange. Come on!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Professor!? What happened to the bamboo screen?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Why I'm afraid to even guess!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I just noticed something."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Look at this tree!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan it's just a tree!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah but a few minutes ago it was only four feet tall!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What do you mean a few minutes ago it was only four feet tall? Gilligan for goodness sakes'"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " No no no skipper he's right! I remember that tree, he tripped over it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " This is the tree that he tripped' Oh well professor what does it mean!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well it means we gotta get rid of that meteor before it get rid of us!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Gets rid of us?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan, those cosmic rays are so powerful that they aged that bamboo screen into saw dust in just a few minutes."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh'Ep' and that tree!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " A little while ago that tree was a sapling. It's now fully grown and will die of old age within the week!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You mean to say that the cosmic rays of this meteor puts out, makes things grow older!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes they speed up the life process at an incredible rate."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You've made me feel older since you been talking."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wa'wa'wa'wa'what about the plants, the trees and the bamboo?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " An...an...an...and the people."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Ah, I'm afraid that within a week, we shall all die of old age. However the others don't know about this so lets not tell them."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I have only one thing to say."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " What's that?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Why'd you have to tell me? Why? Why'd you have to tell me? WHY! WHY'D you have to tell me!? Why'd you have to tell me!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All right Gilligan!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act ii",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Professor this is the worst spot we've ever been in. Can't you think of something?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I, I am thinking."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Can you think faster?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Are you thinking faster?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper I am thinking as fast as I can."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well it's not fast enough!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " You know I know a way I could think faster."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "        (HOPEFULL) How!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " If you'd stop telling me to think faster!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan this is no time to be listening to the radio. Now turn that music off."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Why!? After next week, we won't have time to listen to anything!"
+    },
+    {
+        "Character": "radio announcer",
+        "Dialog": " WE INTERRUPT THIS PROGRAM FOR A SPECIAL WEATHER BULLETIN."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan will you turn that radio off! You heard me!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " No no no leave it on a minute!"
+    },
+    {
+        "Character": "radio announcer",
+        "Dialog": " THE STORM THAT WAS DUE TO HIT HAWAII THIS MORNING HAS PASSED TO THE SOUTH, AND IS TRAVELING IN AN EASTERLY DIRECTION. IT'S AN ELECTRICAL STORM OF SUCH INTENSITY, THAT IT HAS BEEN LIGHTING UP SKYS FOR MILES AROUND. ALL AIRLINES AND SHIPS HAVE BEEN RE-ROUTED."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh great that's all we need is a storm."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well it's not just a storm skipper. It's an ELECTRICAL storm."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " If you've seen one storm you've seen 'em all."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " No but this one may save us!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " This storm can save us!? Well that meteor out there is making us grow older every minute!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right now listen skipper. Meteorites are composed of metals. They're made of metals, iron compounds. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": "        (CONTINUED) Now if that storm should pass over the island, it might just possibly destroy it."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh come on now pro' A storm destroy that meteorite!? "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Good question."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thanks Gilligan."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right now listen. We make a lightening rod, we attach it to the meteorite, and if just one bolt hits it'"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh professor! You mean a bolt of lightening strik'what are the odds on that!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well'a million to one."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh fine a million to one. What could be worse than that?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A million to none."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Exactly! At least it'd give us a possibility. I mean that's better than nothing!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah I'll go tell the others the good news!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " No wait a minute. How can you tell them the good news when we haven't told them the bad news yet?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I mean that is of course you ah'"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Me!? Why would I do a thing like that!?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Do I look any older to you?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " (SOBING) No. Do I look any older to you?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " No. Oh! We're too young to die of old age!"
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " 'and being of sound mind, I do here by bequeath to my nephew Perry, my favorite Polo pony, Sea Biscuit'and my set of matched golf clubs, Wingfoot, Hillcrest and Pebble Beach, the dollar forty two his wife Francis owes me, I do here by NEGATE in full."
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Thurston it makes me very sad writing your Will."
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " But dear we always knew that one day we'd have to go to that great safety deposit box in the sky."
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Yes, but after all in the past we've always gone first class. (PAUSE) Have you any regrets dear?"
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " No my dear. No, no perhaps one. That I won't live to be a hundred years old."
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Oh but you will dear! You'll be that on Saturday! (PAUSE) How much time do you think we have left?"
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " Well Gilligan said about a week."
+    },
+    {
+        "Character": "mrs. howel",
+        "Dialog": " Oh. Oh a week. Oh."
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Oh the professor will simply have to do something, I can't go! I haven't got a thing to wear!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Professor, shouldn't the lightening rod be made out of copper or steal or something?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes. Obviously the better the conductor the better our chances. But all we have to work with is this lead."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " This is the straightest, longest bamboo pole I could find professor."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well that's just fine Gilligan. Now put one end in this pot and keep turning. The lead will gradually harden on the pole."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Huh."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " That's it."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey! I'm making a lead sickle!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well there you are professor. The lightening rods all finished."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well just put it down and let it cool and harden. We'll finish the work in the hut. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All right. (PAUSE) Oh ah, should I wake up Gilligan?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " No he's exhausted just let him stay there."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " 'cosmic rays are speeding up the life cycle, making everything older. By the end of the week we'll be fifty years older. Soon we'll all be fifty years older."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " (GROGGILY) Fifty years older. Fifty years older. Fifty years'"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Better hurry up skipper you're gonna be late for the party tonight."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well, don't just stand there Gilligan, come over and help me."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well hurry it up!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm runnin!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan. Thanks little buddy! Hea'hea'hea' (PAUSE) Well it's hard to realize, this, fiftieth anniversary on this island."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Fifty years! One good thing about it, we know everybody at the party! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well hand me my cane Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Either that canes getting heavier or I'm getting older!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well naturally Gilligan you're getting older so the cane IS getting heavier."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thank you. (PAUSE) Shall we start going?"
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " Lovey my dear, help me with my tie will you?"
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Oh yes of course Thurston. Come over here."
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": ""
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Ah, where's your bow tie Thurston?"
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " This IS my bow tie. It's worn out through the years. Erosion you know!"
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Oh dear, did you hear all that crackling? I'm afraid they put too much starch in you shirt."
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " Oh no that wasn't starch, that was my, arteries hardening. Hea'hea'noisy little sons a guns aren't they!?"
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Yes. (PAUSE) Thurston help me select a piece of jewelry?"
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " All right my dear I'll, I'll help you."
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " Oh this, this one is, a heavy one, you'll never be able to, wear it my dear."
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Oh nonsense Thurston, diamonds are never too heavy. Put it on me please."
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " There you are, I put it on you my dear. Oh it must be terribly uncomfortable."
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Oh, on the contrary. It's a delightful way to get the bends."
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Come along dear."
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " To tell the truth I feel, more comfortable that way myself. Let me get my little hattie, and away we go! Ah! Out on the town!"
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " You're so gallant."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Here, zip me up."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " All right."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh, I can't."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " What's the matter?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I haven't got enough zip left in my zipper."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Use both your hands."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " All right."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Umph! There."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Mary Ann? Do you think that anyone will recognize this dress from last year, or the year before, or the year before, or, the year before?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh yes I know, you don't have to go over the last fifty years."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Fifty years!? Please it's not a day over thirty."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh I forgot. We started subtracting ten years ago."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yo ho!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yo ho! Are you ladies dressed?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh, I'I thought that skipper and Gilligan where coming to call for us."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well it was too far for them to walk!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Why you ladies certainly look as beautiful as ever tonight!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Professor, I bet you say that to all the girls."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Mary Ann, we ARE, all the girls."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well, if you're ready, let's go to the party!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I'm ready."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I'm ready too."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right! If each one of you will take an arm, I think that I'll be able to make it!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Let's go have a ball!"
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " Quiet, quiet, I'd like to propose a toast to our fiftieth anniversary."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Thirtieth!"
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Anyone for twenty five!?    GINGER AND MARY ANN Twenty five!"
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": " I won't argue the point I'm a gentleman, but it's'it's fifty that we've been here. All right now, here's a toast to the island. I raise my cup of grog,'"
+    },
+    {
+        "Character": "mr. howell",
+        "Dialog": "         (CONTINUED) 'though life hasn't been easy here, at least, we've been out of the smog."
+    },
+    {
+        "Character": "mrs. howell",
+        "Dialog": " Oh Thurston you haven't lost your touch!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh lets have some music!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Yeah lets dance."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Come on Ginger lets dance!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Come on professor move!     RADIO ANNOUNCER      (V.O. OLD) WE INTERRUPT THIS PROGRAM FOR A SPECIAL WEATHER BULLETIN.    RADIO ANNOUNCER     (V.O. OLD) THE STORM IS ABOUT TO HIT THIS AREA AT ANY MOMENT.    RADIO ANNOUNCER     (V.O. OLD) SEE, AND IT LOOKS LIKE A REAL FIERCE ONE."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The storm is here!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The lightening rod! I've got to get it to the meteor!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Heeeelp!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oooowww heeeeelp!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Something's happened to my little buddy!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "        (YELLING) Little buddy are you all right!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "        (YELLING) Yeah I'm ok but I lost the lightening rod! It flew out of my hands and I don't know where it went!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Look!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "       (CONTINUED)"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Huh? Huh? Huh!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan! The meteor disintegrated!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Not only that! It broke into a million pieces!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well I just told the others the good news! Not a trace of cosmic rays."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh that's wonderful professor!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's the best news I ever heard!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Gilligan you've been looking at that mirror for the last ten minutes!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I know. I don't think I look bad for a man of seventy two. "
+    }
+]

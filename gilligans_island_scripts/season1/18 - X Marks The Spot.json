@@ -1,0 +1,1158 @@
+[
+    {
+        "Character": "general",
+        "Dialog": " Well Major, looks as though operation powder keg is ready for the final phase."
+    },
+    {
+        "Character": "major",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "general",
+        "Dialog": " Now we'll learn exactly what that new warhead'll do."
+    },
+    {
+        "Character": "general",
+        "Dialog": " It's to be tested down the South Seas missile range. We found the perfect place. No habitation, no people."
+    },
+    {
+        "Character": "major",
+        "Dialog": " That's wonderful sir. I'll release an announcement to the press and radio stations in the area."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here you are skipper. Here's the pole you wanted."
+    },
+    {
+        "Character": "skippper",
+        "Dialog": " Thanks a lot Gilligan."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " X marks the spot. This is were it will go up."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Not THAT! The playroom!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh, yeah. Hey it's a good idea skipper! If we're going to be stuck on the island, we might as well have some fun."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Why certainly Gilligan, that's why I suggested that we build a playroom. A nice big one. We might as well make the island nice!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Can we have a dance?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well that's not too good a suggestion, there are only three women and four men. It might cause trouble."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No, that's ok now days skipper. They don't dance in couples, they just choose up sides!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hahahaha, very good! Well now you start sawing the poles and I want to listen to the noonday news. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh epdo you know who has the radio?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A, oh yeah the professor has it."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thank you"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Wait a minute! Wait a minute, no. Mary Ann has it."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ah."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No no wait! Ginger, she has it."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No no. The Howell's, they have it."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan. Do you know who has the radio."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I thought not. Saw!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act one",
+        "Dialog": ""
+    },
+    {
+        "Character": "major",
+        "Dialog": " You sent for me sir?"
+    },
+    {
+        "Character": "general",
+        "Dialog": " Have you released the information on operation powder keg?"
+    },
+    {
+        "Character": "major",
+        "Dialog": " Yes sir. The press has been notified and all the radio stations in the South sea area."
+    },
+    {
+        "Character": "general",
+        "Dialog": " Good. Judging from this latest report, projected power of this new warhead is fantastic. Everything within a radius of a hundred miles will be totally destroyed."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hi folks! Have you seen the radio?"
+    },
+    {
+        "Character": "preofessor",
+        "Dialog": " No I haven't seen it. Maybe the girls have got it."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah skipper, it's very fascinating the professor's making a mirror for Mrs. Howell."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Yes, maybe he'll make one for you too!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh well thanks, I'd rather have the radio not a mirror. Haha I more interested in good news than bad news hahaha."
+    },
+    {
+        "Character": "radio",
+        "Dialog": " ONE TWO THREE FOUR. ONE TWO THREE FOUR. ONE TWO THREE FOUR. ONE TWO THREE FOUR. ONE TWO THREE FOUR. ONE TWO THREE FOUR. AND NOW YOU CAN REST."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And now ladies, the next exercise is a real tough one. Deep knee bends. Ready!? One!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I wonder why he has us down here so long?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I don't know! If we had been doing these exercises all along, we'd be in good shape."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I don't see how you can exercise in that dress it's so tight. I'm surprised it doesn't cut off your circulation!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Honey, in Hollywood, the tighter the dress, the more the girl circulates."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And what are you ladies doing down there?  MARY ANN AND GINGER Skipper!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well you turned it off!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I was just having a little fun!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well it wasn't very nice!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " No it certainly wasn't!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " AND THAT WAS A SPECIAL NEWS BULLETIN FROM RADIO HONOLULU"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Hey what's the matter with the radio?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I don't know! Skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Radio's gone dead!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Dead!?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh dear."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Can you tell what's wrong professor?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well, nothing seems to be broken. I'd say it was the batteries."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh, well without the batteries it may as well be broken."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'm afraid you're right. There goes our only contact with civilization."
+    },
+    {
+        "Character": "general",
+        "Dialog": " This is the final authorization for operation powder keg. Have you been in touch with Vandenberg?"
+    },
+    {
+        "Character": "major",
+        "Dialog": " Yes sir. They can get the warhead installed, the missile ready by tomorrow. Just needs your approval."
+    },
+    {
+        "Character": "general",
+        "Dialog": " Permission granted."
+    },
+    {
+        "Character": "major",
+        "Dialog": " Thank you sir."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh this is dreadful! Without the radio, how am I going to keep up with the fashion?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " And I won't know what's going on in Hollywood. Who's getting married to who."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Whom."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well that's women for you. One worrying about what the other women are wearing and the other one worrying about, WHOM they're wearing."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Who."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Eh..yes."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Darling you're only interested in the stock market. We women have more important interests."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " That's right. I'll never learn what happened to young doctor Malone now. After he cured Mrs. Tellingham's baby of the measles, he barely got to the hospital in time to set poor Peter Pitman's broken arm! What he didn't realize was, Peter Pitman was dating his very own girl friend. While they were driving in a convertible, they swerved to avoid hitting another car! Driven by widow Watson, who, was a very dear friend of doctor Malone's father, WHO was shopping for Annabel Hawks, well,"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Good heavens. That's enough to drain anyone's battery!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well it's the batteries all right. Cause everything else is in perfect working order."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No, the company that makes those batteries is a disgrace to the American free enterprise system! I mean really, I've got dozens of companies, we make hundreds of products like that, and you got to maintain production standards."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " But Thurston!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " There is no excuse for shoddy workman ship! Not with testing facilities the way they are today. You market something you've got to make it with meticulous care, to last and to last and to last!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " But Thurston, These batteries were made by the Thurston Howell battery company!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well you can't expect them to last orever can you? I'd go out of business! Lovey! Really!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Professor! Professor! I've got an extra set of batteries for the radio!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah he's got an extra set of batteries for the radio!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " That's great! Great!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I had 'em all the time!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He had 'em all the time!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Forgot all about 'em!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He forgot all about 'em!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I feel like and absolute idiot about this!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He feels like,he had 'em all the time."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All set."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Can I turn it on!? Can I turn it on skipper!? Can I turn it on!? Please!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes Gilligan, just as soon as he gets it YES go ahead! Turn it on!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Go ahead! Turn it on Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's on! It's on!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, what did you do!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I didn't do anything. I just turned it on!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Ah it's not his fault skipper. These batteries are dead too."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " But I never used them!!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well batteries can lose power just sitting on a shelf!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Hey! Wait a minute skipper we're in luck!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yeah, bad luck."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " No, these batteries are rechargeable!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Professor, how can we recharge batteries here on the island!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " We don't even have a credit card."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Seawater! I use to do this experiment in my science class. We used seawater instead of battery acid to re-vitalize old dry cell batteries and produce electricity!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Seawater! Well what are we waiting for!? We've got enough sea water to light up every light on Broadway!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now here's what we have to do. We need coconut shells, seawater, metal strips, pennies"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " The pennies are held in the seawater by the hairpins. The wire coming from the pennies leads to the positive pole of the battery."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Metal strips on the other side of the coconut, lead to the negative pole of the battery. Now, everybody get ready to stir their coconuts, when I get the battery hooked up."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right! Everybody stir!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I wonder if Thomas Edison started this way? Looks like a crazy Martini doesn't it?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right that should be enough. Now lets see if we can get anything."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh it works! Hoho!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Great! Great!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Professor you did it! You did it!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " LADIES AND GENTLEMEN. WE INTERRUPT THIS PROGRAM TO BRING YOU A NEWS BULLETIN. VANDENBERG AIR FORCE BASE CALIFORNIA, ANNOUNCES THAT AT NOON TOMORROW IT WILL TEST A NEW MISSILE, DESIGNATED OPERATION POWDER KEG. THE WARHEAD WILL BE SENT DOWN THE SOUTH SEA MISSILE RANGE TO AN ISOLATED AREA, APPROXIMATELY ONE HUNDRED FORTY DEGREES LATITUDE AND 10 DEGREES LONGITUDE. MORE ON OPERATION POWDER KEG DURING OUR REGULARLY SCHEDULED NEWS CAST. WE RETURN YOU NOW TO OUR STUDIO."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Did he say a hundred forty degrees latitude?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And ten degrees longitude?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What's the matter skipper?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well now don't anybody panic cause I'm not really sure but, we were about a hundred miles east of that position, before we drifted for that three days And with the prevailing western currents, well that's approximately our position here!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " They said down the south sea missile range to an isolated area. And that would confirm an area away from the shipping lanes. And as far as the authorities know, uninhabited."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You mean!?"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act ii",
+        "Dialog": ""
+    },
+    {
+        "Character": "general",
+        "Dialog": " General Bryan. Vandenberg? Put him on. Yes colonel I was just on my way to the airport. Technical problem in the new warhead? I see, uhhum. Well why don't we remove the explosive and go ahead with the launch. At least we can get a test of the new guidance system. No. No need to announce any change in plans."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Hi Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi Mary Ann."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " What are you doing?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh I'm just straightening things so everything'll be nice and neat when it gets blown up."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ooo, what have you got behind your back!?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " A coconut cream pie for you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " For me!?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Uhhum! Oh you start thinking at a time like this and, well I haven't always been as nice to you as I should."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh that's not true Mary Ann. You been very nice to me."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " No I haven't! Take last night for instance. You wanted another piece of watermelon and I said no."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You were right to say no that was my eighth piece!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " But the point is Gilligan, if you had wanted it, why shouldn't you have eight?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Because the first seven gave me a stomachache."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " We haven't got much time left between now and, you know when."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " When?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh, that when."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " That's why I'm being especially nice to everybody. I baked you two pies. I'll bring the other one in when it's ready."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Boy, what a way to go!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " In here skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " How 'bout that Mary Ann. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh no."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " She thought she wasn't being nice enough to me so she made me two pies! Actually she's been wonderful to me but, well, I haven't been very good to you little buddy."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh that's not true skipper!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh yes it is, now don't say that just to make me feel better. I know it's true. I know that I yell at you and bawl you out when you're really trying to do your very best! So, what I'm trying to say little buddy is, I want you to have one of my pies."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh no skipper Mary Ann made it for you"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No no, I insist! Now little buddy just trying to make up for the way I've treated you. And I know that if Mary Ann had made you two pies for you, you'd give one to me! Now I want you to eat every bite."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper I like the way you treat me. I like the way you yell and shout at me."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You know before it's too late a man, should look at the people around him. And, figure out what he can do to make their lives happier! Oh little buddy, you don't know how happy you're going to make me feel when I see you eating this pie!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh no skipper I"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "     (SARCASTICALLY) Thanks a lot Gilligan."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston are you sure that you want to make a new will?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes I'd like to get things right before we take a long walk up that great flight of stairs to the big bank vault in the sky."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " What makes you so sure we're going to walk UP and not down?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " The reason I want to write a new will. Now let me see Lovey, up until now my favorite charity has always been me. But I think its time to think of other people, so I direct in that will, that all the money from the First National Bank be distributed among needy children."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Needy children! Oh Thurston that's a marvelous idea! That means of course all children living in Beverly Hills."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Naturally. Now lets not forget medical science. We must help fight disease. "
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Which disease darling?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well that is quite a problem deciding which one, so lets leave ten million dollars to each disease. That ought to take care of all the money in the aSecond National Bank."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Are there that many diseases?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well by the time they find our will in that bottle I think they'll discover some new diseases. Now what about the money in the, Third National Bank?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " We leave it to the First National Bank and let them worry about it!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Marvelous Lovey. Oh abefore we put that note in a bottle, lets try once more to figure out a way to, see if we can't take it with us."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Hi!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh hi."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Am I intruding?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh no. I was just thinking what a waste my life's been. I mean, so I was an actress so what. I never really did anything for anyone."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well you entertained people."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh that was just for the moment. I mean really do something important. Like being a nurse. Oh although I was a nurse. For one day I was Ben Casey's nurse. And you know something professor. In that one hour, we saved six people. And if it hadn't been for the commercials, we would have saved eight!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " You're right Ginger, that's what's important. Saving people. I should never have become a teacher. Should have gone on with my work in science. You know when I was in college, we were working on a vision problem encountered by Navy patrol fliers after they had spent several hours scanning the ocean and Wait that's it!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " What!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " What fool I've been! Why this is great!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper! Skipper!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " This is great! Absolutely great!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What's great professor? Take it easy!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Take it easy!? We can't! We've got to get busy don't you see! We're not in danger! This is our rescue!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Rescue!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Why sure listen! Before the government ever sends a missile down range, they send out a search plane first to make sure the area is clear!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " He's right! They always send out a searching party for fishing and pleasure craft!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Or hunters or natives!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh Thurston we're practically rescued!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " My darling!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Little buddy I told you we were going to be rescued! I told you! I told ya I told ya! Hahahaha!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ya did! Ya did skipper Ya did! Ya did!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And just to make sure they see us, I'm gonna finish that mirror I was making for Mrs. Howell. We'll use it to signal the plane. That should just about ensure our rescue!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh let's get at it professor! That's the kind of insurance I like!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hurry up professor, that plane'll be over any minute now!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " That does it. It's Finished. You know using that gumwood paint should make a good reflector. Come on skipper give me a hand."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh boy, all right, sure!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You now I haven't seen myself in so long I forgot what I looked like."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Lost a lot of weight."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Let me get a better grip on it."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ooop! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Instant fat!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper, let's see how it works in the sun."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh! I feel like I'm in Hollywood!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Come on Ginger, let's see what they're doing."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Sure does work!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well it's not exactly ground glass, but with that strong sun, I don't see how the plane could possibly miss it."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh boy, all we've got to do now is wait for that plane! Here Gilligan, get over on the other side of the clearing. The view is better from there and keep your eyes open!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aye, aye sir!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's a plane! There's a plane!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Where!? Where!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " There it is!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " There it is!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " There! Is that marvelous!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's the rescue plane! Set up the mirror! Set up the mirror!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Set up the mirror! That's it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh boy this is what we've been waiting for!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Start flashing the signal! Start flashing the signal!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan! Gilligan are you all right!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm all right."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Are you sure you're all right little buddy! Oh the plane professor! The plane!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh! Everybody! Quick!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Get a piece of glass, signal the Plane!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " There Mary Ann! Single! Signal!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Come back! I'm your biggest taxpayer! I belong to the million-mile club!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " AND THE COUNT DOWN HAS ALREADY STARTED ON OPERATION POWDER KEG. FIVE, FOUR, THREE, TWO, ONE, ZERO! (Rocket engine sound) IT'S A PERFECT SHOT!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " It would be."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Should be along any second now."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh professor, how can you be so calm? You act like you're waiting for an afternoon train or something!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I think I see it!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " It didn't detonate."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And it didn't explode either!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Look! Look!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It's coming up the lagoon! It's coming right this way!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Don't make noise, don't even breath!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh we're not! I don't even think my heart's beating!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston you're so brave you're not even shaking."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I can't. I think rigimortis has set in."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Even a vibration could blow us up. Our only chance is to disarm it."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " How do we do that!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Someone's going to have to remove the access panel and crawl inside. And there's only one of us small enough and thin enough to fit in there."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Who?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Come on Gilligan, I've got the tools."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Maybe if we wait, they'll send a repairman."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh please Gilligan, there may be a timing device."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Here you hold these. We'll take it very easy. I'll remove the access panel, that on it. That way I'll be able to figure out which wire you have to disconnect."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Professor, you got to get in there and give it one good hit!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Let me do this. Your job will come later."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now Gilligan, your gonna have to find a green and yellow wire. And that wire will disarm the missile. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A green and yellow wire, yeah."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now carefully. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Every moment counts. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " That's it."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I found it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I found it."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh good."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now, your gonna have to trace that wire until you come to a buss bar."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A bus bar?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes a buss bar, is a long copper rectangle with a lot of wires attached to it. You'll have to take that wire of the connector, and that will disarm the missile."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And Gilligan. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " If the end of that wire, touches any other connector, you'll blow us all up."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Take it easy little buddy."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh Gilligan, please be careful."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yeah, here it is."
+    },
+    {
+        "Character": "all",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Fire!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan's still in there!!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " He's in there that boy!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Why it's coming back!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " He didn't have chance to get out!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston, I think we ought to rename the house in South Hampton, Gilligan's acres."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I was going to have a Gilligan scholarship at Harvard."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " The next boat I get, I'm gonna call her,"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " the Gilligan."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " When I get back to Hollywood, I'm gonna sell a story to the movies."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Gee it all sounds so wonderful I think I'll go back and drown myself!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": " "
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mr. Howell?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Uh, epyes yes Gilligan my boy what is it?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mr. Howell, remember when everybody thought they were gonna be blown up. Remember how nice they were to each other?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Gilligan my boy, when people are in trouble, they make concessions and promises. And when their trouble is over, they forget those, fancy promises."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Would YOU Mr. Howell?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " A Howell go back on his word!? Never! Our family crest, honesty, fidelity, integrity!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I thought so."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Uhewhat's that?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh, it's your will Mr. Howell. I found it when I swam out of the missile. I'm just throwing it back in the water now."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " NO! NO MY Boy Don't!!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No no noooooo!"
+    }
+]

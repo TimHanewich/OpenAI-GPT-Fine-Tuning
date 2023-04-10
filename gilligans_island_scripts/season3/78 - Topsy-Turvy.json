@@ -1,0 +1,1506 @@
+[
+    {
+        "Character": "skipper",
+        "Dialog": " Here's the cave I was telling you about!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Ah, you are right! It is big enough for all seven of us."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's right! And food, and a big water supply and everything!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Anybody home!"
+    },
+    {
+        "Character": "echo",
+        "Dialog": " Home, home...home..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Will you stop fooling around! Those headhunters are getting closer every minute!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Those headhunters really cut off your head?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes, they cut them off, they shrink them and they put them on the ends of sticks!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ooo what crazy canes! I'm going to get out of here! They're not going to take me without a chase!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We need some bamboo for weapons. Some spears and clubs and everything, now go get some!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aye, aye sir!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan you don't have to try and knock your own head off. The natives'll do it for ya!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " First it was day and then it was night, and then it was day, and then it was night."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What's the matter Gilligan?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " How come you two guys are upside down?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Upside down!? What are you talking about!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " How come...the whole world is upside down!?"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act one",
+        "Dialog": ""
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I've got my medical book in the supply hut. I'll see if there's a cure for your condition."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah, please hurry! Seeing everything upside down... ...makes me awful dizzy."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What a time for this to happen when all those headhunters closing in."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah, they'll probably mix up and cut off my feet!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Here Gilligan take it easy now, just lean against the table."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah, thanks skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'm sorry I'm gonna have to leave you little buddy, but I got to make some spears."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ok, I'll help you."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Get over here and just sit down at the table now."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wait until the professor comes back with something to fix you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I better be care, I almost fell up!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ah...well...yes...all right stay right there."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Gilligan have you seen Mary Ann?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Those drums keep getting louder and louder and skipper wants fresh water for the cave and why do you have your eyes close??"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Cause I'm afraid to open them."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Gilligan, closing your eyes won't make those headhunters go away!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's not what I'm afraid of."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Then why have you got your eyes close?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Cause you're standing upside down and I'm afraid your dress might fall up!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Gilligan that's ridiculous!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey you're right! It's staying there."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " This is no time to be playing games. Those headhunters could be here any minute!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's not a game! You see I was running along and I...and I hit my head against a branch of a tree..."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh I don't have time to listen to you, I've got to find Mary Ann!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " For a girl, she runs pretty good on her head!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Back you headhunters! You fight very well senior but not well enough for the Count of Monte Cristo! HAhh! Hiee! Ha...ha caught you sneaking up me! Ha!! Ha! HA!!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston be careful with that thing! "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well I'm protecting you from the evil headhunters my dear."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " My darling, exactly what ever are you doing!?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well if I'm going to have my head hanging on a wall, I want it to be properly quaffered and chapeaued."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Don't worry my dear, they'll never touch a hair on your head!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Yes but the professor said..."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Bah humbug what the professor said! Just put your trust in me faithful... ...sword!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Exactly, what DID the professor say?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well he said, that our only chance for survival, was to hide in a cave."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh good heavens, it took generations of breeding to get the Howell's OUT of a cave!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Unless of course you want to sit down  and reason with them."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " My dear you reason with men at the Harvard club, not with men who carry clubs."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " You know I understand that they become quite child like, if you offer them a few trinkets."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " My dear you're absolutely brilliant! Just dazzle them with your diamonds my dear!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh no darling not diamonds! Natives like rhinestones!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " The aborigines will never know that they're real!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan, you're a very lucky young man!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Lucky!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes, there's a berry that grows in this part of the Pacific that has remarkable curative properties for optic disorders."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well it's bad enough having eye trouble, now I have Optic disorders."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Gilligan it's the same thing!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " The Captibora berry may be the cure for your condition."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll eat anything if it helps."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now there are a variety of Captibora plants here on the island. But I want only the red berries with the green dots. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " So we must all make sure we pick the right ones."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " You mean we all have to go out and pick them?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh Gilligan I'm awfully fond of you but, I'm not going out in the jungle alone! Not while those drums are beating."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What drums?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " The ones that are going..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " They stopped!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " We're saved!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No headhunters!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well they only attack to the beating of the Tom Toms. And since we don't hear a drum beat it follows that we have nothing to fear!"
+    },
+    {
+        "Character": "head native",
+        "Dialog": " Galla lop lanona! (Not make drums like use to)"
+    },
+    {
+        "Character": "native no.2",
+        "Dialog": " Lulod'kewi nona! (Now cannot collect heads)"
+    },
+    {
+        "Character": "head native",
+        "Dialog": " U'ala? (Why not?)"
+    },
+    {
+        "Character": "native no.3",
+        "Dialog": " Kawalona. (Tradition)"
+    },
+    {
+        "Character": "head native",
+        "Dialog": " E'na taka wenona! (Come for head! Get heads anyway)"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Nothing! Absolutely nothing around here!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Poor Gilligan, sure glad I don't have his problem."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Mary Ann, I think I found some!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Is it?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh no they have to have green dots on 'em."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh I'm exhausted. "
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well at least we don't have any headhunters to worry about."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Do you think there really every were any headhunters?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well the professor thought so."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well that's because he heard the drumbeats, but we never actually saw one."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I know but back in Kansas the farmers have a saying, it's the wolf you DON'T see, that's the one you have to worry about. Oh but you don't come from a farm so I guess you don't know anything about wolves."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Are you kidding!? I come from Hollywood!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Let's concentrate on find some more Captibora berries."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " That name. The cure sounds worse than the dieses."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Did you say something?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " No."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Mary Ann! Ginger! I found some of the berries!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I can't tell if it's a quarter to three or, half past nine. Who cares I'm hungry anyway."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's hard to tell, but I think that's a Papaya tree. Yeah."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Maybe I'll do better if I close my eyes."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Gilligan! Gilligan are you around boy!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Over here Mr. Howell!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't remember cutting that in half?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " There you are Gilligan."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Gilligan, we've seen the cave and it just won't do!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Gilligan my boy do you have bursitis?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No I see everything upside down."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " How nice! Now as I was say we've sent the cave and it won't do."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Gilligan, Mrs. Howell is talking. You...you must look at her."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well ok Mr. Howell I'll try."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " You know dear I think he's trying to tell us something."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm trying to tell you a lot of things. A...a I see everything upside down, the drums have stopped, so there's no more headhunter and... ...we're out of danger."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " No more headhunters!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The drums have stopped."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " So they have."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " That's marvelous news! Lets celebrate!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Let's have a party!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Like I was saying, see I was running along see, and I ran into this..."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Ah...we'll wear paper hats and play party games."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Charades!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Musical chairs!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Follow the leader!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Pin the tail on the Donkey!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You mean the Polo pony my dear."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh naturally darling what else."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes indeed!...Maybe I'll get some of my vintage bubbly out and we'll..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I hope this medicine works."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What if it doesn't?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well we'll have to find another cure. You can't go through life like that."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah, imagine going through life not knowing which end is up."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan I will withhold comment."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " How long will it take for that medicine to work?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Its effect should be immediate. Listen, hand me that shell over there to my left will you please?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sorry professor, but, I didn't want to spill it so I, turned it right side up which was wrong side down since everything I see is right is wrong and every thing wrong I see..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan, do me a favor will ya? The next time I ask for help, refuse it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Thank you. Now go over there and sit down!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I made it!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes, what you made is a mess."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hi Gilligan, hi professor. I found a whole bunch of berries!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh, wonderful skipper. Now, there's one more thing you can do to make this experiment a complete success."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wha...what's that professor?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Take Gilligan outside."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All right."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Come on Doctor Kildare. Steady as you goes."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " For a little guy, you can sure get in big trouble."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's cause I try harder."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Boy, the things I do for you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm sorry skipper. But this is the only way I can talk to you without falling down, or up or sideways."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper, you are standing on your head aren't you?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Of course I am professor!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh good. For a minute I thought I was working too hard. Come on Gilligan."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Give him some of that stuff before I kill myself!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " No Gilligan! "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " That's it. Now close your eyes. Now take just one sip."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ich!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Drink it will ya!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Smells awful."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh the smell is nothing compared to the taste!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh that's different."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " There, that wasn't so bad was it!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No that wasn't so bad, it wasn't bad, it was HORRIBLE!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right now Gilligan, very slowly, open your eyes."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " You still see everything upside down?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No I see everything right side up."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Then why are your eyes closed?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I see two of everything."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Two?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah. One skipper, two skipper."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " One professor, two professor."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " What!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " One skipper, two skipper, three professor four,..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Five professor, six professor seven professor more! Eight professor,..."
+    },
+    {
+        "Character": "fade out:",
+        "Dialog": ""
+    },
+    {
+        "Character": "act two",
+        "Dialog": ""
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right Gilligan close your eyes."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Why's he keep seeing double now!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well it's probably the Captibora berries. They seem to have unstable properties."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh we've GOT to find a some kind of a cure for my little buddy!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Thanks thanks skipper skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thanks thanks skipper skipper?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I didn't want to miss either one of you."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan, open your eyes."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh the pupils are extremely dilated."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's bad huh?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well not necessarily. This entire problem is probably a temporary reaction to the Captibora extract. Frankly, I'm not overly concerned."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm not either, if it was happening to somebody else."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'll have to prepare a new extract. Something to counter act the last one."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " A...a Ginger said that you wanted to see us."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes I did. It concerns our young friend here."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh you mean that he sees everything upside down."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A...Mr. Howell you only see one Gilligan right?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well that seems to be quite sufficient."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well I see two Mr. Howells...       (CONTINUED) ...and two Mrs. Howells."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well lucky boy. Imagine seeing four Howell's "
+    },
+    {
+        "Character": "in one viewing.",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Mr. Howell, we've all got to pitch in and work hard!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " A yes... ...yes I shall donate a sizable to medical science."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh and I'll go to see him on visiting hours."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " We must all go into the jungle... "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " ...and collect Captibora berries!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " With our HANDS!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's right!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " But that's manual labor!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Mr. Howell, hard work never hurt anybody!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well it never help anyone either!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " But it's for Gilligan!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh that's the unkindest cut of all. Appealing to my sentimental side."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well darling lets cooperate and pick berries."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " But it's manual lab...suppose someone should see us!?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " We'll wear dark glasses no one will ever recognize us!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ha...ho good thinking! We should carry on!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Stay right here now little buddy, and we'll be back in no time!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh and by the way Gilligan. There may be other side effects caused by the sun's rays and the dilation of your pupils."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " The refraction could cause hallucinations."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's ok as long as I don't start seeing things."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, that's what the professor means by hallucination!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " To put it more simply, don't believe everything you see."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You mean if I see the creature from the black lagoon I shouldn't worry."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Exactly, it won't be real."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What if I see Bridget Bardo in a towel?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Call me!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Everything's double, including my appetite. I'm twice as hungry as I was before."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh boy! Bananas!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The professor was right, I can't believe everything I see."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I know it's not that one, it must be this one."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll bet the professor never thought I'd start seeing things like that!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I know there's another bush down by the lagoon."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Yeah the professor said we've got to fill up as many baskets as many as we can."
+    },
+    {
+        "Character": "native",
+        "Dialog": " Ke'a I'wana!       (SUBTITLE) (Curses! Foiled again!)"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh Gilligan! We got your Captibora berries!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Thanks I'll take 'em."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh here, we'll hand them to you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah it'll work better that way."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Do you still see...       (CONTINUED)"
+    },
+    {
+        "Character": "...two of me?",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah, One there..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And one there."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Wouldn't it be wonderful if there really were two of me? One of me could go out on a date and the other could stay home get some sleep."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh you'd spend twice as much time under the dryer, or twice as much time washing, twice as much time ironing!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Kill joy!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Gilligan we'll get you some more berries."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll wait here for the four of you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Two tables and I can't hit one."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah Gilligan! Gilligan! "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Gilligan my boy! We found a veritable gold mind of berries!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh hi Mr. and Mrs. Howell and friends."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh we've had the most marvelous luck."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No no no, skill my dear skill! While the others were bumbling around, my helpmate and I succeeded in our little quest!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " We each found a berry!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " One?"
+    },
+    {
+        "Character": "mr and mrs howell",
+        "Dialog": " Each!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " That's right, very exhausting but well worth it if it'll straighten you out!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Straighten him out!? Oh don't tell me he won't be the confusing boy we've grown to know and love!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Eh no, it means just to correct his eyesight my dear."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Don't worry Mrs. Howell, I'll stay mixed up as ever."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh that's thoughtful of you dear."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well well it's siesta time."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Yes, berry picking is very tiring. "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Don't you hit my wife there, Get that knife out of my way!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh! Mr. and Mrs. Howell they got you too!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well we didn't engage them as tour guides I'll tell you that! Wait a minute!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Careful! These natives are savages."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston why don't you tell them who you are!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Good idea! Loo...now look here I am Thurston Howell the third. A...who...whose head man here!? What's...what's your union affiliations!? Local headhunters eight oh two!? Huh!?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston why don't you go get some our trinkets?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Good idea, get the trinkets."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " You know I don't think he understood me."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well I understand him perfectly."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " What are we going to do!?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh we're going to wait for the professor, skipper and Gilligan to rescue us!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Wait a minute wait a minute I have an idea, it always works. It's the universal language. "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Here my good man, here is fifty thousand dollars!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ahhhh! It's MONEY! M O N E Y! He doesn't understand. He is UTTERLY uncivilized! A little under the table."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan!?"
+    },
+    {
+        "Character": "native",
+        "Dialog": " T'chira Yamu'a (Skinny one must be cat) (Has nine lives!)"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I've got another does of the medication ready for you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh, do I have to?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well unless you enjoy seeing double."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yeah."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Professor I can find the girls or the Howell's anyplace."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well they must be somewhere in the vicinity!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah, I saw all eight of 'em ago about a half an hour."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All eight of them?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah, there was two Mary Ann's, two Ginger's..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh never mind!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now Gilligan, I want you to take just one sip. Close your eyes. And don't open them again until I tell you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ok."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now when you open your eyes, your vision should be cleared."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right Gilligan, open your eyes."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I see five professors and five skippers."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Five images!? Of everything!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh no! The extract must have reacted in some sort of weird geometric progression!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh professor I'm afraid you're not helping my little buddy at all."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'm afraid not skipper. Gilligan, forgive me."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I will professor as soon as you get rid of all those people. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " However it should be possible to reverse the process."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " We must dilute the extract. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Here Gilligan, close your eyes and drink this water."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now keep drinking. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Keep drinking. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right open your eyes."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I see one of you each!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It's wonderful!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " He's cured!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well not quite, I still see those natives I've been imagining."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " What natives!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The ones I've been imagining all day."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What natives have you been imagining all day!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Like the ones that are about to grab the professor. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan you haven't been imagining! He's real!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Real!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " One, two, three. And one of me. That's three against one. If I could only get them out numbered."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Out numbered!? Yeah!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ugh!"
+    },
+    {
+        "Character": "head native",
+        "Dialog": " Wala Nana. Winona!"
+    },
+    {
+        "Character": "native no.2",
+        "Dialog": " I'deae Inona!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What'd they say?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Before they kill us, they plan on taking us to their island for a formal ceremony."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh, did you say formal ceremony?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh well then professor you must have exaggerated their brutality. Nobody who gives a formal can be all bad."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Professor you speak their language, can't you talk to them!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well Ginger it's not a matter of talking to them. It's their tribal custom to kill all strangers."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well let's try being friendly!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Yoo hoo!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " It would appear they don't make friends."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well I'm not giving up hope!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Thank you Mary Poppins!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh but Gilligan's still free! He can rescue us!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, rescue us!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " He couldn't pick the winner of a one horse race!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I wouldn't put it passed him to walk right up and get himself captured!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh no!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mmmmm! Mmmmm! Real nummy num num!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mmmmm! Mmmmm!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " There, what'd I tell ya!? Our hero!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi everybody!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Gilligan, why did you give yourself up!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I got an idea!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh brother."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I have ideas."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I know!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well I thought if that berry juice makes you see double, makes you see three time and four times, and if they drink it..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " of us!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And they'll think they're out numbered!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " It's an excellent plan!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh it is an excellent plan. I just wish that somebody else had thought of it."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well what difference does it make who thought of it!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well because Gilligan is the only one I know that can, snatch defeat right out of the mouth of victory!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Look! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Now if it takes as long on them as it took on me..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah, right about now."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh Gilligan!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You did it! You did it little buddy!"
+    },
+    {
+        "Character": "fade out:",
+        "Dialog": " "
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " But Gilligan, they were giving you tokens of appreciation for saving their lives!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh they didn't have to do that! They'd do the same thing for me!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Gilligan, I backed you a banana cream pie!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh it's beautiful. I can hardly wait to eat it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Gilligan! Don't drink that! Gilligan! You just drank that Captibora extract!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I know it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Now I've got FIVE pies!"
+    }
+]

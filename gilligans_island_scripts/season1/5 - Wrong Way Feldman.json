@@ -1,0 +1,1378 @@
+[
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh it's real! Oh! Oh! Oh it's got an engine, and wheels, and wings, and a propeller, and oh oh I gotta tell somebody! Oh! Oh boy! Oh boy!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Stay right here! Don't go away! Oh boy! Oh Boy! Oh boy!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act one",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " How we doing professor!? How we doing!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well it's...it's remarkable!    SKIPPER & GILLIGAN Yeah yeah yeah!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well considering the fact that this plane must have landed here twenty five or thirty years ago, it's remarkable!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Bu...But can we get it off the ground!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well I...I don't know I'm not sure."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Awe it's too bad I couldn't find a brand new plane that could fly."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " With a great big powerful jet engine."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Yeah, and great big powerful jet pilot!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " You know something? I believe this engine can be repaired if I could fix the fuel line."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Then we're saved! We can fly it outta here!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " There's only one problem Gilligan. None of us knows how to fly!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ah we could learn! Because the skipper was on an aircraft carrier!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh a lot of good that'll do us Gilligan I was a cook!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " My room mate was a stewardess!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I knew a crop duster once in Kansas!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You see with all that experience we can do it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan we haven't got enough experience to fly a kite!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'm afraid the skippers right, we could never do it. We'd be better off salvaging the parts of the plane."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh well, it was a peachy idea while it lasted. See ya."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Lets go fix dinner. Cheer up Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Professor, don't you think it's worth a chance?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And that's all you'd get Gilligan, one chance."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Professor we got one chance we've got to take it! We've GOT to take it! Now come on I'll clean off the tail gear, Gilligan you get that cockpit cleaned out."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Alright I'll have a look at this instrument panel."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Instru what!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " The instrument panel."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh. "
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thruston, have you any idea where we are?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Not the faintest!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oowwwww!  Oowwww! Oowwww!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Over here!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh yes. I tell you this is absolutely..."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Over there! Over here, over there."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Over there yes ,well I heard...I heard the sound."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh Thurston, this is ghastly!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Next time well take a live in guide! I've never..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Say, this instrument panel is in pretty good shape!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Good! Then our chances are better huh?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh Thurston! Gilligan was absolutely right! It IS an airplane!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Obviously non scheduled, lets go Lovey."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey hey look at this! The spirit of the Bronx!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " The spirit of the Bronx."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " The spirit of the Bronx! Say, that was Wrong Way Feldman's plane!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's right! The one that he used on his round the world trip!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Looks more, HALF way around the world! Wrong Way Feldman! So that's what happened to him."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " It seems like yesterday. And it was really way back in the thirties!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I read all about him! He was a great pilot!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Not as far as Howell aircraft was concerned, we invested money in his first plane."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Yes that was the one that went non stop from ah...Chicago to New Orleans."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That was pretty good for those days!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " He was suppose to go to Minneapolis! Fool flew the wrong way."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I guess that's how he got his nick name huh?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No he got that during world war one, he bombed his own airfield. Pow!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Regardless he still did a lot for aviation."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And at least he was a pilot! For my money I wish he was here right now!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh, I can still remember him from the news reels. That jet black hair, and that slim waist and that flying suit. And that wonderful white scarf, flying in the wind. Awe poor Wrong Way.  I wonder if there's a chance he could've survived."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " On the contrary. Wrong Way Feldman has gone to the great hanger in the sky. (pause) Knowing Wrong Way, it's hard to tell which way he went!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " I'll tell ya where I went!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " I'm right here!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I don't believe it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wrong Way! Your alive!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Surprised huh? SKIPPER Well...but...how did you manage all these years!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Are you...are you really Wrong Way Feldman!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Who else could I be? I been alone on this island all these years. And then I saw this young fella, nosin around my plane."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh I'm Gilligan Mr. Feldman sir!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": "     (affectionately) You, may call me Wrong Way."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Thank you...ah thank you ah this is Mrs. Howell..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": ""
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Oh madam you are beautiful!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " ...and that's Mr. Howell."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Certainly it would be."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Come along Lovey!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " You see, Thurston's just a little bit jealous."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No I'm not jealous, I just don't want him slobbering over those expensive gloves! Come along!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Stranded on the same island with Wrong Way Feldman! Oh we sure are lucky!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Oh tha...tha...thank you ah Gilligan?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Your an amazing man! How did you manage to survive all these years!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Physical fitness, iron will, perseverance and sixty four bottles of scotch."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Scotch!? Where did you get the scotch!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " In with my provisions. You know I had every thing, ah food, gasoline, magazines..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gasoli...gasoline!? You had gasoline!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Certainly."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well Why didn't you fly out of here!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " With that engine!? After the first three years I give up trying to fix it, ah it's hopeless!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well wait a minute, maybe it isn't! With the spare parts I salvaged from the boat I might be able to fix it!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " You can fix a Krieder Rightner KR21!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well I'll certainly give it a try!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " That's the spirit!! You...you fix her up I'll fly her right out!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mr. Wrong Way? You're the best thing that ever happened to us!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Oh just a minute now tha...tha.there's much work to be done!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's right men we've got much work to do! Wrong Way, the supply huts this way."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Professor this bolts the wrong size see if there's some others in the tool box will ya?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Alright skip."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Possibly this Papaya punch is partly past it's prime. (pause) Well it's hard to believe, planes without propellers, six hundred miles an hour!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And some go even faster."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Yes, I certainly must have missed a lot. New planes, new inventions, n...no more rumble seats, n...no more Liberty magazine."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And you missed the second world war!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " The SECOND world war! So that's what that was! I always wondered what that noise was!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Do you remember the first world war?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Do ya...do I reme...I was an ACE my boy an ACE! Oh that was a big one, no picnic up there! Dodgin them bullets, divin in and out in my Bristol Scout. Oh and I met some great pilots in them days. You should have seen my wing man Buckey Lorenzo."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He was good huh?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Good!? Th...they still talk about one flight he made! He downed three German planes an...and strafed a railroad yard."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sure is a great story! He must have been decorated!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " No he was Court Marshaled."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Why?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Cause it was three years after the war was over. Poor Buckey, certainly upset the President."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It's no good professor, these bolts just aren't usable."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I've got an idea."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I got some rusty bolts here. You got any penetrating oil Wrong Way?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Penetrating oil. Oh certainly, with my provisions."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Good, lets go get it. With luck we should be through here in a couple of hours. Wrong Way gets up and starts to walk with the professor. Gilligan is following right behind them."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Oh luck, that's something everybody can use one time or another. I remember once that three Hinies come at me out of the sun..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan! Would you mind coming here a moment?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey skipper? Can I go with Wrong Way?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Don't you want to help me little buddy?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yes sir."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thanks a lot Gilligan, now would you mind checking that rear wheel I think it's loose."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'll lift the tail."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah it's a little loose."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " How Loose!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " This loose!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "     (VERY STRAINED) Gilligan, get something to put under the tail of the plane so we can put the wheel back on!!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll get that rock over there!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I can't move it skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "        (STRAINED) Would you like me to help you Gilligan!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah that's a good idea!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "     (VERY STRAINED) Oh GILLIGAN!! Hurry up it's slipping!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "       (STRAINED) It's beginning to sli..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Put it down now Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's resting on the ground."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "        (IN PAIN) Gilligan you think it's on the ground? It's on my FOOT!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper! Skipper!! SKIPPER!!!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "      (WHISPERING) Wrong Way. "
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "      (WHISPERING) Wrong Way."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "      (WHISPERING) Wrong Way. Is there room for me?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " No, don't you have a hammock of your own?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Wrong Way! I meant on the plane! Can you take me with you on the plane?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " No it's a one seater."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well, I'll sit on your lap."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " I won't be able to see where I'm goin."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well you can sit on my lap."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Awe my feet won't touch the pedals!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh please Wrong Way, I've just got to get back to Hollywood. If I don't get back to Hollywood soon, my career will be ruined. Please Wrong Way. I can promise you glamorous evenings. Moon lit nights. Just you and me."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Think it over Wrong Way."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Wrong Way!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Forget the moon lit nights you ain't goin with me."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Moon lit nights!? I'm here to make you a business proposition. Look, you take me with you on the plane and I'll make you vice president of Howell Aircraft corporation. You'll be on the big board and..."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I'll make you president with stock options!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Chairman of the board with fringe benefits!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Wrong Way I've got to get off this island, if I don't the Howell empire will crumble, it'll...one final offer Wrong Way. I'll give you half interest of everything I got, my industries my...I'll even give you my...my very own teddy bear."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " A man makes a fair offer and a..."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Apple pie order! Beautiful!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Dirt!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Standby Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Professor you done a great job I'm quite satisfied."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well thank you Wrong Way. Everyone's  worked very hard."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Bless you all!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Wrong Way!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " What?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh good luck!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Lindy had sandwiches!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh Wrong Way! Remember fringe benefits, come back for you know who!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh When you get to Kansas would you call my Uncle George and Aunt Martha please!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh a...and when you get to Hollywood, would you call my agent and his wife, who ever he's married to this week!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Please please! I...I...I want you'z all to understand, WE, ain't any more important than any one of you. Although, I'll be up THERE risking my life, still, it's a team that counts! Alright! Clear the runway!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Rudder!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Check!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Left wing flap!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Check!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Right wing flap!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Check!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " STAND BY!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Standing by!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Contact!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act two",
+        "Dialog": ""
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " GILLIGAN!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes Sir!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Stand by!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Standing by!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Alright everybody clear the runway!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " CONTACT!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Contact!"
+    },
+    {
+        "Character": "all",
+        "Dialog": " Yeh!!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah Bravo!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " I'm taken her straight up!"
+    },
+    {
+        "Character": "all",
+        "Dialog": " YEH!!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Wrong Way! Are you alright!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan cut the motor!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " First sign of trouble and he bails out!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Look at that! I wouldn't had no control of the plane!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Your right! Someone's tampered with this strut! And it was no accident!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " What do you mean!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Somebody sabotaged this plane!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah and they cut the strut too!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's nonsense! Who'd want to wreck the plane!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Maybe there's someone else on this island that we don't know about. "
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Maybe one of you isn't so anxious to have me fly for help."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh Wrong Way don't be silly! We all want to be rescued."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " And soon! I'm practically all out of mascara!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Nobodies more anxious to be rescued than we are!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " That's right we told our chauffer to keep the motor going!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well somebody sabotaged this plane!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And cut the strut!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Couple a more minutes I could've been killed!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well from now on we're not taking any more chances! We men will stand a twenty four hour guard around the plane!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Here here!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": "      (TO MR HOWELL) Not you!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan there are no more bullets for the gun. So use this bow and arrow for protection."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Don't worry skipper I'll guard the plane."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " There you see. Now that's for protection."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now don't let anyone near the plane cause we don't know who wrecked it. Not anyone at all."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " OK"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " OK?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'll relieve you in a couple of hours little buddy."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Who's there!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Me!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Who's me!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It's me!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Stay where you are me! How do I know it's you!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Your right it's not me it's the Count of Monte Cristo!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I knew it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan it's the skipper I forgot my lantern!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Say something the skipper would say!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Put down that bow and arrow you idiot or I'll break you in half!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yep it's the skipper alright!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I wonder where Wrong Way is. He said he wanted to test the engine."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well you know how he is. With his sense of direction if he started for the plane he might've walk straight into the ocean!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'm getting worried. Gilligan went after him twenty minutes ago."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper! Skipper. Skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What is it Gilligan!"
+    },
+    {
+        "Character": "illigan",
+        "Dialog": " Wrong Way's gone!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What are you talking about!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Wrong Ways gone!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " His hut's a mess, everything's broken up and thrown around! I thought maybe he's a restless sleeper but..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Are you sure!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He must have put up an awful fight!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yeah but against what!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yeah against what!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't know, but look here's his scarf!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We'll have to spread out and comb the island! Professor you take that direction! Gilligan you go in the back of the island, and I'll go out to the ocean! Alright!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Doh!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Waaahhhh! Wrong Way!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Wrong Way!? Wrong Way!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Boy I'm sure glad I found you!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Where are the kidnapers huh?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " There ain't no kidnappers."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No kidnappers?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " It was a hoax!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You were kidnapped by a hoax!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Can't you understand Gilligan! I am a coward!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What!!?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Sure.  I'm the one who sabotaged that plane.  I loosened the propeller, I cut the struts. After all these years I just couldn't fly that plane! Oh I'm washed up, through! Gilligan, I am grounding myself."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The way you were talking, we all thought you wanted to fly!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Aaaah...it was just a front for a man who has lost his confidence. Ah It would have been better if I'd remained lost to the world. Since I ain't got nothing left to give it."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What about me!? You could teach me to fly! And I can take that plane out of here!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " You fly the Spirit of the Bronx!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sure!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Handle a Krieder Rightner KR21!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " With you teaching me, I can handle a Krieder...Kried..."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Krieder Rightner"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I can handle it!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Yeah but Gilligan! I always fly the wrong way!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's ok! You point me in one direction and I'll go in the other!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " It just might work! At least it'd be a chance to save them people."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " We'll get started right away! I'll go tell the others!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " You'll do nothing of the kind! We'll stay right here. Then when the conditions are prevailed, as far as they're concerned, you're going to rescue them Gilligan. And Wrong Way Feldman, will remain lost to the world. A legend in his own time."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Wrong Way, your quite a guy and, whether you think so or not, you deserve these wings!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Who goes there!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " It's my turn to..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Professor Ha...ha...ha...ha, wells alls well so far. Ah Gilligan will be here at six to relieve you."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well he's suppose to but then again you never know what Gilligan will do."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yeah I know."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Good night skip."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Good night."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Alright, one two three four we go through it again! The banana is the oil pressure. The coconut is the altitude. The pineapple is the speed gauge. The Papaya is the ignition. Now you gotta keep your eyes on the instruments at all times. Alright now get ready for take off. First thing you do is you flip on the ignition."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " No no! That's the altitude!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I went to turn on the Papaya instead of the coconut."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Alright, now what's the second thing you do?"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " No no no what are you doing!!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " My foot asleep!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Alright, one two three four we try it again. You are flying at an altitude of thirty thousand feet, suddenly you encounter head winds of eighty miles an hour! Show me what you do!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " No no your looping!!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Now your in a power dive!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Now your in a tail spin!! Look out your gonna crash!! Your gonna crash!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " CRASH!!!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Yeah!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm getting out of here!!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " What'd you do that for?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't think that planes too safe!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Good morning professor, I'll stand guard now."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh thanks Gilligan, I'll go wake up the skipper. Now that it's getting light we can start looking for Wrong Way again."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah right!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "       (WHISPERING) Pssst. Pssst! Hey wrong Way!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Gilligan are you sure you wanna go through with this? "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Of course!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Alright have you got everything straight? On the take off what do you do with the flaps?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Put'em down!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " No it's the throttle you put down!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I thought that was the brakes!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " NO! You got to pay attention, now you gotta very short runway you...you gotta clear them trees!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ah don't worry about them trees, off I go into the wild blue yonder!"
+    },
+    {
+        "Character": "worng way",
+        "Dialog": " Never mind the wild blue yonder just clear them TREES!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Ok now first, check the instruments."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Uh oh! Uh OH!"
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " Wha...What's the matter?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I can't fly this plane! There's no fruit in hear! I know what I'll do, I got a great idea."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll go get a Pineapple, Papaya and a coconut and..."
+    },
+    {
+        "Character": "wrong way",
+        "Dialog": " GILLIGAN!!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I got the banana."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " You heard it skipper it had to be our plane that took off!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wrong Way wouldn't leave without telling us!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " It's getting so a man can't get any sleep around here!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well if it's true, I'm going to start packing right after breakfast."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I can't believe it! "
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Gilligan would've told us!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan little buddy are you alright!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What happened!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I tried to stop him!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh is that Wrong Way up there!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Of course it is, can't you tell!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan what happened!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh it's a long story skipper! But there goes the bravest man I've ever known! Next to you."
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "radio announcer",
+        "Dialog": " AND NEW YORK IS WELCOMING WRONG WAY FELDMAN WITH IT'S GREATEST TICKERTAPE PARADE IN HONOR OF THE MOST REMARKABLE ROUND THE WORLD FLIGHT IN HISTORY. THIRTY THREE AND A HALF YEARS FROM THE DAY HE LEFT THE BRONX. WRONG WAY HAS TOLD THE AUTHORITIES A STRANGE STORY OF A DESERTED ISLAND, WITH A GROUP OF CASTAWAYS WHO HELPED HIM FIX HIS PLANE. AND THE AUTHORITIES HAVE MADE EVERY EFFORT TO INVESTIGATE THIS POSSIBILITY. UNFORTUNATELY WRONG WAY'S CALCULATIONS ARE SO CONFUSED THE MYSTERIOUS ISLAND COULD BE LOCATED ANYWHERE BETWEEN THE BAY OF NAPLES AND THE ARCTIC OCEAN. CONSIDERING WRONG WAYS PAST REPUTATION, THIS IS OBVIOUSLY ANOTHER FANTASTIC TALE CREATED FROM WRONG WAY'S VIVID IMAGINATION. IN ANY EVENT, WRONG WAY FELDMAN IS ONE OF AVIATIONS GREAT HEROES, AND HE WILL LONG BE REMEMBERED FOR THE GREAT HERITAGE HE LEAVES US."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Our great hero didn't leave US much!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yes he did!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I got his wings!"
+    }
+]

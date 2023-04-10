@@ -1,0 +1,1482 @@
+[
+    {
+        "Character": "skipper",
+        "Dialog": " Mr. Howell. Mrs. Howell. Mr. and Mrs. Howell, quiet, please!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " ...SAN FRANSISCO. JOANIE JOE LANGFORD FROM... ...WEHAWK CITY ALABAMA, WAS SELECTED TONIGHT AS WINNER OF... ...THE MISS GLOBE BEAUTY PAGEANT."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh they have to be kidding!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " PRIZES WON BY THE RAVEN HAIRED CO-ED, INCLUDE A ROUND THE WORLD TRIP, PLUS..."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh! Raven haired co-ed!? "
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well that old bags been entering contests since I was a kid!! I could have beaten Joanie Joe Langford with my hair up in curlers and my front tooth blacked out!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ginger we know you could have won."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " In fact, I'll propose a toast. To Ginger, the most beautiful castaway in the whole wide world."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Thank you skipper."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here's to Ginger!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " You know there's really more to beauty than perfection of face and figure. "
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " It also means breeding and poise, and a kind of charm that comes from maturity."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ha...how true. In my opinion, Mrs. Howell is the most beautiful creature, in the world."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here's to Mrs. Howell!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gentlemen, I'm afraid that I must inject another opinion here. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " In addition to beauty of face and figure, there is a lady here who also has sweetness and warmth. The lady I would pick as the most beautiful in the world, Mary Ann."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh thank you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here's to Mary Ann!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well it'd seem that there's a difference of opinion here. But I don't see any reason for argument. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Lets say that, Ginger is the most beautiful, eh...Mrs. Howell...       (CONTINUED) ...is certainly the most gracious,...       (CONTINUED) ...and last but not least, Mary Ann is the sweetest."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah, lets say that!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lets NOT say it! I said that Mrs. Howell is the most beautiful creature in the world,...        (CONTINUED) ...and that is precisely what I meant!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I beg your pardon, when I said that Mary Ann was the most beautiful in the world, that is exactly what I meant!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I know I know! Lets have a beauty contest here on the island. And we could pick a...a miss...miss castaway!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oooo! A beauty contest here!? Oh that just suites me fine!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I think it's a marvelous idea!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I agree too! See you on the runway girls!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Ok!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh Gilligan, what a can of peas have you opened!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " All I said was, we should have a beauty contest."
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act i",
+        "Dialog": ""
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well, how do I look?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ginger believe me, you look like the Venus DeMilo WITH arms! What about the talent part?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh! Well I was thinking of doing the final scene from my last movie, it's very dramatic."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh good! Lets hear it!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I surrender to our passions my love."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi skipper. I finished the runways."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Willingly! Gladly!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " So I thought I'd come over and see if you needed anything at all. So..."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I want to go where you go!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Right now!?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Lift me to the heavens my love! Sweep me off my feet! Oh please take me with you. Carry me off."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well I'll try. Where do you want me to carry you to?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Gilligan!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan are you insane?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Let me alone!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " She said to sweep her off and take her up into the heavens!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan can't you see we're trying to work! What is it you want!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well I finished the runway skipper so I thought I'd come over..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All right you want something else to do is that it? "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Here Gilligan. Go get us some lobsters for lunch. Now GET OUT!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ya don't have to yell."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes I do ye...will you GO!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now Ginger, right where we left off."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I surrender to our passions my love..."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well professor, I bet you never thought you'd be coaching a beauty contest."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Mary Ann the combination of your natural attributes and my scientific approach will prove unbeatable. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Look,... ...seaweed shampoo for lustrous hair, crushed blackberries... ...for darkening the lashes, powdered hibiscus for ruby lips,... ...and coconut oil for a baby soft skin."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Just add a little vinegar, and I can enter the contest as a Caesar salad."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Leave it to me. By the time science and I are through, you'll make Ginger and Mrs. Howell look like drop outs from boys town."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well what's the fishing pole for?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh that's to provide you with a form of isometric exercise."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Isometric exercise?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Always remember that true beauty is the end result of the inner glow of good health. And isometric exercise provides for the inner play of muscle against muscle. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " To improve the general physique."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh but professor! I just want to beat Mrs. Howell and Ginger, not Cassius Clay!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'll just attach this to your bathing suit. You get in that lagoon and you swim just as hard as you possibly can."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " You're sure it'll help me win?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes this will provide for the inner play of muscle against muscle."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " All right, but I don't want to come out looking like Johnny Weissmuller."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Don't worry, you won't. Now get in there and you swim just as hard as you possibly can."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Hold on!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh professor you hooked a big one!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh! Oh! Gilligan I'm busy!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll help ya! Come on professor!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Don't let him get away!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh! Oh! Gilligan I'm busy!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll help ya! Come on professor!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Don't let him get away!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Don't let him get away professor!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Please!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Ohhh!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Ohhh! Ohhh!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Huh, must have been a girl fish!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Gilligan!! Ohhh!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Good heavens!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You go get her!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": "    (MR MAGOO VOICE) All right hands on hips de...deep knee bends here we go all right a to a ONE two one two ONE two lower Lovey, ONE two one two ONE two one two all right I think you can rest now my dear."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": "      (OUT OF BREATH) Oh really Thurston, this is silly! Who's going to vote for me over those two beautiful young girls!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " But my dear you're a Howell! And no one can beat a Howell."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Yes but does everybody think like a Howell?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Now wait a minute. Are you or are you not rich enough to be the most beautiful woman wherever you go, hum?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Ah, Thurston I'm afraid it's hopeless. Unless of course we can convince Gilligan to vote for me."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Wait a minute. Do you think I'm the type of man who'd try and influence a judge in a fair and square contest?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Yes Thurston."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You know me pretty good don't you, yes! After all a Howell gets what he needs, and right, now all I need it, Gilligan."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ok Ginger, lets try that acting scene again."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " You know skipper I was just thinking. You shouldn't have yelled at Gilligan this morning."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Why not?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well, because um, Mr. Howell is gonna vote for his wife, and the professor is gonna vote for Mary Ann, and that leaves Gilligan to elect miss castaway."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Why I know, but he has to vote for you. Wa...I mean you're the obvious winner."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well thank you very much, but sometimes the obvious one doesn't win."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You got a point there. Gilligan is kind of tender hearted. He might vote for the underdog. That is I mean, girl!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " That's right so a, we're gonna have to do something to convince him."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes, we do need Gilligan."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Just think tall."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh, I appreciate all the work you've gone to professor but it's no use. Ginger's just too glamorous, and Mrs. Howell too darn cultured."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now I will not tolerate negative thinking. Do you or do you not want to be miss castaway?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well of course I do but, well do you think I can get Gilligan's vote?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh, that reminds me. I was a bit harsh this morning on our uncommitted delegate."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well I'm sure Gilligan'll be fair."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well just the same, we've got to remedy that. We NEED Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " All I can do is try to help. And everybody yells at me. Takes advan..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Gladys. Gladys, give me back my hat."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " GLADYS GIVE ME MY HAT!!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Huh? "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Look, don't tell me your troubles, I've got enough of my own."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What am I gonna do Gladys?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Tell'em to stop walking over me?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah? And be firm?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh here he comes skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan little buddy you're just in time. We saved the biggest Lobster for you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh no you don't. I'm not taking any more of that!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh Gilligan it's very delicious. I cooked it especially for you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Thanks Ginger, I guess it pays to fight back."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Nothings too good for my little buddy!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oooo yeah! Everybody loves a fighter!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan you don't want that!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Huh? Yes I do!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " No you don't!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " He does too!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " No he does not!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Here try this Gilligan it's really much better!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Taste it! I picked the herbs and the fruits my self!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's good!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh no you don't!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Mine is much better Gilligan, really!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Vitamin A Gilligan, vitamin A! Exactly what a nice boy like you, needs to grow big and strong!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ooooo I can hardly wait!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Gilligan dear I made those horderves especially for your discerning pallet."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Here my boy try that. Huh!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " From my own private stock it beats that rabbit food any day of the week. Huh? Some more?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Come back here Gilligan! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Eat that lobster and that's an order!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Because we want you to be happy!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well, so do we!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Gilligan's happiness means more to us than anything in the world!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well if everybody's so happy, how come you're mad at each other!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Gilligan we don't want to worry you with that. We know what ever your decision'll be, it'll be unbiased!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " My decision about what!?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well about who wins the beauty contest of course!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " We respect your integrity Gilligan. That's why we're glad you have the deciding vote."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Deciding vote? Me!? Look I don't want to be judge!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You have no choice in the matter."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Gilligan, will cast the deciding vote for Mrs. Howell."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " For Ginger!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " For Mary Ann!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Look, I'm not going to vote for anybody right now! Ginger, Mary Ann or Mrs. Howell! No Uh-huh!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right then, my dear, we will make our meals elsewhere. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I was, just kind of, joking. Don't get mad at me."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Come on skipper, I don't want to..."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Come along Thurston. We'll have our diner in our room's darling."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " So right!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act ii",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Friendly little beauty contest. You know what I think Gladys? About as friendly as world war two!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey Gladys! It's ok it's just the skipper! The skipper! You remember the skipper don't ya!? Huh?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah that's him."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan where are you! There you are."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi skipper I'd like to have you meet Gladys. Gladys this is the skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gladys how are you...oh I know Gladys! Gilligan I've got to talk to you. Alone."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Alone? Oh, ok skipper. Gladys you got to go now. I'll see ya later ok?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " OHPP!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What'd you want to talk about skipper?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, there's a broken heart for every light on Broadway and we have one right here on this island."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A light on Broadway!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No Gilligan a broken heart! Now think about it. If you had Broadway lying at your feet, it was all smashed to smithereens, what would you do?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Stay off Broadway."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan. please. Give Ginger back a piece of her dream. Make it up to her for the way cruel fates have treated her. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I guess you're right skipper. Ginger deserves to win."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's right little buddy."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Down here."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " So you are. I am delighted that you dropped by Gilligan. It gives me a chance to talk to you. To appeal to your reason. Your...your intellect!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ok professor, appeal."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " There's a girl on this island to whom victory would be, the pinnacle, the attainment of all her unspoken dreams, her unfulfilled desires. Do you know who I'm talking about?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't even know WHAT you're talking about."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right follow me Gilligan. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now first there's Ginger. Well she's made her mark in the world. For the rest of her life she can talk about her fabulous career."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now consider Mrs. Howell. She's got her fabulous Husband. And then, there is Mary Ann. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Pretty, sweet, little Mary Ann. Now what does she have that could be considered really and truly fabulous?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Her butterfly collection?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh try to understand Gilligan."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Mary Ann needs to be miss castaway as the other two couldn't possibly. And you can do this for her Gilligan. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " You MUST do this for her."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I guess you're right professor. Mary Ann deserves to win."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Ahhhhhh, what a lovely fellow."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You see on one hand the skipper's right, and Ginger should win. And on the other hand, the professor's right and Mary Ann should win. Oh what a spot. Only an idiot would get himself in a spot like this."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What!? I don't know, there must be an answer to the problem somewhere."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well, I don't know. I wish somebody'd tell me what to do."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I'd be very happy to tell you my boy."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Thanks."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ahhhh!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ahh!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "        (RELEAVED) Oh, it's you Mr. Howell."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Gilligan, I'm a man of few words. What will it cost to get your vote? A yacht? A villa on the Riviera? Controlling interest in the Golden Gate Bridge? Hum?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mr. Howell you're trying to bribe a judge!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Eh...no no no! I was just a, testing your honesty and may I say you came through with flying colors!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And you're not trying to influence me?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh no no! Cherish the thought. Lets a, sit down and chat awhile shall we?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ok, what about?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Mrs. Howell of course."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh, what's her problem?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Any woman's most cherished possession, her pride. "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I mean look at it this way. Mrs. Howell, a woman of renowned, competing in an ordinary contest like that. It isn't fair. It isn't equitable. It isn't a, Democratic if you'll pardon the expression. Now suppose your own mother was running against Tuesday Weld?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Tuesday Weld!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Who would you vote for?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I choose mom! I choose mom!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You're absolutely right! And a vote for Mrs. Howell, is a vote for those ladies that deserve our recognition, the American WIFE, and American mother, and private enterprise. Gilligan, are you an American?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir! And I vote for Mrs. Howell."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Three if you don't mind."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Three."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " On one had there's Ginger. On the other hand there's Mary Ann. Looks like I'm gonna need another hand for Mrs. Howell."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Thank you, thank you, thank you. And welcome ladies and gentlemen, to the first annual, Miss Castaway contest!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " The lovely contestants are, number one,... Miss, Mary Ann!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " That's lovely dear."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Number TWO! Ginger."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That a girl Ginger, come on!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh boy! Boy you look wonderful Ginger!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And a, last but not least."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Mrs. Thurston Howell the third."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah Bravo! "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Bravo Mrs. Howell. "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Never mind the tempo darling you're above it you're a Howell."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " There we go."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Bravo! "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Graceful!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Thank you."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Bravo!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And now the next event, worth twenty- five points, for charm, poise and sincerity."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " The first contestant, miss Mary Ann."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now you just relax dear, and you tell... ...us in your own sweet charming simple way, what it is, that you want most,..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " ...out of life."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I would like a world without strife universal harmony international goodwill, where the sp...spirit of brotherhood enriches all of mankind forever thank you."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oooo how revolting."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Thank you, thank you Mary Ann, for that, sincere, unselfish, and unrehearsed speech. Thank you dear."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Please be seated. (pause) And now, for contestant number two."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ginger! Come on!!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Will you wait please until I introduce her!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I already know ginger. Come on Ginger! Go go!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right then. Miss Ginger."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Thank you. (pause) First of all, I'd like to thank all of you wonderful people, for allowing me to be in this WONDERFUL contest. "
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " It really is a wonderful experience,..."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " ...an...and it...jus...just makes a girl feel wonderful."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wonderful!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Second of all, I'd like to thank all of you marvelous people, for allowing me to be in this MARVELOUS contest. It really is a marvelous experience, and it makes a girl feel marvelous!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Marvelous! Marvelous!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Thirdly..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Thank you very much Ginger."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I...I'm not finished yet. For allowing me to be in this terrific contest..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Ginger your time..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " ...is up!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " It really is a terrific experience, and it makes..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Thank you very much."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Terrific! Terrific!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And now, for our third contestant, Mrs. Thurston Howell, the third."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Bravo! Bravo! "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Bravo! "
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I'm not going to make an, unrehearsed speech, or a speech that's, WONDERFUL! MARVELOUS! TERRIFIC! I'm just going to say, thank you judge, for being the son of an American mother."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Bravo! Bravo! More! Encore! Author!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Thank you. (pause) And now there will be a five-minute break, for a costume change, before we commence with the talent competition. Thank you."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Very good."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Good show!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And now, to open the talent competition, Mary Ann will perform a soft shoe dance."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yea!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Very lovely."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What's the matter professor? You having trouble with the phonograph!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Ah, just a moment."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Here I'll help ya."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Almost stepped in the glue!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right take your seats please."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Dear, what is the matter!?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh I've never been so embarrassed in all my whole life! Look!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Wha...what what is that!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Something wrong Mary Ann?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh I don't know my shoe..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What is it Mary Ann!? What is..."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Glue I guess!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Glue!? "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " For goodness sakes take your foot out of your shoe!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's it."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Mr. Howell! You put glue on that stage!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh man now where would I get glue."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I mean, eh...eh...eh something in a forty, you need a new tailor there..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Mr. Howell two can play at that game!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Mrs. Thurston Howell the Third will now recite a dramatic poem!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Bravo! Bravo!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Bravo! Bravo!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Paul Revere's Ride. (pause) Now listen my children and you shall hear,... ...of the midnight ride of Paul Revere. On the eighteenth of April in seventy-five, hardly a man is now alive."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Who remembers that famous day and year. He said to his friend if, if,..."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " The British march. If the British march! Hup two three!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Mr. Howell no coaching from the audience!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " If the British march from town tonight, by land and, or by sea. Hang a..."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " ...lantern HIGH in the north church,... ...tower for the signal... (sneezes)! "
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Ah...choo!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Excuse me. Light,...        (CONTINUED) ...one if by land,...         (CONTINED) ...two if by...(sneezes), (sneezes), if by sea, and I,...         (CONTINUED) ...on the opposite shore...         (CONTINUED) ...will be ready to...(Sneezes), "
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh I can't do this anymore!(sneezes), (sneezes)."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Thank you very much, Mrs. Howell."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You had something to do with this and don't try and tell me that you didn't!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Why I haven't the slightest idea what you're talking about."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well I think..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'll tell ya what you both did! You just canceled yourselves out of the competition! Hah! Well I guess we know who's girl is gonna win now!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'll see about that!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Why don't you two just sit down!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And now for the final contestant n the talent competition, Miss Ginger!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Let me, entertain you. "
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Let me...      (CONTINUED) ...make you smile. "
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Let me do a few tricks. Some old and then some new tricks. I'm Very versatile. Ooooo.      (CONTINUED) And if you're real good, I'll make you fell good,...      (CONTINUED)      (CONTINUED) Ooooo. Let me entertain you."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oooo! "
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Ooo! Ooo!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": ""
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " We're even Steven."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Give me back the weapon."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ok I'm ready."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All right little buddy get up on the stage and announce it little shipmate."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Upsa daisy!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You ladies my be seated."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " First of all I'd like to say all the ladies are very beautiful, and each one deserves to win."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh, very charmingly said."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Never mind that now Gilligan! Who won!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " With all due respect to candidate number one, and candidate number two, and candidate number three, my deciding vote goes to, candidate number, four!"
+    },
+    {
+        "Character": "all three",
+        "Dialog": " Four!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well there were only three candidates not four you fool!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What are you talking about Gilligan!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I had my own candidate."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You had your own contest!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " What!? You had what!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here I'll show you. (pause) Miss Castaway!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I've never seen anything like it in my life!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " A monkey!?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " You think she's prettier than we are!?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " And you call yourself an American!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well that's just it Mrs. Howell. We're all Americans except her."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well what's that got to do with it!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well, to enter a beauty contest you have to be a native, and she's the only one born on the island."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well he's got a point there."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And besides, if I picked one of the ladies I'd get in trouble."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well he's got a point there too!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And if I pick Gladys I can't get into any trouble."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't think so!? Wooooe!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan little buddy! How 'bout telling us who really won the contest!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I already told you, Gladys."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Come on come on we're friends, just for the record show us who won on points."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No one no one!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well with all those notes you been making, someone must have been ahead!  PROFESSOR AND MR HOWELL Come on!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Let me see!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " They're mine! I don't want you to see!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Tic Tac Toe!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " They're all covered with Tic Tac Toe's!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I didn't want ya to see I lost every game. "
+    }
+]

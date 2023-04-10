@@ -1,0 +1,1290 @@
+[
+    {
+        "Character": "skipper",
+        "Dialog": " How do I get these crummy jobs!  Laundry is a WOMAN'S job.  After all a man works his way up to be the captain of his own ship...he should get a little respect!  I'll take that back...a whole lot of respect!  Why a captain rates a salute...not a, hey you!   For goodness sakes I always GET assignments I should be giving 'em out!  If anybody on this island is entitled to something that..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan?  GILLIIGAN what are you doing!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Thought I lost it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Lost what?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " My good luck charm."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan that's an old wives tale."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No it's isn't, it's a rabbits foot!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I know exactly what it is but anybody that would think that that would bring them good luck has got to be out of their mind!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I believe it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I know, that's exactly what I mean! No get back to the laundry!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I wonder if it works when it's wet?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan are you gonna let me put you in the drivers seat or are you gonna get up there!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now that's better...now let's finish this laundry."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey Skipper!? It works it works!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What works, what is it you're talking about?!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It works even better when it's wet...look!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " For goodness sakes that nothing but a man in a parachute now will you start peddle... A man in a parachute!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah skipper!  We're rescued we're rescued!"
+    },
+    {
+        "Character": "gillgian",
+        "Dialog": " Oh boy!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Down here!  Over here! Oh yeah!"
+    },
+    {
+        "Character": "fade out:",
+        "Dialog": ""
+    },
+    {
+        "Character": "act one",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh professor did you find anything?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Not a sign."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'm sure that parachutist came down dead center...he should be right on this part of the island."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper!  I found it I found it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Where!? Where!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Right here right here!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan that's a comic book!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I know, it's my favorite one...I lost it."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You're a great help! Come on professor let's check over here."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " You know he could've gotten tangled in a tree."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well certainly he could've. Gilligan you go look that way!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Alone?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well certainly alone. Why not alone?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Because I'm at the scary part.  You see here Fossil Face has Davy Davis All-American boy. See that!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh never mind the comic book!  Go that way!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper? Are you sure you saw someone parachute down?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'm positive professor."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ah ha Fossil Face.  Just because you have Davy Davies tied to the buzz saw and because you have his tried and true buddy...friendly and lovable Lester Al Lewis tied to the railroad tracks does not mean that..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oops, I guess it does."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oops, excuse me sir..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's Fossil Face!! It's Fossil Face..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I give up!  I give up!  I give up!  I give up!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hello."
+    },
+    {
+        "Character": "robot",
+        "Dialog": " HELLO"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " My name is Gilligan."
+    },
+    {
+        "Character": "robot",
+        "Dialog": " MY NAME IS GILLIGAN"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey! We both have the same name!"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " HEY   WE BOTH HAVE THE SAME NAME"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Professor!  Skipper!  I found him! Her...it... Skipper professor I found it! I found it I found it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All right Gilligan for goodness sakes you don't have to yell I know that you found it..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " A robot!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh for goodness sakes that's just what we needed...a tin fugitive from the Wizard of Oz!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh professor, meet our rescuer."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well that's fantastic!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Huh?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well it's obviously an experimental model. The Air Force must be using it for some sort of survival test."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's a real live robot!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, robots aren...t alive!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " This one is cause it can talk!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes and I'm sure you two will have very interesting conversations together."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Robots have been programmed to talk."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I know but if I was ever seen talking to this refuge from a junkyard...they'd think the skipper lost all his marbles!"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " THE SKIPPER LOST HIS MARBLES"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Why, it must have a blank roll of tape and an automatic relay mechanism."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You mean what ever I say to it, the robot will repeat it back?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh great.  We've got a mechanical Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I wonder what else they made it do?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan!  You just hit upon the key word...they!  They sent it up, and they'll come looking for it.  And when they do..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " They'll come and rescue us! They'll rescue us! Robot robot you're beautiful!"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " YOU'RE BEAUTIFUL"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thank you..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Come on! Let's go tell the others!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan for goodness sake that thing must weigh a thousand pounds!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well if can talk it must be programmed to walk."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah let's try it. Robot...follow me!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Robot, walk!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That way!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But you haven't asked it any important questions like who won the World Series or the Rose Bowl or anything."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well I asked informative questions and I got informative answers."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah. (Trying to sound like the robot) I WAS LAUNCHED FROM HICKHAM FIELD HAWAII PURPOSE RADIATION DETECTION FLIGHT DESTINATION VANDENBERG AIR BASE CALIFORNIA"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well we also learned its model XR one thousand...and what's more important, I think I've solved the schematic problem."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Is that good?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Raise your right arm!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Ah yes the schematic pattern is the key to how to activate it. Raise your left arm!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan the possibilities are unlimited, and until the Air Force finds our friend, we can put it to all sorts of uses!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Will it bring water from the spring?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Raise your left leg!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I believe I can program it to do all the unpleasant tasks on the island!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Even the laundry?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Twirl your right arm!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan, this mechanical marvel can be taught to do everything a man can do...and it can do it better!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Now you sweep like this...back and forth, back and forth.  "
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Sweep! Back and forth, back and forth. Ooo this is going to be fun! That's fine, that's fine! Now sweep the other way."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well turn around! Well sweep the other way!!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oohh!!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Are you going to take all day?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Which one of these makes you go faster?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh!   Oooo!  Aaahhhh!  Aaahhhh!!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Help professor!  Help! HELP!! Aaahhh!!!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now close the lid!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All right, get aboard and start peddling!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You are a captain's dream! What a crew!  A crew that takes orders without questions...(he laughs)"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper?  Are you asleep?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " When you wake up will you tell me if you've seen my rabbit's foot?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Have you lost that again!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well if I hadn't lost it then I wouldn't have to ask you if you've seen it because I'd still have it."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan for goodness sake..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Mr. Howell!  Mr. Howell, come back here with that robot!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Stop!  I'm...I'm not done with him I've got to have him finish the laundry! Now go back and finish the laundry!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No...but the robot and Gilligan are caddying for us."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh no he's not his gonna do the laundry!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No no Mrs. Howell is waiting at the first tee."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well I'm sorry if Mrs. Howell is waiting, she'll just have to stay waiting."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I'm willing to pay him double I don't understand."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What's that?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well it could be the mating call of the Red Crested Hickenlooper it's the season you know."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It was a call for help!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh then its definitely not the call of the Red Crested Hickenlooper, he's quite capable of..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Over there...look!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " A...darling my a...ball is in your line I'd...I'd better mark it."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I'm a long way away Mr. robot!"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " IT WILL BREAK TOWARDS THE OCEAN ACROSS THE GRAIN DOWN HILL RIGHT OF THE PALM TREE PLAY IT THRE FEET TO THE RIGHT OF THE HOLE"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " With those directions should knock it right off the island."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " This is a very interesting news program coming in on the radio. Listen to this everybody!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " ...AND THE DRONE PLANE WHICH ACCIDENTALLY EJECTED THE ROBOT XR ONE THOUSAND, LANDED AT VANDENBERG AIRFIELD.  SINCE THE PLANE WAS OPERATED BY REMOTE CONTROL, THE OFFICIALS HAVE NO WAY OF KNOW THE AREA WHERE THE ROBOT WAS EJECTED.  THEY'VE ANNOUNCED THAT A SEARCH FOR THE ROBOT WOULD BE NEITHER ECONOMICAL NOR SUCCESSFUL, AND THEREFORE, NO SEARCH, WILL TAKE PLACE."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh no."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And we thought that robot was gonna get us rescued."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well he's so smart maybe he can figure out something!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan for goodness sakes, robots don't think, they only do what you tell 'em to."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " That's it!  If we can figure out what to tell him, he could rescue us!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Are you serious!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I certainly am!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " How would you like to do us a very big favor?"
+    },
+    {
+        "Character": "fade out:",
+        "Dialog": ""
+    },
+    {
+        "Character": "act two",
+        "Dialog": ""
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'm fixing the robot so that our auditory impulses will activate its memory spools...and in that way the particular problem poised will be answered."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well the simplest way to explain it is with a demonstration. I think we can use him now."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh...well I'll help you get him up."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A thousand pounds!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh yes...a thousand pounds."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Robot! Rise!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now gentlemen, what is the most logical way to get off the island?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The same way we got on...by boat!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Very good little buddy! I'm very proud of you!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Exactly! Now if it has the information of any of its spools, we'll get an answer. Can you build a boat?"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " YES I CAN"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And how long will it take you to build this boat?"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " SEVENTEEN HOURS FOUR MINUTES ELEVEN SECONDS"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " WOW! That means we can be aboard early in the morning."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Right!  All right build us a boat and start at once.  And that gentlemen, is that!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ooop! Aaah! Two Thousand pounds!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A thousand pounds."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Whose foot is this anyway!  Don't just stand there Gilligan!   Go out there and tell the others to get packed!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Can you beat that!?  The women still can't decide what to wear on the boat!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You...you can't blame them you know, Bon voyage, first night out and all that sort of thing."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'm extremely curious to see the boat."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What boat?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " The boat he built!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well I can't see a thing!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Maybe he built us a submarine!"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " YOU DID NOT ASK FOR A SUBMARINE"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wa...well I don't think he built a thing!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I'm going to speak to the head of your union!  No more fringe benefits, no health or welfare.  No more nuts bolts or machine oil!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh please Mr. Howell. Did you build us a boat?"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " YES"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well where is it?"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " IN THE LAGOON"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well why can't we find it?"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " YOU ARE NOT LOOKING IN THE RIGHT PLACE"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well I'm sorry it's the only lagoon that we have!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I found it!  I found it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Look at the boat he built!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Gee isn't it neat!? It's a two masted schooner, and it's got two lifeboats and a binnacle and look, the pin rail!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh it's my fault.  I should have specified the size and type of vessel."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well its not too late, perhaps he can build us a bigger ship!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well it's worth a try. Can you build us a larger boat?"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " I HAVE BEEN PROGRAMMED TO BUILD A CARRIER DESTROYER OR MINE SWEEPER"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well we might as well go first class. Build us a...carrier!"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " A CARRIER REQUIRES FOUR HUNDRED AND TWELVE THOUSAND TONS OF STEEL  SEVEN THOUSAND TONS OF ALUMINUM..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Reject! Never mind that last order!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Perhaps if you said a...a pretty please!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " We're going to have to concentrate on some other device. It's obvious the robot can't build a ship without steel.  Well...we'd better break the bad news to the girls."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You goofed didn't you!?"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " I AM NOT PROGRAMMED FOR THAT INFORMATION"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I wonder what next years models are gonna look like?"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " I AM NOT..."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh shut up!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Power windows..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I think you did a swell job."
+    },
+    {
+        "Character": "robot",
+        "Dialog": " THANK YOU"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " There must be some way this robot can get us off this island. If he were human, I'd offer him more money."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston, I have the most marvelous idea!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You have a plan?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " The plan darling! MR HOWELL Well what is it?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I'm not gonna tell anybody but the robot!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well come on, let's not keep the robot waiting!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Here you are my dear.  Oh, it's for you! Yes of course.  There you are my sweet."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Mr. Robot are you awake?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Darling they don't have to sleep!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh, yes of course. A, Mr. Robot we'd like to leave the island."
+    },
+    {
+        "Character": "robot",
+        "Dialog": " THAT INFORMATION HAS ALREADY BEEN RECORDED"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Darling the idea, the idea."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh, yes of course. Build us a bridge to Hawaii!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Don't be ridiculous! "
+    },
+    {
+        "Character": "robot",
+        "Dialog": " A BRIDGE TO HAWAII CAN BE BUILT FROM MATERIAL ON THE ISLAND"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " It can!?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh you see dear!"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " IT WILL TAKE APPROXIMATELY EIGHTY NINE YEARS AND FOUR MONTHS"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Eighty-nine years!? Thurston, do you realize how old I'll be?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes, you'll be a little old to walk to Hawaii."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh dear I thought it was such a good plan."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Eureka I have it!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Have what?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " A way to attract attention so people can find us! Build us a searchlight! Shine it on passing planes and ships."
+    },
+    {
+        "Character": "robot",
+        "Dialog": " IMPOSSIBLE NO ELECTRIC POWER"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " A...a flashlight?"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " IMPOSSIBLE NO CARBON FOR BATTERIES"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Candles? Matches?  Two friendly fire flies... rubbing their little feet together?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh Ginger I think the plan is impossible."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " WHY?  A girl can get a man to do all kinds of things for her."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I know, but robots aren...t human!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Neither were some of the guys I went out with."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " The professor says that robots can't do any original thinking.  No matter HOW you ask them."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well that's what makes it a challenge! See you later."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Hi ya tall dark and mechanical."
+    },
+    {
+        "Character": "robot",
+        "Dialog": " I DO NOT UNDERSTAND"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I'll make it a little clearer for you.  You see I've been stuck on this island for a long long time. Understand?"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " I UNDERSTAND"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " And a...I want you to get me off."
+    },
+    {
+        "Character": "robot",
+        "Dialog": " I AM NOT PROGRAMMED FOR THAT TASK"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well then...gee whiz...can't you put your mind to it?  I mean...concentrate for Ginger...can you?  Just think of what it would mean for me to be back in Hollywood."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I'll tell you what.  If you get me back to Hollywood, I'll introduce you to the swingingest lady robot you ever saw.  For Ginger?  Huh?  Come on...please?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Mmmmm...now your going.  I think you're beginning to register."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, that's one of the silliest ideas I ever heard!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I thought it was pretty good myself!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And what's the robot suppose to use to build a radio station?  Bamboo and coconuts?"
+    },
+    {
+        "Character": "gillgian",
+        "Dialog": " Well maybe he could swim to Hawaii and buy some tubes and wires and stuff like that."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan if he could swim for goodness sakes, we wouldn't NEED a radio station.  We could program him to tell the authorities all about u...oh that's the silliest thing I ever heard for...Wait a minute that's it!  Little buddy that's it!  You did it again!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What did I do what did I do what did I do!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well if we can get it to swim to Hawaii, our worries are all over! GILLIGAN Yeah, if we can solve one other problem."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Eh...What's that?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Where we gonna find a bathing suit big enough to fit him."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yeah, a bathing suit big enough to... Bathing suit!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Try this robot!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Awe its no use Gilligan.  It's arms and legs just won't work that way."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Awe...How bout the Butterfly stroke...like that!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Awe...the arms won't go over the head!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well...how about the sidestroke?  You know like that!  Ya know."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ooops!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " What's the matter?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I just dropped my rabbit's foot out of my pocket. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I thought I taught you not to pay any attention to those superstitions!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But it brings me good luck!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Luck Gilligan...is all in the mind."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Professor, with my mind, I need all the luck I can get!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " How's it going?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh not very well skipper.  The robot just isn't built for swimming."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Eh...have you tried the Australian crawl?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What do you mean crawl!?  He has to swim to Hawaii!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Very funny Gilligan."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh we've tried the backstroke the breaststroke the sidestroke, everything and it's no use.  His arms and legs simply don't have the mobility of a man!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well neither does a dog and they can swim."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Wait a minute!  Wait a minute the dog paddle that's it!  I mean it's a little slow, but I think his arms and legs can make those motions!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh!  Well I'll try it huh?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes don't just stand there, get on there and show him how to do the dog paddle!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey robot!  Robot!  Watch me robot!  Robot, like this!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Hey he's doing it skipper!  Look at that!  Isn't that marvelous!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That'll get him there!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm still half a sleep."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well I know it's early, but in case this fails, I don't want the others to be disappointed."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " How can they be disappointed if they don't know what we're doing?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Don't both trying to explain professor!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right, here goes for a trial run. Now SWIM!  Go out twenty yards and return!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Swim robot swim!  Swim!  That a boy! Keep swimming! Keep swimming!  That a boy!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He sunk."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " He didn't swim a stroke!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well it's his weight.  He can't generate enough speed to displace enough water to keep himself afloat!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Maybe he's too heavy."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Of all the silly ideas...swimming to Hawaii."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Robot, stop!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well, at least it proves he's watertight."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Let's try that message we gave him, see if it works."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Watertight?!"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " I HAVE BEEN ON A DESERTED ISLAND WITH SEVEN CASTAWAYS OF THE MINNOW  THEY ARE ALIVE AND WELL AND..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Perfect!  Now all we have to do is get him to swim to Hawaii!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well...back to the drawing board as they say."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't say that."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " He doesn't mean you Gilligan!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " There's just no way to get him to swim!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Right!  The way he was going, he could have walked to Hawaii."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Walked?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Walked?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I know this is an outlandish scheme but it seems to be our only hope."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well the whole idea's preposterous!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well figuring the pressure of the water at it's deepest, the normal speed of the robot and the distance to Hawaii, I figure it should take him roughly a hundred and eleven hours."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Under water?! Why he could walk right by Hawaii without ever seeing it!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Mrs. Howell it doesn't have to see!  It will stay on the direction it's been programmed to follow."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well what about the valleys and the mountains under water?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well it has sonar to avoid undersea obstacles and an automatic pilot to get it back on course."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What about sharks and other scary things down there?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " It has no human emotions Gilligan so it can't be frightened. "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " By golly, sounds like our answer to Lloyd Bridges!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " However, I must remind you that it could run into an underwater mine and blow up or get tangled up in a fishing net.  So it's far from certain that it will reach Hawaii."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well he's not going anywhere if we don't get him started."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Right! Robot walk!"
+    },
+    {
+        "Character": "fade out:",
+        "Dialog": ""
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wait a minute quiet! The announcement, quiet! Quiet!"
+    },
+    {
+        "Character": "radio announcer",
+        "Dialog": " AND NOW THEY ARE ACTIVATING THE ROBOT'S RECEPTOR SPOOLS TO SEE IF THEY CAN FIND OUT HOW IT GOT TO HAWAII.  THE NEXT VOICE YOU HEAR WILL BE THAT OF THE ROBOT."
+    },
+    {
+        "Character": "robot",
+        "Dialog": " I HAVE BEEN ON A DESERTED ISLAND THE PUT BREAKS TO THE RIGHT"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well it was a lucky shot!"
+    },
+    {
+        "Character": "robot",
+        "Dialog": " SWEEP BACK AND FORTH BACK AND FORTH I WAS STRANDED THIS IS THE WAY WE WASH OUR CLOTHES"
+    },
+    {
+        "Character": "radio announcer",
+        "Dialog": " LADIES AND GENTLEMEN, THE SCIENTISTS FROM THE LABORATORY ARE CHECKING TO SEE EXACTLY WHAT WENT WRONG.  PERHAPS NOW WE CAN LEARN THE REASON THE RECORDED MESSAGES ARE ALL SCRAMBLED. A WHAT!? LADIES AND GENTLEMEN BELIEVE IT OR NOT A RABBIT'S FOOT WAS JUST FOUND IN THE ROBOT!"
+    },
+    {
+        "Character": "radio announcer",
+        "Dialog": " IT DEMAGNETIZED THE ENTIRE RECEPTOR SPOOLS.  THERE IS NOW NO CHANCE OF FINDING OUT WHERE THE ROBOT HAS BEEN.  WHO REPROGRAMMED IT, OR HOW IT GOT TO HAWAII.  FOR THAT MATTER HOW THE RABBIT'S FOOT GOT IN THERE IN THE FIRST PLACE!"
+    },
+    {
+        "Character": "all",
+        "Dialog": " (EXCEPT GILLIGAN) Gilligan!!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I just thought it'd bring us some luck ya know?! "
+    }
+]

@@ -1,0 +1,1286 @@
+[
+    {
+        "Character": "skipper",
+        "Dialog": " Please, Ginger, not too much off the top!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Just a little bit more, Skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " But I believe you're part Indian...you're trying to scalp me!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " You're a sailor. Sailors should have crew cuts."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well I don't mind a crew cut, but you're trying to remove the entire crew!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " All finished!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Got time for me, Sam?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Tomorrow morning at eleven."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Thanks."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " \"Sam?\""
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh, that's the name of his barber back home."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, don't put that there, somebody will trip over it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sorry, Baldy."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Baldy?!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh, very funny."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You were right. Somebody tripped over it."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll get it for you, Skipper."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here, anything else you want me to do?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes Gilligan. Er..., go out and get some more firewood."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Okay."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Ah, that's just what I was looking for! Thanks."
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act one",
+        "Dialog": ""
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Cough."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well your heart seems sound enough. Perhaps it's your blood pressure."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Any luck, Professor?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well, at least we know it isn't his heart or his lungs."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I think it's his haircut."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Don't pay any attention to him, Professor."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper this is my hair tonic. Just rub it in your hair three times a day and when your hair gets real long you..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thanks a lot Gilligan, but no thanks. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper, your blood pressure is VERY high."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " (glaring at Gilligan) Well, no wonder, with him around here!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan, perhaps you'd better leave."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No I want to stay and watch!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well I'm going to make a blood test. And ah...the sight of blood won't ah...disturb you will it?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Are you kidding, do you think I am chicken?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": "        (TO SKIPPER) Give me your arm."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper! Skipper! I got the results of the tests!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'm afraid it's worse than I thought."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh, tell me the worst."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " The lack of citrus fruits in our diet has caused a severe vitamin deficiency. Vitamin C is completely lacking."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Fortunately, we Howells never use the stuff, we depend on bottled and bond for our strength."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Mr. Howell, this applies to each and every one of us. However, the skipper being the largest..."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You mean the fattest."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I know what he means Howell!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gentlemen, gentlemen, there is no time for that! Now without citrus fruits this vitamin deficiency will attack each of us."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Even a Howell?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes, even a Howell. It will attack each of us in turn according to his size."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Good heavens, that means I'm the next!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes, myself, and then Gilligan."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wha...wha...what about the girls? Will it affect them?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes, Mrs. Howell, and Ginger, and then finally Mary Ann. But don't panic gentleman, we're not dead yet."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well maybe not, but we're definitely headed in that direction!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, I've made a decision."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " About what?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " About the way I've been acting. I mean after all, I am the captain, I'm the Skipper! I should be setting an example for the others. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What are you going to do?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What am I going to do? I'll tell you what I'm going to do. Gilligan, I'm going to put up a front. I'm going to be cheerful. I'm going to show them a real man doesn't let a little thing like this bother him. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And oh, little buddy, you're going to be real proud of me and... That's an orange!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I know. I was going to have it for dessert, but I changed my mind. The less I weigh, the longer I live!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, do you realize that you have my life in the palm of your hand? My LIFE!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No, I don't, I have an orange!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, where did you get it? Where?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " In the jungle."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " In the jungle!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " EVERYBODY...ORANGES IN THE JUNGLE!!! Where in the jungle!? "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's not too far."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well show me Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well this is the last one!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " The last one? Oh, no!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oranges!? Oranges!? Did someone say oranges!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oranges? Oranges? Um...I didn't hear anyone say anything about oranges!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I distinctly heard someone say \"Oranges in the jungle!\""
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " So did I!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But this is the last one!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I've decided to give everyone a slice."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan! King Solomon couldn't have done better!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It's the only fair thing you could do, little buddy."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I think someone aught to say something? After all, it IS a special occasion."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh, Thurston's awfully good at that sort of thing. Say something appropriate dear."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Anyone care to sell his slice?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Mr. Howell!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " While it is a noble gesture Gilligan. Unfortunately a single slice won't do us any good."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well I think we aught to vote it to the person who needs it the most...me!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper I wanted to share the orange."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Up...but I'm your buddy!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well you may be his buddy, but I'm a very rich millionaire!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now just a moment. Lets try to be sensible about this. I mean after all..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " ...there's a logical answer to every problem."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oooo...well the logical thing is to give..."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " ...me the orange. I do so much charity work."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Bu...but I'm the one who's sick right now!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " But it's ladies first, Skipper!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " It's women and children first. Therefore I get two votes!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Can I say something?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Gilligan keep quiet will you!? Can't you see we're very busy!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Please please please! Now let's remember that even though this is a crisis we're all friends. I'm..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " ...sure that each of us has his reason for believing that we deserve... ...the orange."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I'm a member of the four H!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wa...well I'm a veteran!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well, I'm a movie star!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I'm a member of the... ...D A R!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I'm Thurston Howell the Third, anyone care to top that?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Can I say something now?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What is it, Gilligan?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I know how to stop all the arguing."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And would you mind telling us how?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Look!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act two",
+        "Dialog": ""
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well we have no one to blame but ourselves. Our dissention has led us over the precipice to destruction; our greed has pushed us to the brink of disaster."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And not only that, but the sun shrunk up the orange!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, he just said that!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Not as plain as me."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh to think I'll never see Kansas again."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Or California or North Dakota or North...Nebraska or South Carolina or Oklahoma or Texas..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Cut that out Gilligan!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh I can't believe it. Do I look like I have a vitamin deficiency!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Ginger, you don't look like you have a deficiency of anything."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Thank you professor."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " But you do! We all do!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " An orange, an orange, my kingdom for an orange!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Your kingdom? Oh, really Thurston!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Would you believe half of my kingdom? A third of my kingdom? A little quarter of my kingdom, baby?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh, Mr. Howell, we're in real trouble with this orange dried up like that!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I might as well give it a decent burial."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan! That's it! A burial!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm not even sick yet!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh, not you! The seeds! We'll plant the seeds and grow our own orange trees!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " What a wonderful idea! And we'll have plenty of oranges!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Why didn't we think of that before!? Everything grows form seeds!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Not everything."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes Gilligan everything. Orange trees grown from orange seeds, Apple trees grow from apple seeds and watermelons grow from watermelon seeds!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah but birds don't grow from bird seeds!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lovey, Lovey my dear, aren't they just beautiful?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " You must be seeing something I don't see!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No I see thousands of orange trees, springing out of the ground!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well, all I see are a lot of nasty pits!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No look beyond the horizon, beyond tomorrow! I see Valencia oranges, mandarin oranges, Navel oranges...we'll be up to our navel in Navels!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " All those from these?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well it's not quite that easy. First of all we have to plant them."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Plant them? In the dirt? With our hands?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well I believe that's the usual way."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh dear then it's not for us."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " C'mon, everyone's planting their seeds!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes, unless we cooperate we'll be going to the great orange grove in the sky."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " OK when we go Thurston we go with clean hands!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh let's face it, Mary Ann, I don't know what to do with this!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh, in Kansas we plant wheat, not citrus fruit."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " All I know about oranges is that in Florida people grow them to sell to people in California, who grow them to send to people in Florida."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well, when in doubt, use the farmer's formula: one part sunshine, two parts water and three parts prayer."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " The scientific approach to the rapid growth of citrus fruits, is assured with the proper amounts of Vitamin D, aqua naturalis, a fertilizer containing sodium chloride, nitrated Potassium and calcium. If this doesn't achieve results, try one part sunshine, two parts water, and three parts prayer."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, what are you doing?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper I got to make sure I plant the seed in the right place."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Nope. Still in the shade."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " shadow!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey, you're right! SKIPPER Now here plant that!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well what?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well, when's the orange tree gonna grow?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll take over for you now, Professor."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh this is the coldest night I can remember! Now those tiki-torches must be kept lit. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Right."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Those seeds MUST be kept warm! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " If those seeds die..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Are you trying to tell me something? "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan, if those seeds die, we die!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's what I was afraid you were trying to tell me..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " You stay awake!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Two o'clock and all's well!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " What was that?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Only Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Two o'clock and one minute and all's well!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " If he crows when the sun comes up, so help me, I'll kill him! Teddy..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Two fifty-eight o'clock, and all's well!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Does he have to do that?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " What time is it?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Three o'clock, according to the kook."
+    },
+    {
+        "Character": "professor",
+        "Dialog": "    (Disembodied Voice)"
+    },
+    {
+        "Character": "professor",
+        "Dialog": "    (Disembodied Voice) Those orange seeds must be kept warm!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " keep warm..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": "    (Disembodied Voice) Gilligan if those seeds die, we die!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Die...die..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": "     (Disembodied Voice) Now you stay awake..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": "    (Disembodied Voice) If those seeds die, we die!    MRS HOWELL/MOTHER Gilligan! Gilligan! Gill..oh, THERE you are. "
+    },
+    {
+        "Character": "mother",
+        "Dialog": " How can you sleep when you know the cupboard is bare and the wolf is at the door?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Wolf? Where? Where?"
+    },
+    {
+        "Character": "mother",
+        "Dialog": " At the door. Where is your courage, my son?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm sorry, Mother, but lack of vitamins has made me sleepy tired discouraged and cowardly."
+    },
+    {
+        "Character": "mother",
+        "Dialog": " Well there is only one cure for your ailment, my son...oranges!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " If we only had some! Mother, what are you doing with your jewel box?"
+    },
+    {
+        "Character": "mother",
+        "Dialog": " I have made a decision. Take these emeralds, these diamonds, these rubies to the market, and trade them in for half a dozen oranges. And don't talk to strangers!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yes noble Mother who is sacrificing her jewels! You can trust your trustworthy son!"
+    },
+    {
+        "Character": "mother",
+        "Dialog": " I bet!    MR HOWELL/STRANGER Hold it there, Tall Dark and Emaciated! Where are you going on this bright and cheery morning?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm going to the market to trade this chest of rubies, diamonds and emeralds for oranges."
+    },
+    {
+        "Character": "stranger",
+        "Dialog": " Rubies, diamonds and emeralds?"
+    },
+    {
+        "Character": "stranger",
+        "Dialog": " By George, you're right, gotta get dark glasses."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " My mother said I can't talk to strangers."
+    },
+    {
+        "Character": "stranger",
+        "Dialog": " Always listen to your mother, son, a boy's best friend is his mother...I had one once."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I must remember that."
+    },
+    {
+        "Character": "stranger",
+        "Dialog": " Yes you must remember that. Incidentally, my name is Lester J. Farthingham the Third."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "  I can't talk to strangers."
+    },
+    {
+        "Character": "stranger",
+        "Dialog": " Ever know a stranger named Lester J. Farthingham the Third?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No, sir."
+    },
+    {
+        "Character": "stranger",
+        "Dialog": " Then we must be friends! Kind a follows, doesn't it?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I guess so. STRANGER Here let me hold this little..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh no I have to trade this chest for oranges!"
+    },
+    {
+        "Character": "stranger",
+        "Dialog": " I'll tell you what I'm going to do son. I'm going to trade this box of paltry baubles for some of these magic beans!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Magic beans?"
+    },
+    {
+        "Character": "stranger",
+        "Dialog": " Not so loud, son, a crowd might collect!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Real magic beans?"
+    },
+    {
+        "Character": "stranger",
+        "Dialog": " Real magic, so magic that you won't have one orange, not a dozen oranges, but a whole veritable orange grove!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sir, you are the kindest, friendliest man I ever met in my whole life! "
+    },
+    {
+        "Character": "stranger",
+        "Dialog": " Then it's a trade!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes, sir!"
+    },
+    {
+        "Character": "stranger",
+        "Dialog": " Here you are, run along son you bother me you bother me."
+    },
+    {
+        "Character": "stranger",
+        "Dialog": " Hold it, boy! Do you have a brother?"
+    },
+    {
+        "Character": "illigan",
+        "Dialog": " No, sir."
+    },
+    {
+        "Character": "stranger",
+        "Dialog": " Too bad, like doing business with your family."
+    },
+    {
+        "Character": "mother",
+        "Dialog": " Beans? But I asked you for oranges!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But mother the man said they're not ordinar..."
+    },
+    {
+        "Character": "mother",
+        "Dialog": " I'm going to show you something Gilligan. "
+    },
+    {
+        "Character": "mother",
+        "Dialog": " Now look at this! Baked beans, brown beans, soy beans, lima beans, string beans, green beans...and I hate beans! Besides, I asked you for oranges, you silly ridiculous idiotic boy."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sometimes I get the feeling she's disappointed in me.       MARY ANN/FAIRY You must go away! This is the castle of the mean and cruel giant!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You think I'm afraid of a mean and cruel giant?"
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " Aren't you?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't even care how big he is! Uh...how big is he?"
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " Oh he's about..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh sorry I asked! How come the giant's so mean and cruel?"
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " He's an orange miser. He has a whole treasure room full of oranges!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh I must get some for my mother! That would make me proud and pleased and happy."
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " And dead, if the giant catches you..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " How big did you say that giant was?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " My goodness, where'd he get all those oranges?"
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " From her. "
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " That's the goose that laid the golden oranges."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh if I could get a hold of that goose...she would give me everything!"
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " Don't be silly. If you steal that goose, you'll be a dead duck!"
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " Now run before it's too late!"
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " Oh, it's too late!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Where can I hide? Behind the chair?"
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " No...no...no...no, hide behind there!      SKIPPER/GIANT Well now, my pretty! What's going on here?"
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " Not a thing, mean and cruel master. It's been very quiet."
+    },
+    {
+        "Character": "giant",
+        "Dialog": " Well, I smell something, and it's not oranges! Fe, fi, fo, fum!"
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " I don't smell any fe, fi, fo or fum."
+    },
+    {
+        "Character": "giant",
+        "Dialog": " Well, I do, and it's coming from over there!"
+    },
+    {
+        "Character": "giant",
+        "Dialog": " Aha! There you are! Come out from behind there!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What was that?!"
+    },
+    {
+        "Character": "giant",
+        "Dialog": " A dragon! I must slay him before he tries to steal all my oranges. I'll be back to deal with you later!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Come on! We'll grab the goose and go."
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " All right."
+    },
+    {
+        "Character": "voice",
+        "Dialog": " Help! Help!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What was that!"
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " Oh, nothing, just this old lady the giant has locked in his dungeon."
+    },
+    {
+        "Character": "voice",
+        "Dialog": " Please rescue me!"
+    },
+    {
+        "Character": "fairy",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No! First, I must rescue the old lady in the dungeon."
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " You heroes are all alike...     PROFESSOR/OLD MAN Young man, we've been locked up in that tired dungeon for thirty years!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Look, we don't have time to discuss a housing problem!"
+    },
+    {
+        "Character": "old lady",
+        "Dialog": " How can we ever thank you?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ah...look, we...we got to run fast, that giant will be back any second!"
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " Oh come on hurry!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah!"
+    },
+    {
+        "Character": "old lady",
+        "Dialog": " OK but first I must reward my rescuer."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Look lady we don't have time!"
+    },
+    {
+        "Character": "old lady",
+        "Dialog": " Oh I know I know! I will thank you with a kiss."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A kiss?"
+    },
+    {
+        "Character": "old lady",
+        "Dialog": " I knew that would grab you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Couldn't we just...shake hands?"
+    },
+    {
+        "Character": "old lady",
+        "Dialog": " A kiss."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh this hero business isn't what it's cracked up to be. "
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " Go ahead get it over with."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh boy."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " My, you're beautiful! Especially for an old hag.      GINGER/PRINCESS It was your kiss that did it. I'm really a princess."
+    },
+    {
+        "Character": "old man",
+        "Dialog": " And I'm really a prince! And I could use a kiss to turn me BACK into a prince!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Forget it, buster. I'm not gonna kiss you."
+    },
+    {
+        "Character": "old lady",
+        "Dialog": " It's not you that can turn him back, it's her!"
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " Oh the giant's beginning to look better and better every minute!"
+    },
+    {
+        "Character": "old man",
+        "Dialog": " That bad, eh?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Come on I got to get this goose back home to my mother!"
+    },
+    {
+        "Character": "fairy",
+        "Dialog": ""
+    },
+    {
+        "Character": "i'd rather kiss the goose. here goes...",
+        "Dialog": ""
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " Oh, you're not a prince!"
+    },
+    {
+        "Character": "old man",
+        "Dialog": " No, I'm not, am I? Well don't believe everything you hear, girlie!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here comes the old fe-fi-fo-fummer again!"
+    },
+    {
+        "Character": "fairy",
+        "Dialog": " Oh I know a shortcut, follow me!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah!"
+    },
+    {
+        "Character": "giant",
+        "Dialog": " Aha! Trying to steal my goose eh!? Aha! Aha!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Let me go! Let me go! Let go of me! Let me go..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!  Wake up! Wake up!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No no let me go! You got me..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Will you stop that! It's just the me Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Did I fall asleep? "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Tha...that's not important!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's not important!? If the tiki-torches wen...they went out, Skipper, That means that we're all gonna die... "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper look! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Look at those Grapefruit! The professor found some grapefruit trees! "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes and some lemon trees too!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I knew all about them."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " You mean you knew there were citrus fruits in the jungle?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No, not citrus fruits! Just grapefruits and lemons."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh Gilligan, those ARE citrus fruits!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " My goodness, wa...wa...well if he only knew where I could get my hands on a two inch T-bone steak!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I know!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You DO? Where?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Back there in Hawaii! We used to park the Minnow right there, bring it in there, that little restaur...ant."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thank you, Professor."
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan your timing is wrong. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You just don't want me to go into business for myself!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It's not that at all! But Gilligan you been out here for five hours and what have you made?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Nothing."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Exactly. Now come on let's go fishing."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " OK. But it sure would have been a swell business yesterday!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Alright come on."
+    }
+]

@@ -1,0 +1,1470 @@
+[
+    {
+        "Character": "radio",
+        "Dialog": " AND NOW STAY TUNE FOR THE NEWS."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey skipper do you want to hear the news?"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " THE ILL FATED MINNOW MADE THE HEADLINES AGAIN TODAY. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The Minnow, the Minnow? The Minnow!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "       (GROGGILY) Huh?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He said the Minnow!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "       (GROGGILY) Huh? What is it?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He said the Minnow!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " The minnow?"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " YES THE MINNOW. "
+    },
+    {
+        "Character": "radio",
+        "Dialog": " A SMALL CHARTER VESSEL, WHICH CARRIED FIVE PASSENGERS AND A...      (CONTINUED) ...CREW OF TWO. TODAY A MARITIME...      (CONTINUED) ...BOARD OF INQUIRY SOUGHT TO FIX THE BLAME FOR THE LOSS OF THE VESSEL AND PASSENGERS."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " The worst storm in history that's what it was."
+    },
+    {
+        "Character": "radio",
+        "Dialog": " AT THE CONCLUSION...      (CONTINUED) ...OF THE HEARING, THE MARITIME BOARD DECIDED..."
+    },
+    {
+        "Character": "radio",
+        "Dialog": "     (CONTINUED) ...THAT THE CAPTAIN OF THE SHIP, WAS SOLELY RESPONSIBLE FOR THE DISASTER. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " The captain of the...me!? Gilligan they're blaming me!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " IT WAS A CLEAR CASE OF...      (CONTINUED) ...DERELICTION OF DUTY. FORTUNATELY THERE ARE FEW CAPTAINS OF CHARTER VESSELS WHO ARE AS COMPLETELY INCOMPETENT AS..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " They weren't talking about you skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan yes they were talking about me."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No they weren't."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Where you going!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I can't face anyone! I mean, I'd be better off dead!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It's all my fault!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper..."
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act i",
+        "Dialog": ""
+    },
+    {
+        "Character": "professor",
+        "Dialog": " ...and they actually blamed the skipper for the shipwreck and the loss of the Minnow?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah it really shook him up! He ran off and I can't find him! I'm afraid of what he might do!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Like what Gilligan?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He might jump off a bridge!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Or lay on a railroad track!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " ...Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Or get hit by a truck!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " You're not thinking. We don't have a bridge, we don't have a train, we don't have a truck!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yeah! Well there's nothing to worry about!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Except jumping off a cliff."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " There's something to worry about."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'll go find him, you tell the others."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " You don't really think the skipper would hurt himself do you?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ginger when a skipper looses his ship, they take away his captain's papers."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " But he wouldn't kill himself."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But you don't understand! He'll never have his own ship again! He can never sail at the helm of his own ship!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " But that doesn't mean he's going to kill himself does it!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ginger if you were in the skipper's shoes, what would you do?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Kill myself."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " ...and Ginger said she'd kill herself."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh so would I!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh that's most terrible Gilligan!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Of course we'll help look for the skipper!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Of course!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Captain!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Captain! A captain!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " What's the matter my dear?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I think I, have a pebble in my shoe."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh yes yes we'll...just sit down, on this log my dear. "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah, there we are. I do hope we find the captain in time."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh yes, he's such a dear. Thurston when we get off the island, don't you think you could buy him a little token of our esteem? "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I know just the gift for a sea fairing man, the Queen Mary!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh what a marvelous suggestion! It'll go so well with his blue eyes!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " This may be the coward's way out but, when a captain looses his ship!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan please be careful. You might trip over this and break your neck."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I thought I'd be too late!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well you're just in time so sit down and weave those on the other end of this vine."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sure."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It's gotta be long enough Gilligan to go over the limb of that tree."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh, it'll be long enough skipper. I sure am glad you're alive! If you were dead I wouldn't know what to say to you."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh, how's your end coming?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's almost done. Everybody else is out looking for ya too."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I think this will do it."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Nobody wants to see ya die!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Will ya hurry it up please Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah there it's finished skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yeah it's all finish alright. Lets go throw it over the limb."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here skipper let me do that for ya ok?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " There you are skipper a perfect..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now all we have to do is tie off this other end."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh no skipper! I'm not gonna to let you do it! I'm not gonna let you do it skipper! I'm not gonna let you do it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well there are other ways."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Those rocks are hard as a rock."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Skipper! Skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ginger don't..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Don't ever scare a guy like that, I could have killed myself! "
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Sorry skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well it's all right cause, really that's what I had in mind anyway."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh but you mustn't! We need you!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ginger, nobody needs me."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well I do."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh come on you got, Gilligan, you got, Mr. Howell, you got the professor. "
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Gilligan is just a boy, Mr. Howell is a married man, and the professor's just interested in my mind."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ginger I want to be alone."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " We are alone."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ep...I don't me that! I mean I want to be ALONE alone."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Look I've got a wonderful idea. Why don't we two, take a lovely little walk along beach. You know that, pretty little cove."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ginger I know exactly what you're trying to do. You're trying to stop me from killing myself and it won't work!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Skipper!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Skipper I'm going with you!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Mary Ann, please! I want to be alone!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I won't let you jump!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "       (DEPRESSED) Ok.  You girls win. "
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh Mary Ann you did it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The skipper's getting worse!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " What's he doing now Gilligan?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He's just sitting in a chair staring straight ahead."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh the poor skipper."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " You know I thought about it..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " ...and I thought about it and I've gone over the entire voyage and I can't think of a solitary thing the skipper did wrong."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Neither can I."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Neither can I."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That makes three of us!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Four."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " The skipper took every precaution, He used every conceivable thing for our safety. How can we convince him that he wasn't at fault? "
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I don't know if this will help but, i...i...in every movie that I ever made, they always solved the mystery by re- creating the crime."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Ginger that's a splendid idea! We could re-enact the sinking of the Minnow."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " You mean do it exactly the way it happened?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well sure! The wind the rain the entire storm! Well that's a wonderful idea!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't think it's a marvelous idea."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Why not?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Because the first time, we were almost killed!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper we're sure it wasn't your fault!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Professor all my life I've lived by the rules of the sea. The maritime board found me guilty, I must be guilty."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh of what!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I don't know! But I must a done something wrong! Otherwise they wouldn't have found me guilty!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right then. Lets try to find out what it was you did that was wrong."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " But how!? It happened so long ago!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " We figured out a way, come on."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What's all that?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper, we thought we'd re-create the voyage from just before the storm hit, until we were beached."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I'm wind and thunder."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I'm lightning and waves."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now try and remember every order you gave during that storm."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh come on professor now, you know this is just a lot of nonsense. I know you went to a lot of work..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well let's give it a try!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All right well you did so much I guess I can go along with it um, maybe we can learn something!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now try to remember to give the orders exactly the way you gave on the Minnow! And Gilligan, the only thing you can do to help is to listen and obey!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now Gilligan, Now let me see. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " As I recall, just before the storm hit we had a heading of zero six two."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aye, aye sir, zero six two."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It was right then that the storm hit."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ohp!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan we can't outrun this storm! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " So go below and batten down the hatches!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aye, aye sir!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " There's no below!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well pretend there is!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " It's just about now the wind started to whip up!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Wind coming up!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And the waves started breaking over the ship a few minutes later!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " The waves are ready professor!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan the storm is getting worse! We'll have to turn about!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aye, aye sir!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No Gilligan! Not you, the BOAT!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It was right now where the waves came over the bow! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ginger I said the bow!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Huh!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Bow!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey skipper the storm is getting worse now!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan we're starting to take on water! Man the pumps! I'll take the wheel!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aye, aye sir!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper! We're heading straight for the reef! Right for the reef!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I know! I know!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " We're gonna be dashed to pieces!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan we got to maintain our position I order to avoid the reef! Heave Ho with the anchor!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aye, aye sir!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Something's wrong Gilligan! We're still moving!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah! And we're headed for the rocks! Right for the rocks skipper!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Are you all right!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper did you find out what went wrong!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I think so."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, when you threw the anchor aver board, was the anchor line attached to it?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Anchor line attached?  Anchor line? WHAT anchor line?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh, well, nobody's perfect."
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act ii",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gillig...!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll never bother anybody ever again."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan little buddy, we've been looking all over for you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah? Well now that you're here, why don't you sit down and give me a hand."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You know, you got to face up to these problems. Y...y...you're just a little upset right now."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's got to be long enough to go over that limb over there."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well, you know, you're just taking this too hard. You've got to face up to everything you know?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You got to make sure it's very strong."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Boy, people are sure gonna be glade to see that you're ok when we get back."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's long enough."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I can hardly wait to see 'em when you come walking back into camp ha...ha...ha."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Here let me do that for you Gilligan. You know what we'll do tomorrow? We'll spend the whole day fishing. Get together with ya, and we'll spend the whole day on the beach. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And after fishing we'll..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Thanks I'll handle it from now on."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No! I won't let you do it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But I lost the Minnow!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We BOTH lost the Minnow. When a captain gives orders, it's his duty to see that they're carried out. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But it was my fault!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, we both failed. In fact, there's only one way out for both of us."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You want to go first?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Sure Gilli...no I don't mean this Gilligan. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well if you don't do this, then how 'bout the cliff!? I'll push you over and then you push me over?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What I mean is, there's only one thing left for us to do. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What's that?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I think I got everything."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Same here. Moving to the other side of the island is, the only honorable thing to do I guess."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now comes the sad part. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sad part?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Saying goodbye."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yeah. Goodbye skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Goodbye Gilligan."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan you're coming with me!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I...I tell you the whole idea is simply ridiculous."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Mr. Howell it is not ridiculous! Gilligan and I have got to do this."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " If you change your mind, we'll give you all my jewels, won't we Thurston."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Absolutely."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thanks...       (CONTINUED) ...but I..."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " And we'll give you all my...       (CONTINUED) ...furs, won't we Thurston."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Absolutely."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " And we'll give you all our money, won't we Thurston."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Will you please reconsider?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No Mr. Howell now we've got to go now come on Gilligan."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Ohhhh I think I'm going to cry!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Me too."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Goodbye Gilligan."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Goodbye skipper ole boy."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Good-by Mr. Howell, ep...Mrs. Howell."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Goodbye Mrs. Howell. Goodbye Mr. Howell. Goodbye skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Goodbye Gilligan. Doh! Gilligan! Come on!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh I keep forgetting."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We're leaving now."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well I wish there was something I could say to make you stay."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh please don't go!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's our duty."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh I won't let you go!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh, sorry Ginger, but we are going. Now, goodbye professor, Goodbye Mary Ann, and... "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Goodbye and, try to remember us as we were, not as we am."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Ohhhh, oh Gilligan I don't know what you're trying to say, but we love you!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Goodbye Gilligan, skipper."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Goodbye professor, goodbye Ginger, goodbye Mary Ann, goodbye skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Goodbye Gilligan. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan please lets go! Bye!   GINGER AND MARY ANN Bye. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well Gilligan, this is where we're going to spend the rest of our lives."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well,..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " ...maybe we won't live that long."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey skipper? "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes Gilligan?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " If we went back now,...       (CONTINUED) ...what would the maritime board do to us?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It's hard to say. Maritime law has always been pretty stiff. It's been that way ever since man has been sailing the seven seas."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I bet it was worse in pirate days huh?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Much."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey skipper?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " If you were, back in the Minnow again, and a pirate ship fired a cannon ball right across your bow, what would you do?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Go to sleep."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You would!? You'd go to sleep!? With a, pirate ship firing a cannon ball..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan will you go to sleep!!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah. I wonder what it was like living back in those days. Out in the ocean in a, big sailing ship. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Far from land. Surrounded by pirates. Pirate ships, pirates...    FIRST DAUGHTER/GINGER Queen mother who is the handsome young Admiral in change of the ship?   QUEEN MOTHER/MRS HOWELL Ah dear daughter, that is Lord Gilligan. The youngest admiral in the Royal fleet!  SECOND DAUGHTER/MARY ANN My how awfully brave he looks!"
+    },
+    {
+        "Character": "second daughter",
+        "Dialog": " Sir Admiral?"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " What my pretty?"
+    },
+    {
+        "Character": "second daughter",
+        "Dialog": " Is it true that there are pirates on these waters?"
+    },
+    {
+        "Character": "first daughter",
+        "Dialog": " Pray tell!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Pirates!? What pirates would dare sail the same ocean as Lord Admiral Gilligan!?"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Silly girls. They think you're...(pause)"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Pirates!!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Ah ha! "
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Ooooo.   LONG JOHN SILVER/SKIPPER Ah we gotcha!   CAPTAIN KIDD/PROFESSOR Look here me buckos! We captured Lord Gilligan!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " That's Lord ADMIRAL Gilligan!   CAPTAIN HOOK/MR HOWELL Ho he's the fancy one!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Some day you'll feel the cold steel of my sword!"
+    },
+    {
+        "Character": "captain hook",
+        "Dialog": " And some day you'll feel the cold steel of my hand!"
+    },
+    {
+        "Character": "long john silver",
+        "Dialog": " Ah...ha...ha! A vast ya lubbers, take the wenches below!"
+    },
+    {
+        "Character": "captain kidd",
+        "Dialog": " Ahhhhhh!"
+    },
+    {
+        "Character": "second daughter",
+        "Dialog": " Oh! They've locked us in!"
+    },
+    {
+        "Character": "first daughter",
+        "Dialog": " We've been captured by the most notorious pirates of all! Captain Kidd, Captain Hook and Long John Silver! What are we to do Queen mother?"
+    },
+    {
+        "Character": "queen mother",
+        "Dialog": " Be brave my daughters. That clever Lord Admiral Gilligan will save us."
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Help! Help! Let me out of here! Help! Help! Let me out of here! Help! Help...Wait. Why do I need help? Am I not Lord Admiral Gilligan!? The bravest, most daring swordsman in her Majesties fleet!?  Ah yes, I alone can save her Majesty and her two charming daughters from those ruffians. "
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Ah the keys."
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Those keys, I must get those keys."
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " My belt!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " To the rescue!"
+    },
+    {
+        "Character": "first daughter",
+        "Dialog": " Someone's coming!"
+    },
+    {
+        "Character": "second daughter",
+        "Dialog": " The pirates!?"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Ah ha!!!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " At your service our Majesty."
+    },
+    {
+        "Character": "queen mother",
+        "Dialog": " Lord Admiral Gilligan."
+    },
+    {
+        "Character": "first daughter",
+        "Dialog": " Oh your lordship. What can we EVER do... ...to repay you?"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " I'll think of something. But FIRST! I must kill the scoundrels who das board my ship!"
+    },
+    {
+        "Character": "queen mother",
+        "Dialog": " Lord Gilligan. "
+    },
+    {
+        "Character": "queen mother",
+        "Dialog": " What are you going to do!?"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Us heroes like to do things the HARD way!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Yo!"
+    },
+    {
+        "Character": "long john silver",
+        "Dialog": " Heave!      CAPTAIN'S HOOK AND KIDD Oh!"
+    },
+    {
+        "Character": "long john silver",
+        "Dialog": " Heave!"
+    },
+    {
+        "Character": "captain's kidd",
+        "Dialog": " Ah!"
+    },
+    {
+        "Character": "captain hook",
+        "Dialog": " Oh!"
+    },
+    {
+        "Character": "long john silver",
+        "Dialog": " Look there mates!"
+    },
+    {
+        "Character": "long john silver",
+        "Dialog": " He's escaped!"
+    },
+    {
+        "Character": "captain kidd",
+        "Dialog": " Ar! He's probably cowering below deck! Fraid to show his face."
+    },
+    {
+        "Character": "long john silver",
+        "Dialog": " Oh one of me men once had a fistfight with him. An remember mates, he's a sucker for a right hook."
+    },
+    {
+        "Character": "captain hook",
+        "Dialog": " Well I'm at a disadvantage. I can only give him a LEFT hook. I fought Lord Gilligan before and I'll long remember it."
+    },
+    {
+        "Character": "captain kidd",
+        "Dialog": " Ar! Did he give you that scare!?"
+    },
+    {
+        "Character": "captain hook",
+        "Dialog": " Did that myself."
+    },
+    {
+        "Character": "long john silver",
+        "Dialog": " You did dat your self!?"
+    },
+    {
+        "Character": "captain hook",
+        "Dialog": " I had an itch, and I forgot!"
+    },
+    {
+        "Character": "long john silver",
+        "Dialog": " Why are we wasting... ...our time talking about that dandy? Lets look at the treasure!"
+    },
+    {
+        "Character": "captain hook",
+        "Dialog": " Stand aside maties!"
+    },
+    {
+        "Character": "captain hook",
+        "Dialog": " There you are!"
+    },
+    {
+        "Character": "captain kidd",
+        "Dialog": " Ahhh! Aye did you... ...ever see so much money!?"
+    },
+    {
+        "Character": "captian hook",
+        "Dialog": " I'd like to take off me boots and wade bare foot!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": ""
+    },
+    {
+        "Character": "ha...ha...ha...ha!",
+        "Dialog": ""
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " A vast you naves!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Ah! Well never let it be said that Lord Admiral Gilligan, fights unfair!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Ho!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Ho!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Ho!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Ho!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Oh!"
+    },
+    {
+        "Character": "long john silver",
+        "Dialog": " After him mates!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " En garde!"
+    },
+    {
+        "Character": "long john sivler",
+        "Dialog": " Together!"
+    },
+    {
+        "Character": "long john silver",
+        "Dialog": " Get him Matey!!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Uh oh!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Fellas! Fellas! A guy could get killed this way!"
+    },
+    {
+        "Character": "second daughter",
+        "Dialog": " Oh! Lord Admiral Gilligan!"
+    },
+    {
+        "Character": "first daughter",
+        "Dialog": " Oh spare him! Spare him!"
+    },
+    {
+        "Character": "long john silver",
+        "Dialog": " I will spare him missy. We'll save him for the plank!"
+    },
+    {
+        "Character": "captain hook",
+        "Dialog": " Aye! The plahnk!"
+    },
+    {
+        "Character": "captain kidd",
+        "Dialog": " Aye! Wark the plank! Ha...ha!"
+    },
+    {
+        "Character": "long john silver",
+        "Dialog": " Wark the plank come on matey! Ha...ha...ha...ha."
+    },
+    {
+        "Character": "long john silver",
+        "Dialog": " Up you go!"
+    },
+    {
+        "Character": "queen mother",
+        "Dialog": " Oh Lord Admiral Gilligan,... ...I'm certain you will be knighted for this."
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " If you let me go, I'll invite you to the ceremony!"
+    },
+    {
+        "Character": "long john silver",
+        "Dialog": " It's into the briny deep for ya matey!"
+    },
+    {
+        "Character": "long john silver",
+        "Dialog": " Up you go!"
+    },
+    {
+        "Character": "long john silver",
+        "Dialog": " Go on!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Don't push! Don't push!"
+    },
+    {
+        "Character": "admiral gilligan",
+        "Dialog": " Don't push me! Don't push! Oooo! Ooooo! Don't push me!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Don't push!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Don't push me!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan wake up it's me the skipper!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Where is Long John Silver and Captain Hook and..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hew what a dream."
+    },
+    {
+        "Character": "radio",
+        "Dialog": " ...AND WITH ADDITIONAL INFORMATION, THE MARITIME BOARD RECONVENED."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Listen! An important announcement about the Minnow!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " THE NEW TESTIMONY INDICATED THAT ON THE DAY THE MINNOW SET OUT FROM HONOLULU HARBOR, THE RADIO OPERATOR ISSUED THE WEATHER INFORMATION FROM THE PREVIOUS DAY. NO MENTION WAS MADE OF THE APPROACHING STORM, AND THE CAPTAIN HAD...       (CONTINUED) ...NO WARNING OF ANY KIND."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " How 'bout that!?"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " AS A RESULT, THE MARITIME...       (CONTINUED) ...BOARD OF INQUIRY,... ...FINDS THE CAPTAIN AND CREW OF THE MINNOW COMPLETELY BLAMELESS."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It's great news professor! Thank for bringing it up! Come on Gilligan lets go!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " If we knew we were only gonna spend one night here, we wouldn't of made the hut so solid!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You better run! And you better run fast!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": " "
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " All hands on deck and that means you Gilligan! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aye, Aye sir."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Cast off! Look alert! Look Alert! All right there! Left rudder! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Right rudder! Steady as she goes! Full speed ahead!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh, looks like a storm up there. Yep a regular cloud burst."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Look at the sea it's starting...        (CONTINUED) ...to pitch! The waves are coming over the bow!        (CONTINUED) Man the pumps! Man the...        (CONTINUED) ...pumps! Down with the mainsail drop the jib!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Abandon ship! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Abandon ship! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Abandon ship!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan little buddy! I got to admit it, when I say abandon ship, you REALLY abandon ship! Ha...ha...ha...ha! "
+    }
+]

@@ -1,0 +1,998 @@
+[
+    {
+        "Character": "gilligan",
+        "Dialog": " Sure is a lot of static today."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Must be a big storm some place, might as well turn it off."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey! Hey! Hey we're rescued! Hey! Hey! Hey Mister! Hey Mister! Hey Mister!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey mister am I glad to see you!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " My name's Kincaid, Jonathan Kincaid."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yeah, I'm Gilligan!  You...you don't know what we've been through! We got no television, no hot dogs, no licorice whips!..."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " We?! You mean there's other people on this island besides you?"
+    },
+    {
+        "Character": "gillgian",
+        "Dialog": " Yeah there's six of us, there on the other side of the island, we were ship wrecked, a...I got to tell 'em we're rescued! Oh and would you please radio Hawaii and tell'em to come pick us up?!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Wa..Wa..What a minute! Do you have any game on this island?"
+    },
+    {
+        "Character": "gillgian",
+        "Dialog": " Game? Yeah...oh yeah the Skipper's got some checkers and I got a deck of cards and..."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " No no I mean do you have any wild goat or wild boar."
+    },
+    {
+        "Character": "gillgian",
+        "Dialog": " Ah...no no we don't have any game like that at all on the island...I've got to go tell the others!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Seven people on this island and no body knows they're here. (pause) It's very interesting. (pause) Ramoo we're going hunting!"
+    },
+    {
+        "Character": "ramoo",
+        "Dialog": " What you not hear? No game on island."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Perhaps not the four legged kind. I've always wondered what it'd be like to track down and kill the most challenging of all game."
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act one",
+        "Dialog": ""
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " ...so I explained to the authorities that because of the size of my helicopter, they'd have to send a boat. I gave them our exact position and the boat will be here tomorrow morning at ten o'clock."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "    (EXCITEDLY YELLING) ...man when I get back I'm going right to an Italian restaurant, and I'm gonna have eight or ten pizzas, six dozen meat balls, two piles of spaghetti and then I'm going to have dinner!!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I don't know what to wear!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Well Ramoo, which one will be our victim? The skipper? The Professor? Mary Ann?"
+    },
+    {
+        "Character": "ramoo",
+        "Dialog": " Ramoo think not difference."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Oh come on man where's your sense of the hunt?  I want a quarry that a...will present me with a challenge.  Somebody that's nimble, agile."
+    },
+    {
+        "Character": "ramoo",
+        "Dialog": " Who that one?"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " I don't know. I'll have to question each and every one of them to find out who will give me the best run for my money."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I don't know how we're going to explain to our friends that we spent several years with people who aren't even in the social register."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well a...our friends will just have to realize my dear that one is marooned one must take pot luck!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " There you go...oh that's heavy! You have your jewelry in there."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah...ah...goo...hello there Mr. Kincaid."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Need any help?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No...no...no...no...we Howells make a point of...a keeping fit."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " As an example to the little people."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes the last cotillion we attended, Mrs. Howell danced every dance and was hardly out of breath!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " You know Mr. Howell's office is on the second floor and sometimes he doesn't even take the elevator!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " A sound mind and a sound body."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " My that is a beaut...hand tooled...you didn't get that at a discount."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Ah!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Almost caught her on the rise!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Are you a...a hunter Mr. Howell?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well no...but I a went on a...a tiger hunt once.  I shot three of the ugly beasts in fifteen minutes."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Three in fifteen minutes, why that's utterly fantastic! You must have been pleased!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I was but the directors of the zoo were infuriated!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I went fishing in the aquarium I thought they weren't pleased I'll tell you that..."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I can hardly wait to get back to Kansas. Why the first thing I'm going to do is bake an apple pie, and then I'm going to milk the cows and then I'm going to feed the chickens!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Well you farm people have to stay in good condition."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh we certainly do! You know I once ran a hundred yards in fifteen seconds!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Fifteen seconds?!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh yes.  I was being chased by a bull!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh that's nothing.  I once ran a hundred yards in ten seconds."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Ten seconds?!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Huh hum, I was being chased by a Hollywood producer!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " ...P H D at twenty five?! Well it sounds like you didn't have much time for sports."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well I don't want to sound immodest but I was the number one man on my team!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Really?!...Baseball?"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Basketball?"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Football?"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Hockey?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Chess!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " How about you skipper?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well Mr. Kincaid football was my game in High school. I played the line."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Oh...what position?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No position...I WAS the line!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'll never forget..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You got a pretty good back field too!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "     (Sarcastically) Thanks a lot Gilligan! It's easy for you to talk, look at the way your built! I'm mean he's young and wirey. He can run as fast as a rabbit, climb a tree like a monkey.  Why trying to keep up with him is impossible!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " There you are...put that over there girls.  "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh...oh here comes our guest of honor now. Remember skipper?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Everybody now..."
+    },
+    {
+        "Character": "all",
+        "Dialog": " For he's a jolly good fellow! For he's a jolly good fellow! For he's a jolly good fellow! Which no body can deny!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Speech!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Speech, speech, speech!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Thanks you, thank you very much! I hope you can feel the same way after my little announcement. Ladies and gentleman I have chosen one of you to go on a little hunting trip."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Here here!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Mr. Kincaid there isn't any game on this island!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Oh yes there is, you see I'm planning on hunting one of you."
+    },
+    {
+        "Character": "gilligian",
+        "Dialog": " Hey that's kind of funny."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, he's not smiling."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well that's ridiculous. People don't hunt people."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Mr. Kincaid this joke is in extremely poor taste!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Madame, I assure you I'm not joking."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Do you intend to hunt one of us, and then gun your victim down in cold blood?!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Very well put Professor. As added incentive to your participation in this adventure, if the one I'm hunting can elude me for twenty-four hours, I'll see that your all returned to civilization."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " But...but I'm a girl!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " That's quite obvious."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Me!?"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " My dear, shooting you would be like shooting an Easter bunny."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " As for you Madame."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " You wouldn't dare!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Don't tempt me.  But I plan to start this hunt before noon, and I'm sure at be circulating."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I never heard such nerve!  Why for something important I can get up as early as anyone else!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lovey, if the man says your blood doesn't circulate don't argue!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " As for you, I'd love to let some hot air out of your stuffed shirt!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Over here we have a chess player. By the time he's figuring out his next move I'd have him in my bag!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now look Kincaid, this is a lot of nonsense!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Skipper! Your too big a target."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm glad it's not you or Ginger or Mary Ann or Mr. Or Mrs. Howell or the Professor."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You mean it's..."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Ramoo, take him away."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now you be careful with him, that's my little buddy!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper, when I get a chance, I'll make a break for the helicopter and radio for help."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's a great idea Professor, well show that big gun he can't push us around..."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Have any ideas about using the radio forget it, I have the tubes."
+    },
+    {
+        "Character": "gilllgian",
+        "Dialog": " Mr. Kincaid you sure had me fooled. I mean about shooting me tomorrow. Isn't that a laugh!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Yes it does have it's humorous side."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I want a word with you Kincaid."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " How are you my boy?"
+    },
+    {
+        "Character": "gillgian",
+        "Dialog": " Oh I'm great Mr. Howell. You have Mr. Kincaid all wrong. They're treating me like a prince. I have steak and a leg massage. I'm living it up."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Wa...Can't you figure out why my boy!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sure! They like me!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Like you!? They're fatting you up like a Thanksgiving day Turkey and tomorrows Thanksgiving day!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Did you hear that Mr. Kincaid? They still believe it. Go on, tell'em your not going to do anything. (pause)"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mr. Kincaid? Tell them your not... Mr. Kincaid say something. Say anything Mr. Kincaid!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Look ah, Mr. Kincaid, this young fellow means a lot to me, say ah one hundred thousand dollars?"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " No."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No...ah...Three Hundred Thousand?"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " No."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well let's not quival with small change. What about a half a million and a tip for your friend with the bad headache?"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " You don't seem to understand. I'm not interested in money."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You are sick!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Conserve some of that energy for tomorrow, don't burn yourself out. And stop looking so glum, after all you've got a fifty-fifty chance."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Fifty-fifty!?"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Yes, whether you get it through the heart or between the eyes."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " You know the rules. If you can survive for twenty-four hours, you not only save your life, but the lives of your friends."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " It's set to go off at exactly this time tomorrow. And just to be sporting, I'm going to give you a fifteen minute head start. (pause) GO!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Did you say fifteen or sixteen minutes?"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " You just lost ten seconds."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oops!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Bang!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act two",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "      (out of breath) I've got to keep running, I'm exhausted. He's going to blast me into confetti. How long have I been running?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "     (out of breath) Five minutes! He hasn't even started after me yet."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Well I must leave now. Somewhere out there in the jungle your little friend is waiting. (pause) And I wouldn't want to disappoint him. Guard them well Ramoo."
+    },
+    {
+        "Character": "ramoo",
+        "Dialog": " Yes sir boss."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It'll serve Kincaid right if I die of sun stroke before he kills me. That is if I don't die of thirst before I die of sun stoke before I die of gun shot...Oh I'm so thirsty I got to get some water."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Poor Gilligan, eleven hours and he's still running."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'd be happy if he was still alive and walking."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Or Crawling!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Now lets not give up hope. We've got to believe Gilligan is still alive and he's going to stay that way."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Your not Mary Ann your Mary Poppins."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Never the less she's right! What we need is positive thinking."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yeah well a bullet hasn't been made yet with Gilligan's name on it. That guy'll never catch'em. My little buddy is too fast!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And cunning!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And Shifty!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yeah,"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And Smart!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Three out of four that's not bad."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yeah. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ramoo!"
+    },
+    {
+        "Character": "ramoo",
+        "Dialog": " Aaaaaaaah!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " There's one good thing about Ramoo still guarding us that's the fact Gilligan got through the night."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " We've got to escape and go help him!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "    (depressingly) Six more hours."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I've got an idea.  Why don't we just tunnel our way out of here!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Not through twenty-five feet of rock!? Why with even dynamite and a steam shovel it would take a month!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh details, details I just hate to be bothered with details!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'm afraid we're stuck right here."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh pooh there must be someway we can help poor Gilligan."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh I can't just sit still, I've never felt so useless in my whole life!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well think of me! I'm three times as big as you are I feel three times as useless!"
+    },
+    {
+        "Character": "ramoo",
+        "Dialog": " Stop! Where you go!?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Put that silly thing away. I'm sure your mother would never approve of such conduct!"
+    },
+    {
+        "Character": "ramoo",
+        "Dialog": " No have mother!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Awe that's sad. But you must remember you're an uninvited guest on this island, and you do have certain social obligations."
+    },
+    {
+        "Character": "ramoo",
+        "Dialog": " No have ogligations!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Didn't anyone ever tell you that it's rude to point!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lovey! Lovey! That man is a barbarian!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh fiddle sticks! Any one can learn good manners."
+    },
+    {
+        "Character": "ramoo",
+        "Dialog": " Do not make Ramoo stab you!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lovey don't! Please!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " If you ever want to get into high society, you'll have to read a book on etiquette!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Quick Professor a rope! I think we've been liberated!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The question isn't who. I know who's gonna get it! The question is when where and how!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh skipper anybody!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Kincaid! NO!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Now to get my trophy!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan! Little buddy! "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Keep going! Run!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Run Gilligan!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Keep Going!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Run!"
+    },
+    {
+        "Character": "ramoo",
+        "Dialog": " I'm sorry Ramoo not scare woman."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " You natives are too tender hearted."
+    },
+    {
+        "Character": "ramoo",
+        "Dialog": " Yeah it's to bad."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Come on we'll pick up his trail again!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'll brush the foot prints away from Gilligan's roots."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Good idea."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And I'll try to keep Kincaid away from this area. (pause) How you doing in there Gilligan?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm so nervous my knot holes are shaking!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "        (QUIETLY) Little buddy we're gonna take off now."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Shhhhh...I think I hear somebody coming!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Quiet Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Huh!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Mr. Kincaid. (laughs)"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Well gentlemen, your friends trail ends right here and I have a feeling he's somewhere near by."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Where?"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Ramoo, did you thoroughly clean my rifle?"
+    },
+    {
+        "Character": "ramoo",
+        "Dialog": " Ramoo think so."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " You think so huh?  Well maybe we better test it. Draw me a target"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Your...your...your...your not going to shoot that tree are you!?"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Why not!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well because eb...eb.eb trees are out of season!  Besides, what kind of target is a tree?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes, I...I mean especially that one! Why that's a that's a Nakapoorasaka! According to the local natives it's a sacred tree, why if you even scratch it, it'll bring you twenty-five years of bad luck!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's exactly right, honestly, it's worse luck than breaking three mirrors!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " That's nonsense now get out of my way!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Can't you do anything right, I told you to draw me a target!"
+    },
+    {
+        "Character": "ramoo",
+        "Dialog": " Ramoo draw target! I do again."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Ah no that's alright.  I'll just put a bullet right in the center of that tree."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oop...oop Mr. Kincaid! Why waste your time shooting a tree? Why don't you shoot Gilligan! "
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Shoot Gilligan stead of a tree."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes that's...that's...that's one of our favorite trees!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Ramoo, I think the tension is getting to be too much for them. "
+    },
+    {
+        "Character": "ramoo",
+        "Dialog": " Yes."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " My malaria must be coming back."
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " It's Gilligan!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ep...ep...ep you shoot that gun it'll be murder!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " The alarm! It's twenty-four hours!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan is saved!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Well nobody can say that Jonathan Kincaid doesn't keep his word. Come on Ramoo let's go home."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wa...wa.no wait a minute Mr. Kincaid, what about us!? You said you were going to radio for help!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": "    (SADISTIC LAUGH) Are you kidding!? If the authorities found out I was hunting a human being they'd put me in jail!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Bu...We won't tell anyone!"
+    },
+    {
+        "Character": "kincaid",
+        "Dialog": " Sorry chaps can't take that chance."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well, the main thing is that Gilligan is still alive!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes, my little buddy!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan little buddy, you can calm down now! The alarm went off, the twenty-four hours is over!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Really!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Really little buddy! You don't know how close you came to getting killed!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Really!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That close!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That close!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's right!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Timber!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "radio announcer",
+        "Dialog": " ...AND THE DODGERS SHUT OUT THE METS FOUR TO NOTHING."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ha.ha...that...that makes three hundred thousand and twelve bananas that you owe me!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well you can subtract them from the nine hundred and sixty Mangos your owe me from playing GIN!"
+    },
+    {
+        "Character": "radio announcer",
+        "Dialog": " AND NOW FOR THE NEWS OF THE NATIONAL TRAP SHOOTING CHAMPIONSHIP. IT WAS WON BE THE WELL KNOWN SPORTSMAN, JONATHAN KINCAID. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey, that was the guy that was chasing me last month!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yeah!"
+    },
+    {
+        "Character": "radio announcer",
+        "Dialog": " MR. KINCAID WON THE TITLE WITH A PERFECT SCORE. A HUNDRED CLAY PIGEONS OUT OF A HUNDRED."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " That's remarkable shooting!"
+    },
+    {
+        "Character": "radio announcer",
+        "Dialog": " AFTER THE MATCH, KINCAID SUDDENLY BROKE DOWN AND BECAME SO VIOLENT, THAT LOCAL AUTHORITIES HAD TO BE CALLED. UNABLE TO CALM HIM, HE WAS FINALLY PLACED IN A STRAIGHT JACKET AND TAKEN TO THE MENTAL WARD AT GENERAL HOSPITAL. ALL THE WHILE HE KEPT MUTERING THE MYSTERIOUS WORDS, GILLIGAN, GILLIGAN, GILLIGAN..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You did it again Little buddy!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " By George that's marvelous!"
+    }
+]

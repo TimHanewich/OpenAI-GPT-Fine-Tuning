@@ -1,0 +1,1190 @@
+[
+    {
+        "Character": "skipper",
+        "Dialog": " Ehhh.Guadal Canal.ehhh."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Sub chaser three oh seven calling squadron command. Do you read me? Come in squadron command come in. We are under heavy enemy attack. Await you instructions."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Bandits at ten o'clock! Look out! Hit the deck!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hewww.that was a close one."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You're telling me!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Are you ok lieutenant?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah. Lieutenant?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Transmitter's been knocked out sir! We'll have to convert the receiver!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Harris, give me that radio manual!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Connect remaining circuits by plugging.       (CONTINUED) .in to.radio frequency located at the right side of the antenna lead."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ready to convert the radio into a transmitter Lieutenant! Aye, aye sir! Evens, hold this book."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Give me a screwdriver Ferguson! Quick man a screwdriver!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now give me the wire cutters! WIRE CUTTERS!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ready to transmit sir!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Dive-bombers at twelve O'clock! Jump Men!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aye, aye sir!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Run for your lives!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " you're soaking wet!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I know, the lagoon's full of water."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What were you doing in the lagoon?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You pushed me overboard when the dive- bombers came at us."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What dive-bombers!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The dive-bombers you were dreamin about! I'd just given you some tools to fix the radio."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Tools!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " This a screwdriver, and these pair of wire cutters. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Boy you had a real nightmare out there."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan. I have not been out of this hammock. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You've been walking in your sleep."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I have?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Certainly! And when you fell in the water it woke you up."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh is that what happened? Gosh I could have sworn it was the other way around."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'm afraid not. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now why don't you go back to sleep, and no more dive-bombers tonight, Huh?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Gilligan. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You'd better wipe those wire cutters off before they get rusty."
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act one",
+        "Dialog": ""
+    },
+    {
+        "Character": "radio",
+        "Dialog": " THIS IS ALICE MCNEAL SIGNING OFF AS I START THE LAST LEG OF MY ROUND THE WORLD FLIGHT. OPEN UP THAT GOLDEN GATE CAUSE SAN FRANCISCO HERE I COME!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Professor, according to my new calculations, she should be passing right over our island."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well there must be someway we can contact her. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " But how!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I got it! I've got it!! What we need is a big roaring fire!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A big roaring fire on a hot day like this!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " A signal fire Gilligan. There's a very good chance that woman flyer will pass right over this island."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper! We're saved we're saved!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We're not saved yet Gilligan. We've got to try and figure out someway to attract her attention. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I know, I'll take off my shirt, jump, and yell and wave it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, she's going to be passing over at five thousand feet! How do you suppose she'll see you!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll stand on your shoulders."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's good Gilligan. That's very good."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I've got an even better idea skipper. An even better idea. We'll build a human tower! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Human tower."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You'll be on the bottom, the professor stands on your shoulders, Mr. Howell stands on his, I stand on Mr. Howell's shoulders."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Mrs. Howell stands on your shoulders, Ginger will stand on her shoulders and we'll have Mary Ann at the top."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No I think Ginger ought to be at the top."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Why?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Because she's wearing high heels."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I think a signal fires our best bet Gilligan. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Although I don't know if she'll be able to see it through all that Nimbus Cumuli."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah, and all those clouds are in the way too."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wa.well we'd better do something pretty quick! No telling how soon she might pass over! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh, If only I could remember how you fixed the radio last night."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " What radio?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The one in the sub chaser in my nightmare. We were under heavy enemy attack, and the transmitter was knocked out."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Sub chaser? Enemy attack? The transmitter got knocked out?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Don't you remember skipper? I told you about it in the hut last night. I thought he was walking in his sleep but it turned out he was walking in my sleep."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What else happened?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't know, Whole things kind of hazy today. The whole nightmare seems like a dream. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan little buddy. You said I fixed the radio. How did I do it?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You turned it into a transmitter."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I remember! It happened at Guadal Canal!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No it happened over there by the lagoon."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We were about a mile off shore. The transmitter got hit.we were strafed by enemy fighters. I had to do something "
+    },
+    {
+        "Character": "fast!",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper let me tell it. It was my dream."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " You mean it's possible to convert a radio into a transmitter? "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Sure! It's simple, all you need is a screwdriver and a pair of wire cutters. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Got'em right here sir!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It's a simple procedure. It's just a matter of reversing the circuits by ah. Gilligan how did I do it?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't know!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " But you must have seen something!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I didn't even see the dive-bombers! Next thing I knew I was swimming for my life!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Think skipper, come on, think! "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " How did you convert that radio!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "     (Exasperatedly) I don't remember."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I know, I'll go back to sleep and get on the boat a little earlier this time."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Please Gilligan that was my dream last night not yours!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But you told."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I know what I told you but I was wrong!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Looks like I owe you an apology little buddy!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Forget it skipper, if you hadn't pushed me overboard, I would have been blown to bits."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " .has something to do with the main coil. A main coil."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Main coil.  SKIPPER AND GILLIGAN Main coil."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It's no use. I can't sleep with somebody watching!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right skipper. You try it on your own."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah skipper. Just concentrate on getting to sleep. Leave the worrying to us. The only thing you have to worry about is getting to sleep."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thanks Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You got seven lives depending on you sir."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's a big responsibility for one man. Unless you go to sleep skipper, you won't walk in you sleep, and then we can't change the radio into the transmitter."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " So relax and go to sleep."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Lets go Gilligan."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You don't have to tip toe Gilligan! I'm not asleep yet."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well you'd better hurry sir! That woman's going to be flying over at any time! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'm doing the very best I can."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I know you are skipper. So stop thinkin about the trouble we're in. You'll never get to sleep with that on your mind."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I sure hope he gets to sleep."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " He will if he's left alone. Gilligan, I want you to stand guard. Make sure nobody gets in there and disturbs the skipper."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Right, nobody."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " That includes you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Especially me, I'm the worst of the whole bunch."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I think I'm going to lay down. I'm beat. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Shhhhhh!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " No noise Gilligan, the skipper's almost asleep."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " .when the wind blows the cradle will."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " .fall, and down will come baby cradle."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " AND ALL!!"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " THIS IS ALICE MCNEAL IN THE VAGABOND LADY SAYING ALOHA.     (CONTINUED) .NUI TO HAWAII! I'M PLANNING MY E  T  A. AH THIS IS VAGABOND LADY SIGHING OFF! OVER AND OUT!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Signals coming in a lot stronger now. I've got a felling she's closer than we thought."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Please Gilligan. Just a little slower."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper. How 'bout a nice warm cup of coconut milk to make you sleep."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh I've had thirty-four cups of that already. I never want to see another coconut, Or a lamb chop."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Lamb chop?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I also count nineteen thousand sheep today."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I've got to be alone with my thoughts."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh that poor man is a nervous wreck."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " He's all worn out from trying to get to sleep. What he needs is something to make him relax, calm him down."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Wish we had some tranquillizers."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah tranquillizers! No, that's no good. We don't have a prescription."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Wait a minute! Mr. Howell may have some! He's always taking pills for one thing or another."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yea I'll go ask him!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " .nami there's something bothering you."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes, as a matter of fact there is."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " What is it?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well after we're rescued, I must dash down to Argentina to get a new string of Polo ponies."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well if we do return before the matches, couldn't you use the ones we have?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well I suppose I could. It's just that I hate to ride a used Polo pony. The coat is so shiny."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Hello Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi Mrs. Howell, Mr. Howell. Mr. Howell, do you have any Tranquillizers?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well of course I do Gilligan! Every big business man uses tranquillizers. It makes them calm enough to take the rest of his pills ha.ha.ha.ha."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Could I borrow some please it's very important."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh yes, yes a they're in my pill case, they're in my shelter."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " You stay there darling, you relax and I'll go get them."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " There goes a lovely lady. "
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Gilligan my boy let me tell you something."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Look behind every successful man and you will find a woman."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Just make sure his wife doesn't find her. "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ha.ha.ha.ha, it's a marriage joke, I mean."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh there we are Lovey. "
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Here you are darling."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes dear. Must have been heavy. Ah."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah there we are."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh how did these get in here?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh now lets see, what did I want this for?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh yes, yes my arthritis."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Of course arthritis. Lovey my pet do."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " .you remember which one of my shoulders hurt?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I mean I was."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Ah no dear, you asked me."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " .to get these for Gilligan."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Gilligan? Well he seems much to young for arthritis."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh no dear. Gilligan came in for tranquillizers."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Tranquillizers of course tranq.here they are they would have bitten me. Here they are tranquilizers."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I only need a couple Mr. Howell"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " That's perfectly all right take the whole.plenty more plenty more."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Thank you sir."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lovey, that is the younger generation for you. Medication for anything and everything."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " What is this?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Kills pain fast fast fast."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Nobody rushes a Howell ha.ha.ha!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act two",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi Mary Ann have you seen the professor?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " No but everyone will be showing up for dinner pretty soon."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Is it dinnertime already?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well just about why?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well I borrowed these tranquilizers from Mr. Howell. I want to put a couple in the skipper's Mango juice. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That aught to calm him down and get him to sleep."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " What a great idea!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mary Ann, will you give this back to Mr. Howell?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I got to go get the skipper."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Sure."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "       (SINGING) .the tree of time.do do, do do, da da,da da."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Mmmmm.what smells so good?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Burned swordfish."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Burn the other side I think it might be better."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " What are these for?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh.ah.tranquilizers."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "       (HAPPILY) Might be just what he needs!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Ginger. "
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " come here a minute would ya.       (CONTINUED) Taste this thin gravy and see what you think."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Ooooo.I thin you need to burn the fish a little more!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Hi girls!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Say, you seen Gilligan?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well he was just looking for you. Anything wrong?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well no, I just wanted to see if he got the a."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Got the what?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh nothing nothing.       (CONTINUED) Hay that smell good!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Please skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan I don't have to eat to keep up my fat! Just not hungry! I am.I.I, leave me alone!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Please skipper, why don't you sit down and take it easy skipper."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Sit right here skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All right I'll sit down."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here skipper have some mango juice. It'll make you calm."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh yeah good idea."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thank you, I don't want any Mango juice!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " How.how 'bout some fish, fish'll make you thirsty.  Mary Ann, how's the fish coming along?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Ah.ah just about ready!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ready in just about a minute. Here have some Mango juice."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I don't want any Mango juice. PLEASE now just leave me alone I want think!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "      (DESPERATELY) Trying to remember."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hey tranquilizers! Couple of these ought to put me to sleep!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh no skipper I don't think you should!."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ooop!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Here's to an early rescue!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " .th.the vagabond lady.th.th."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "        (STRAINED) Get him to the beach!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper, skipper! Put up your arms like you did before. Here. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " It's amazing. It's amazing. I had no idea that four tranquilizers could produce this much of an affect!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Six!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Eight!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ten!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And he's out."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lovey I told you to hurry and get dressed, look! We missed the cocktail hour!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " .you're reliving your landing on Guadal Canal. You're aboard your old landing craft headed toward the beach as the battle rages."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " The sea tosses your boat around like a cork as you plow through the crashing waves toward the distant shoreline."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lovey, where are my seasick pills?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I didn't bring them dear. I had no idea we were going out this far."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I think I've got him hypnotized. (pause) Now everybody remember your parts."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " First chance I've had to act since we been ship wrecked and what am I playing? Gunners mate Entwhistle."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " This is a real test for you Ginger. You don't look a bit like him."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Thanks Gilligan."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All right men, we're heading for the beach!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Battle stations everybody! Sing out when I call your name! Wilcowski!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Here!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " MacEnerny!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Here!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Lefcoawitz!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": "        (HIGH VOICE) Oh.a.     (LOW HORSE VOICE) Here!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What's the matter with your voice!?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Laryngitis."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ferguson!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Here!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Entwhistle!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "   (HER NORMAL VOICE) Here!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's was real good Ginger. You sounded just like him."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We're heading in! Harris, keep your head down!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Harris is the one with the radio manual. If anything happens to him, somebody grab the book!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Looks pretty rough up ahead! We're going to have a hot reception when we hit the beach!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right come on folks, battle noises! Battle noises!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Testing, one two three four."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " One two three four."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Nothing. Still doesn't work."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Are you sure you wrote those instructions down correctly?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'm positive."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Are you sure you dreamed the instructions correctly?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well there's no use fooling around with this any more she's probably out of range by now."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Yes I'm afraid so."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan you got the sentry duty I'm going to turn in for a while."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " OK skipper."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " So am I. Good night."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Good night."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Testing one two three four. Testing one two."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hello hello can anybody hear me?"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " NICE TO TALK TO YOU YOUNG MAN!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Who's that!?"
+    },
+    {
+        "Character": "radio",
+        "Dialog": " THIS IS ALICE MCNEAL IN THE VAGABOND LADY!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " My gosh it's Alice! Please stay right were you are! I got to go tell the skipper! Na.now don't go away! Please!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What happened? Did you see her plane!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No no! Skipper! It's working it's working!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What's working?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " The radio I fixed it! I just talked to that lady flyer!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You WHAT!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Honest! I'm not dreaming or anything! And I figure, you better do the talking. Cause I don't want to cause any more trouble. I want everything to work out just right!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " But how could you have fixed the radio!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh it was easy! All I did was hit it like this!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Come to think of it. I guess I dreamed the whole thing."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Of course you did."
+    },
+    {
+        "Character": "radio",
+        "Dialog": " NICE TO HAVE TALKED TO YOU DOWN THERE. WHO EVERY YOU ARE! WE SEEM TO HAVE BEEN CUT OFF. MEANWHILE, HAPPY LANDINGS!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Shhhhhhh! The skippers finally asleep."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Quiet."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Shhhhhhhhh!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No no no no no."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No no no!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oooohhhhhh!"
+    }
+]

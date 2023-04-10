@@ -1,0 +1,1482 @@
+[
+    {
+        "Character": "skipper",
+        "Dialog": " All right folks it's time."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Evening skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Evening ladies."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Good evening skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "     (TO GILLIGAN) No cause for alarm Gilligan, it's the skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh, always remember to identify yourselves when Gilligan's on watch. He tends to be trigger-happy. He shoots first and asks questions later. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan is everything all right?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " GILLIGAN!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Halt or I'll shoot!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh hi skipper."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " We're terribly sorry to wake you when you're on sentry duty Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh that's all right."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " All right folks, flare time."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Why do we fire off a flare every night? We don't even know if there's a ship out there."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " But we don't know there isn't one either. Might be a freighter or an oil tanker."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " A freighter or an oil tanker? Ich!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well that's all right Lovey, we can wait for a yacht."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Everybody gather over here now. Keep your fingers crossed."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " How many flares do we have left?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " About a hundred and fifty."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Everybody ready? Standby!       (CONTINUED) Ready, Fire!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Now lets pray that somebody saw our signal."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well if they did I hope they don't come barging in the middle of the night to come rescue us, I'm simply exhausted."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Yes we haven't had a decent nights sleep since we got here."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Why I don't think any of us has."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Except Gilligan. Oh!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Halt.       (CONTINUED)"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well you folks may as well turn in. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'll have a talk with our sentry. That is if he can stay awake long enough. Good night!  MARY ANN AND GINGER Good night skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Good night ladies."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan how many bullets have you got left in that gun?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " One."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " See."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What did you want to talk to me about skipper?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, sentry duty is a sacred trust. You've got to keep a close watch on the weather! If it starts to rain you got to see that the supplies in the hut are kept dry! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well you can depend on me skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Most important thing of all, you've got to keep a constant look out for ships!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aye, aye sir."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Watch that ocean like a hawk!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Like a hawk sir! If there's a ship out there I'll see it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " If there's a ship out there it's in trouble!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Huh?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " The oceans THIS way!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh. I thought that seaweed looked awful tall."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan. Are you really wide-awake?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Wide-awake sir!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No more sleeping on your post?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No more sleeping sir!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Good man! Now I'll see you in the morning."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " In the morning sir!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Good Night."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Good night sir!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act one",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Halt who goes.friend.or.foe."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ata boy Gilligan. Nice to see that you're still awake at your post."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " When you told me how important sentry duty was, I didn't shut my eyes the whole night skipper. Not even once! Not even one little teeny weenie."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh give me that gun!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Can I go to bed now huh skipper? "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Certainly Gilligan. You've earned a rest."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Thank you sir."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Right after you've chopped some wood, cooked the breakfast and cleaned up the area, I want you to take a nap and that's an order."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Thank you sir."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now let's get inside and rustle up some breakfast."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "     (SARCASTICALLY) Thanks a lot Gilligan."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Awwww.Ooooooo"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Watch your head skipper!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey look."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We been robbed!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Robbed!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Somebody broke in here last night!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I think you're right skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan if you were wide-awake on your post how could somebody get in the hut!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I guess they must have picked the lock on the back door!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " There is no back door!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh then they came in through the window."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " There is no window!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " How 'bout down the chimney?       (CONTINUED) No chimney. (pause) There's no back door, there's no window and there's no chimney. Skipper? Looks like we're up against a pretty clever thief!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan! Why don't you admit it! You were asleep on guard duty!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Only during the robbery."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "       (VERY ANGRY) Ohhhh! Get out of here!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well MOVE!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thanks again Gilligan, now come on!  Got to tell the others about this."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Good morning."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Morning ladies! Professor."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Hi!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Can I help with breakfast?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " There may not be any breakfast. Thanks to sleeping beauty here, we been robbed!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Robbed!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes, somebody broke into the supply hut. Took our food supplies the flashlight and our flare gun!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " There's only one answer. There must be someone else living on the island."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You're right professor."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well it could be an animal."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You're right Ginger."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " No. Flashlight and a flare gun? Those things are only useful to a man."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh if it were a man, we'd have seen him before now."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You're right Mary Ann."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " It could be someone wanted by the police. An escaped convict or a murderer."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You're right again professor."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan will you cut that out! Everyone can't be right!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You're right too."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Hey do you really think it was an escaped convict?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Or a murderer!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " For our own safety, I suggest we start an immediate search."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's a good idea professor. Come on Gilligan!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " If we had to get marooned on an island, why didn't we pick Manhattan?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Can't I go along with you and the professor on the manhunt?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No Gilligan I want you to stay here with Mr. Howell and guard the women. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Most of all we've got to get that flare gun back!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well you be careful huh skipper? Cause if it is an escaped convict or a vicious killer, he might be dangerous."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Just between us Gilligan, I hope it's only a vicious killer or an escaped convict. I'm afraid it's something much worse."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Something much worse!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes I think its voodoo."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Voodoo!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "        (QUIETLY) Shhhhhhh! Lets not upset the women!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Lets not upset the men either!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " There's some weird and fantastic things have been going on in these waters Gilligan. For which there's only one explanation."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Voodoo!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Voodoo."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Think of it, ever since we got to this island, we've had nothing but bad luck. One disaster after another. What do you think caused it?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I thought we all agreed it was me!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No Gilligan, voodoo."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now some people think it's a silly superstition, but I've heard tell of witch doctors in these parts can turn people into Hyenas, and baboons and all kinds of wild jungle animals.       (CONTINUED) Gilligan, I think my shoe is full now."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh sorry sir."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thank you very much. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Evil spirits are spawned in these waters Gilligan. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And they cast their black spell, over all those who invade their domain!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Ready skipper.        (CONTINUED) I'm sorry, I didn't mean to scare you."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's all right I was scared already."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I.I think we better be going professor."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Right."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ah Gilligan, I'm leaving these things with you. A gun and a rabbit's foot. One doesn't work, use the other. Come on professor."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " But skipper!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " We don't have any bullets for this gun!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well you know that and I know that but the killer won't know it!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " .I'm all a glow."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Golly Ginger am I scared! I've never been so frightened in my whole life!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Neither have I."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Just think, there may be some strange man loose on this island!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " That's what I am thinking. Honey would you hand me my compact please?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " What compact?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " There. "
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Clamshell?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Yeah, cute huh? I made it myself."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I had to have something to put my make-up in."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " There's nothing in there but berries!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " That's right. The red berries are lipstick, the blue berries are shadow and the black berries are mascara."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh honestly Ginger! You don't seem the least bit worried!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " What's there to worry about?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well suppose the man they're looking for turns out to be a killer!?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Honey, if the man they're looking for turns out to be a man, he can do the worrying. "
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Hi Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Stop stop!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Well what are you doing!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I just set a trap for the prowler."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "      (SEDUCTIVELY) So did I."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "     (SEDUCTIVELY) How does yours work?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " When he comes down the trail to the supply hut, his foot hits the stick, goes into the loop and tchoooo!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " You've got your man!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " If it is a man. You never know what an evil spirit might look like."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Evil spirit?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " What are you talking about?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh nothin nothin at all."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Gilligan are you.       (CONTINUED) .trying to tell us something?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm trying NOT to tell you something."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " All right let me put it this way. What is it that you're trying NOT to tell us?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Please stop asking so many questions huh? You'll both feel a lot safer if you just think there's a dangerous killer loose on the island."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Now, stay away from this area huh girls? And what every you do, don't walk down this path and put your.       (CONTINUED) .foot into this noooo.       (CONTINUED) .oooos! Heeeelp! Skipper!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Gilligan!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oooooooo!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh Skipper help!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " All right, I won't put my foot in that noose."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh Skipper help! Owwwwww!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well, that does it Lovey! Surly bit of construction if I say so myself."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston what on earth is that on your forehead?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah.looks like water, a.wonder where it came from?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston I know what it is! I use to see it on our gardener! It's perspiration!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " It IS!? What can I put it in? I've got to send it to dad, he'd be fascinated!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mr. And Mrs. Howell!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Dear, I do wish people wouldn't drop by without letting us know they're coming."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " It's only Gilligan Lovey."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Yes I know, but everything is in such a mess. The place looks like a hut!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes it is a rather crude cab anion.       (CONTINUED) Come in, come in boy!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I just thought I'd check on you folks.hey what's that?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well, we thought with the prowler in the neighborhood, we better not take any chances. So Thurston put up these bars."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " He.he that's what we need, some neighborhood bars ha.ha.ha.ha.ha!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh Thurston you are a devil!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ehhhr.I come up with 'em under pressure."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey it's the skipper. I better go see what he found out."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh dash it all!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " What is it dear?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I forgot to show him my perspiration. I wonder if I can do it again."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper!? Skipper where are you!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Over here Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Where?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Right here Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I see you found my trap."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes I did."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Works pretty good huh?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Works fine. Works just fine."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh good it had me pretty worried. I didn't think it was going to work at all."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh you don't have to worry about the trap Gilligan. You don't have to worry about anything. UNTIL I GET DOWN OUT OF HERE NOW GET ME DOWN OUT OF HERE!!!!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Don't salute me! Get me down from here!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Killer. .voodoo.no bullets. Help!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " HELP! HELP! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh Skip.ma.ma.ma.ma.!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What is it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " .ma.ma.ma.ma.a monster!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " A ma.in the hut? Something in the."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A monster! A monster!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan get a hold of yourself! I can't understand what you're."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A monster! A monster in the supply hut!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " A monster in the hut, all right! Just a minute! Let's go and investigate! You ready professor!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Careful, careful careful!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You got'em. Well!? Well!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now Gilligan what ever it was that attacked you is gone."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No no!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " You must have been dreaming."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No no no no dreaming!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan get a hold."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Tell us!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " All of a sudden.all of a sudden a monster, eight feet tall came out of nowhere and he attacked me!       (CONTINUED) An he.and he had long arms, and claws and big yellow teeth! An.and I kept hitting him, and it bounced off him! An his.and his arms where like steel and they started to squeeze me and squeeze me! I don't know how I did it, but I.but I broke loose!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": "        (DREAMILY) Ginger, isn't he marvelous!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now hear this professor.       (CONTINUED) I had some doubts before but, now I'm positive I know what it its. If you'd been sailing these waters as long as I have, you'd be positive too! (pause) It's Voodoo!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Voodoo!? Oh come now skipper I'm a science teacher."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " You can't ask me to believe in a thing like voodoo!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I knew a sailor once who said that to a witch doctor.       (CONTINUED) .and they never say him again!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Awe skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'm not through yet! They never saw the sailor again but, the next day in his hammock they found a Parrot. The Parrot kept saying over and over again, five three three nine nine three. That was the sailor's serial number. Well I'm through now."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I think I'm through too!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act two",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Professor? It's getting kind of late. Why don't we call off the search and go back to camp?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Because the flare gun is our only chance to be rescued. Gilligan, only a coward would quit at a time like this."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh. Well would it be all right for the cowards to quit and go back to camp?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": ""
+    },
+    {
+        "Character": "all this talk about voodoo and witchcraft",
+        "Dialog": " is ridiculous. What ever you saw last night, there is a simple logical explanation for it."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Probably nothing more than a monster."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan there is no such thing as a monster, will you believe that."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll try sir."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I know what I'm talking about. The only place you'll ever find a monster is in your mind."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And in the supply hut."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " You know I think we can cover more ground if we split up. I'll go this way and you go that way."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Wo.wo.wait a minute professor. Wa.why don't we just stay together and kind of go this way?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan, you're suffering from anxieties activated in your subconscious by a traumatic experience last night, resulting in withdrawal syndromes. Do you know what means?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm chicken."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " You see what's off in that direction and I'll meet you back at camp."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh wait a min.n.n.n"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " What's the big blaze about skipper, it's hot enough."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Nothing like a good fire to keep the bugs away."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Bug?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Mosquitoes, moths, zombies, vampires."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I saw a picture called the land of the vampires once, and they didn't build a fire to chase away the monsters, they hung out pieces of Wolf Bain."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wolf Bain!? That's Hollywood for you. Any fool knows that Wolf Bain is only used against Werewolves. "
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " It was a very good picture!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Maybe so, but a glaring mistake like that makes the whole picture unbelievable."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " I guess you're right skipper. Gee you were in the land of the vampires weren't you Ginger?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " No, I was up for a part. But I was the wrong blood type."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Hi!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Hi."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hi professor! Did you find anything?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " No, I must have walked twenty miles, didn't see a thing."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Where's Gilligan?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I thought he'd be here. I was lost for the last couple of hours."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh golly! Do you suppose that's what's happened to Gilligan!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I don't know. Well maybe we better go look for him before it gets to late."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You're right professor that poor kid'll never find his way back here. Tell you what, we'll split up into three groups.       (CONTINUED) You and the girls go out this way. I'll get the Howell's and send them out that way.       (CONTINUED) Gilligan and I will go right."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " A monkey!? What's he doing in Gilligan's clothes!?       (CONTINUED) It's Voodoo! They've changed Gilligan into a monkey!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Speak to me little buddy! Speak to me!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " That's not Gilligan! That's a chimp!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It's happened. I should have never let him go into the jungle."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " That's not Gilligan skipper!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Of course not. Voodoo is just a lot of suppositious nonsense."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh it is huh!? Well I'll bet Gilligan has a different story to tell."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh don't try to talk now Gilligan. You been through too much."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh skipper!? "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " There you are. Been waiting all afternoon for that bamboo you promised me."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " What's that monkey doing here?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Now just a minute young fellow! What are you doing in Gilligan's clothes!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Mr. Howell its voodoo!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Good heavens! Well, some witch doctor will have his license revoked for this! Black magic I tell you!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Please Mr. Howell if you don't mind, I'd like to have a minute alone with my little buddy here."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes but."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Please!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan.      (CONTINUED) You want to get onto my lap that's all right. If you're more comfortable that way.      (CONTINUED) Gilligan, I know it's going to be hard for you to a.adjust to this new way of life. But if you're half the man that I think you are, I know you'll come through with flying colors. Awe I just can't bare to see you in those clothes."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, you know, besides the fact that these clothes you won't need'em, in this condition! We'll give up the sea.      (CONTINUED) Oh Gilligan, let me tell ya, I'm gonna make you happy the rest of the days of your life. We'll.we'll get an apartment. One that takes monkeys. And I tell you what, I'll be your crew, and you can be the skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan! Gilligan wait a minute! I didn't mean to hurt your feelings!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan come back! Wait! Gilligan! Come back! Wait a minute little buddy!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper!? "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skip.Oh what happened, huh?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's voodoo! You were right!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Rather not talk about it huh? And you found the flare gun huh!? Yeah look, I found all the rest of the stuff that was stolen huh!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You can check it if you like! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Did ya tell'em back at camp what happened yet? "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Huh? How 'bout that professor huh? Won't you have a laugh on him when he sees you've.       (CONTINUED) .been turned into a monkey huh!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh no skipper I wasn't laughing at you!       (CONTINUED) I.I wasn't laughing at you! No skipper I wasn't laughing at you! "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper! SKIPPER!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ahhhhh!.Skipper! The monster! Help the monster help! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Let go of me! Let go!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, you're all right!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " So are you!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I guess that spell doesn't last huh!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It looks like it doesn't! Lucky for us the witch doctor turned out to be a quack!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Gilligan, this is the happiest moment of my life!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I want you to know that every word I said I meant! Did you really understand me little buddy!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Uh, Not exactly, could you understand me!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well.not everything, but.well come on let's tell the others about it!!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Do.don't panic.no.no.Lovey it is not a."
+    },
+    {
+        "Character": "others",
+        "Dialog": " Come on!  Come on!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " .First thing that happened to us, we were in the jungle, then we were running back to."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hey it's a chimp!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Careful it's got the flare gun!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Why give me that!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Don't scare'em. If we loose that gun we can't use the flares!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll get it get behind me get behind me! I'll get it, I'll get it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " .cause.cause you're my little pal. Aren't ya huh little pal?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Don't point it.no!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Stop laughing! It's not funny I.I want the gun. Come on, throw me the gun!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What do you mean no!? Come on give me the gun."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey skipper, throw me a banana huh."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ready? I'll give it to you. If you give me the gun."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll give you the banana, see? If you give me the gun, I'll give you the banana! Here we are!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here's the banana! Now you give me the gun, give me the gun and.      (CONTINUED) .I got it!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Way to go little buddy!"
+    },
+    {
+        "Character": "rofessor",
+        "Dialog": " I hope it still works!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh sure it does see!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh! Don't pull the.!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " .trigger!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " The flares are in there!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh I'll save 'em!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wait Gilligan. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " .it's too late!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Ooooo,Oooooo Gilligan! Oh don't go in."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well, at least we know the flare gun works!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Gilligan!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh Lovey. Simply charming. I must say a luau!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gees it looks beautiful!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Are you hungry!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Sit right here darling. Right over here."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " My this is lovely."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh my, ah drink holders."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hey Gilligan where are you!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hey what's the big idea?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well, maybe we should keep it this way. You seem to like me better as a chimp."
+    },
+    {
+        "Character": "others",
+        "Dialog": " Oh Gilligan. Don't be silly."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Come on over here."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Tell him skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan I want you to know you're forgiven."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now I may spout off at you, but you're at the top of the list with me."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper, you don't know how much that means to me.  Coming from a man I'll always look up to."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You mean that little buddy!? You'll really always look up to me!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Way up!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan get me down! Gilligan!"
+    }
+]

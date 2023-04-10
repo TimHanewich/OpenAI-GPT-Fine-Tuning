@@ -1,0 +1,1458 @@
+[
+    {
+        "Character": "gilligan",
+        "Dialog": " Morning skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Morning Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Can I help sir?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Sure you can."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What do you want me to do? (PAUSE) I know, sit down and shut up."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's what you always say if I ask if I can help."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I do!? Sit down and shut up!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Uh huh."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well why should I say a thing like that?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I guess because you think I'll goof something up."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well of course you'll goof something up Gilligan. But that's still no way to talk to my little buddy."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No it isn't. As a matter of fact I'm getting tired of it skipper. And someday I'm libel to jump ship. If we ever get on a ship again."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan you're absolutely right, and I'm sorry. But you know how I am. I spout things off without even thinking. But I promise I'll keep a check on myself from now on. OK?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " OK."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Still ship mates!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Good. Well I'll get this breakfast ready for the folks."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper can I help?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Sure you can Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What do you want me to do?   SKIPPER AND GILLIGAN Sit down and shut up."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh good morning there!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Good morning Gilligan, good morning captain, what's on the menu for breakfast this morning?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Fruit and powdered eggs."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Wonderful, we'll have some powdered eggs benedict."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper it's starting to rain."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Rain? Don't be silly Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I just felt a rain drop on my nose. It's all wet!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh that just means that you're feeling good."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh Thurston that only applies to dogs!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh you're so right I'm sorry boy. My, his coat IS wet."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I felt a drop of rain too."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes you're so right Lovey."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Maybe we ought to find a cave or something."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Relax folks, this is just a summer sprinkle. Believe me, when a real storm sets in, you'll feel it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " This isn't a real storm huh?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " NOOOoooo!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " When do you think the real big storms are gonna start? "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan this is just a guess, but I'd say the real big storms will start about thirty seconds ago!"
+    },
+    {
+        "Character": "act one",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Folks, today we had a little touch of bad weather. At this time I'd like to say thanks to Mr. and Mrs. Howell, for lending us these clothes while ours are drying out."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Here here! Glad to be of any help skipper, any time Ha...ha...ha."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "    (TO MRS HOWELL) Oh I hope it doesn't start to rain while I'm wearing your beautiful coat."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Don't you worry dear. That's one of those new drip-dry foxes."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper, these clothes are still wet!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well don't bother me with those details Gilligan. Go over to the fire and dry them out."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aye, aye sir!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now folks I think one of the first things we must agree upon, is a permanent building in which we will live. Right!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I think that's a good idea."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey skipper!? What are we going to hang these clothes on to dry?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan don't bother me about that. Use your head for once!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now I've drawn up a little plan, of an idea that I have... ...I think will be exactly what we need."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well I think it's very nice captain, but I'd like to see some of the other models before we decide."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes, I like this one here, it seems to have a functional floor plan and green is my favorite color."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Mr. Howell, that is a map of Australia."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh, do you happen to know how much they're asking for it? I hate kangaroos..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now folks I've only drawn one plan so if any of you have any suggestions, I'd like to hear them."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I like it just fine skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "     (SARCASTICALLY) Thanks a lot Gilligan."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What are you doing with Ginger's dress on?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well ah...couldn't think of any other way to dry it skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's using your head for once!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What do you folks think of my plan?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Sounds ok to me!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I...I think it's fine. Could you build my place down by the beach?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I think we'd be more comfortable up in the hills. I love the beach but weekends, EVERYbody drops in!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes a hillside hut! Looking down on the others!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here you are skipper, nice and dry!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well don't give it to me, give it to Ginger!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Hope you didn't stretch it!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No, and Mary Ann yours will be dry in a minute. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now folks I want to get one thing straight. We are NOT building individual huts. The fact is we'll have one permanent building until we are rescued."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " You mean all seven of us are going to live in one HUT!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It'll be a lot quicker and a lot easier if we all pitch in and work together. Remember the old saying, united we stand."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " In a hut like that, that's the way we'll sleep too!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I go along with the skipper."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " If that rain this morning was any indication, we're in for and early storm season."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's right professor, and that storm might hit at any moment now, so we'd better get to work right away."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well I guess the skippers right dear, we can build our house anytime."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes but not...not like that one, you see I see sort of a...a southern colonial mansion with a... ...BIG WIDE veranda sort of bamboo column you know, and we can plant the whole thing with mint!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I always wanted a vacation!... MR HOWELL Yes miss Scarlet absolutely!..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thanks for backing me up professor."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well it was the only practical solution at the moment skipper."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " We'll do everything we can to help skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well I really don't know what you ladies can do?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh Anything! I used to be a girl scout, and they teach you a lot!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I use to go with a boy scout and they teach you a lot too!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here you are Mary Ann, real nice and dry!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Awe thanks Gilligan."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Bye girls. Thanks a lot Gilligan. Well are my clothes dry yet?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Little too dry skipper, see. "
+    },
+    {
+        "Character": "radio announcer",
+        "Dialog": " ...GATHERING CLOUDS ARE A CLEAR INDICATION THAT A TROPICAL STORM OF CONSIDERABLE FURRY MAY BE EXPECTED SHORTLY. COAST GUARD WARNINGS HAVE BEEN ISSUED TO SMALL CRAFT IN THE AREA. (CONTINUED) ...AND THE COAST GUARD OFFICIALLY ANNOUNCED TODAY THAT IT HAS GIVEN UP THE SEARCH... ...FOR THE SEVEN PERSONS ABOARD THE S.S. MINNOW. THE SMALL EXCURSION BOAT THAT LEFT HONOLULU HARBOR LAST WEEK ON A THREE HOUR SIGHT SEEING CRUISE. IN ADDITION TO FIRST MATE GILLIGAN AND HIS... ...SKIPPER JONAS GRUMBY, THE PASSENGER LIST INCLUDED MULTI-MILLIONAIRE THURSTON HOWELL THE THIRD AND HIS SOCIALLY PROMINENT WIFE LOVEY HOWELL..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi professor. You want a drink of water?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " No thanks Gilligan"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh. Hi Mr. Howell. Want a drink of water?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No thank you Gillian."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What's that stuff?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh a...it's for weather stripping the hut. It's a concoction the professor dreamed up."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yeah!? Hey professor? You know you're really great! I gotta take these into the skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan will you watch... ...what you're doing!! We've got to have this hut finished by tonight! There's a storm brewing out there someplace!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ohhhh!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thanks a lot Gilligan! This is the only dry shirt I had left!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm sorry skipper. Are we gonna move in here tonight!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's what the plan is, we'll have to work until we drop! Now get that water in the barrel!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aye, aye sir!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "       (VERY ANGRY) Ohhhh! Gilligan will you put that water in there while I get some more palm fronds!!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Watch it, you'll get water in my punch!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Uh oh!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That was a close one. Somebody could have stepped...right...into...the...barrel?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Thanks to you Gilligan, somebody already has!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Never MIND!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's OK, it's right over there by the door."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's a real good job Mr. Howell."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah...thank you thank you."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Aaaahhhhh!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What was that!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Professor? Did you hear something out here? "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " What?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh you're taking a nap huh? That's OK, cause the skipper will drive you till you drop! Go back to sleep."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oops! Uh oh!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sorry Mr. Howell. I really am Mr. Howell, I, guess I wasn't looking."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Probably the...stupidest thing I ever did in my whole...entire...life."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yaaah!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Do you want to bet on that Gilligan!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": "     (VERY ANGRY) Get away! Gilligan you...!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I still can't believe this place is really finished!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan it's been a long day, why don't you hit the sack."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, why don't you try JUMPING into the upper sack!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Good thinking skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan. Why don't you get in the lower sack. And I will get in the upper."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I hate to kick you out of your own bed."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well there's just not enough room for us both in the lower sack. Well don't stand there, help me up!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You can have the bedroom all to yourself! I'll sleep out HERE tonight!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " You can sleep out there tomorrow night too!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What was that Gilligan?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I wonder if I might trouble you for my pillow!?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " No trouble at all, HERE'S your pillow! And here's your blanket, and here's your teddy bear!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Teddy bear!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Air! Get up please!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What is going on in here!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well never mind it's a private matter!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " It is not! And I want to know what the captain has to say about it and what Gilligan has to say about it and what the..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " When you get around to me I'd like to say pipe down and get to sleep!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well no body asked for your opinion!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Will you folks keep it quiet! People are trying to sleep in here!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well you're no help shouting at the top of your lungs!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'm not shouting at the top of my lungs, I'm trying to get some quiet!!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well if you want to keep quiet start with my wife! She began the whole thing!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " I began it!!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes you did!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Lis...listen folks why don't we..."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Shut up will you Gilligan!!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You can't tell Gilligan to shut up! I'll tell him when to shut up!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Thanks skipper. Now folks..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Shut up Gilligan!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Are you two going to have these family arguments every night!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " And what is that to you!!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well I happen to live here!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " So do we I'm sorry to say!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " This was a stupid idea from the very start! Tomorrow Lovey and I are gonna build our own little hut."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mr. Howell remember what the skipper said! There's a big storm on way!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " And what does he know about it! Has anyone seen the sky!?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh it's as clear as a bell!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " I think we've gone to a lot of work for nothing!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " So do I!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now wait a minute folks! Don't be fooled by a little good weather. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We're gonna have a real blow alright!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " What do you know about it!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It so happens I'm an experienced sailor!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " If you were an experienced sailor, we wouldn't be ship wrecked on this dreary island."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh darling, lets spend the rest of the night outside. I'm getting a touch of hut fever. "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You're so right, I'm going to take you out in the jungle where it's nice and quiet."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh darling!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I think I'll start to work on my own place too!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh that's a good idea!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Marvelous! Good idea!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " It's getting awful crowded in here."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wait a minute! Wait a minute!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now be practical! In the first place what are you folks think you're going to use to make huts!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Wa...well first of all we'll start with OUR door!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Yes our door."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " My door."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " And these walls belong to us! We'll take our walls! Come on!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " That's a good idea!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'll be by in the morning for my roof too!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I think they're making a big mistake!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " They sure are. Part of the roof belongs to Mr. Howell!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oooooo! Gilligan I mean their attitude! They're all acting for themselves! We've got to function as a group!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " you're right skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I wonder what's going to happen when those monsoons come?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't know. Maybe they'll build their own huts so they don't have to come bunk with us!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh! Oh! I...ah thought everyone was asleep."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " We're turning in right now Mr. Howell."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well I...I thought I...I'd forgotten something, but I..I guess I was mistaken."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No you weren't Mr. Howell. Here it is."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Nigh, nigh."
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act two",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm right here in the kitchen! Or is it the den? I mean...I don't know exactly where I am skipper but I know I'm right here someplace."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, you are standing in my bedroom."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm sorry skipper. You want to come in and go to sleep?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No I don't want to come in and go to sleep!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's alright if you want to because I can go work in the living room. Like I did before I..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan I want you to come out and plain the ends of this cross beam."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, what are you doing!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Trying to find the front door!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Will you get out here and start working on this beam!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper, how come this place is taking so long? Everybody else is almost done with their huts."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, my father had two sayings that I shall always remember. Hurried work is worried work and a job not well done is not a well-done job."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper that's beautiful."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Pop use to say a lot of beautiful things."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Was he a poet?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Not exactly Gilligan. Well pop, was kind of a world trav...ep...oh never mind  Gilligan! Now start working on this beam, I'll get some more bamboo!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah...ha! Hello there Gilligan! Ha...ha!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi Mr. Howell! How are things going?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well, I'm happy to announce the completion of Howell Manner, and I just stopped by to ask you and the skipper for a little plantation warming tonight."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Is it ok if I wear what I have on?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh yes...yes delightfully informal. I think you'll know everybody there."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I guess I will at that huh? Yeah..."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh...oh by the way, might I borrow this machete, you see I want to cut some palm leaves? Mrs. Howell's making some drapes for the dining room and I have to go..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sure Mr. Howell. Um...what time should we be there?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Shall we say ah...five-ish? I...I think you know where the place is."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir. Right behind that rock over there."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah that's the place. Ta ta ta my boy he...he see you then!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well why aren't you working on the beam!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Because I gave the machete to Mr. Howell."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan did it ever occur to you to use the saw!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir that's the first thing I thought of."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well why didn't you use the saw!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Because I loaned that to the professor."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " How are we ever going to get this place done if you keep loaning our tools out!? Now I don't want you to do that anymore do you understand, that's an order!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, anybody that comes up and says anything to you, wants anything, the answer is no no no no no NO!! Now have you got THAT!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " NO! I mean yes!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Hello..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " NO no N  O  NO!!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "      (INNOCENTLY) Gilligan. What kind of a greeting is that?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's the kind of greeting everybody gets who tries to borrow anything, NO NO NO!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well, I didn't come here to borrow anything."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You didn't?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "      (SEDUCTIVELY) No."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "      (SINCERELY) No."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "      (INNOCENTLY) All I want is just a...a, teeny, weenie, weensy, weenie piece of rope."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " How long a, little, teeny weenie eency weensy bit of rope do you want?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Nine feet. That isn't much is it?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well...no nine feet's hardly anything at all."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " This is awfully sweet of you Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh heck, it's only rope. Let's see now."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Six feet and, three feet more, makes nine feet, yeah! Ok..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here's your nine feet of rope Ginger. Yeah."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "      (INNOCENTLY) Thank you Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " And if ya...um, if you need a low ceiling, I've got two three foot beams if you want'em."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " The rope is all I wanted, thanks."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I made a mistake with this six-foot beam."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh...yeah...well that's ok skipper, everybody makes mistakes, especially with six foot beams. I think six-foot beams are the easiest things to..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan will you cut that out! Now I want to use this for a wall brace. Cut it in half!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here you are skipper! Two three foot crossbeams!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well you sure cut that in a hurry!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Hand me that coil of rope."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan. (pause) You didn't remember to say what I told you did you?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir. I said no exactly like you told me. Just before I gave away the rope."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Gilligan! You see those clouds up there!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah they're pretty!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " They're NOT PRETTY! They could storm at any minute! Now you go out, on the double and get everything that you loaned out! Hurry up, on the double!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yes sir. (pause) Skipper? You don't have to worry. If it starts to rain, we can work inside! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gillian! Now you get out of here on the double!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Come in. Oh hello Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi professor. This is sure a nice place you got here. What are you doing?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'm making notes for a book."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You mean you're writing a book?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " That's one of the reasons I wanted to be off by myself. It's going to be a chronicle of our adventures on the island."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No kidding!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I think it's a book people will buy don't you?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Sure I'll buy one. I'm dieing to find out what happens to us."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Fine."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Could I have back the chisel and saw you borrowed?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh yeah! I loaned the chisel to the girls, but the saws right here somewhere."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " What did you do to that wall!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm sorry professor, all I did was pull out this palm leaf and the whole thing fell down."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh come on!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Honest professor that's what happened."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Don't try to tell me that pulling out one palm leaf will make a whole wall fall down!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I built this place you remember!?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " You really like it Gilligan?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah girls your place is beautiful. The professor had a beautiful place but..."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh Gilligan we're going to have a beautiful garden here, and then we're going to... Mary Ann, your fudge is burning!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh...Oh my goodness! Oh...oh!! Oh the door won't open!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here I'll get it, hold this. Here allow me."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh thanks Gilligan!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh Gilligan."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh...oh and after all that work!  MARY ANN AND GINGER Ohhhhh!  Ohhhhh!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well, at least I fixed the door."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi Mr. Howell."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well gentleman, we're a little early aren't we? Not that it matters, welcome to Howell manner!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mr. Howell built a real nice hut didn't he skipper? "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " So did the others Gilligan but it took just one little disaster to leave them homeless."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah...what disaster are you talking about?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " That's why we stopped by Mr. Howell. We wanted to talk to you about the community hut."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You don't have to say another word. Of course I'll contribute! I give to community hut every YEAR!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No Mr. Howell, the community hut the seven of us built."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And the five of you tore down! Now if we can just work together like we did before, we can rebuild it before the rough weather sets in."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " HA...ha...ha...you and your rough weather. I LIKE rough weather! I welcome rough weather! May I say captain that this place is built to withstand anything!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You may think it is."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah Mr. Howell, you may think it is."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Quiet Gilligan! Come over here and sit down and be quiet, I'll handle this!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I assure you captain, this place is a veritable fortress!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Arrrrrgh! It's a veritable rock of Gibraltar!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Listen to that storm! How long do you think this huts gonna last!!?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " These walls should have blown away hours ago!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Why do you say that Ginger!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Because I helped put them up."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Don't know what's keeping my roof up either!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lovey if...if anything should happen, I want to thank you for fifteen of the happiest years a...a man ever had."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Thurston we've been married twenty!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I know but the last five years have been a little shaky. I...I...I was only joking you see, laughing in the face of danger. We Howells always have."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " My darling always so brave."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes thank you. Grandfather Howell was the same way! Whe...when the stock market crashed in nineteen twenty-nine, di...did he show signs of panic like the others? Did he show signs of fear? Not dear ole granddad, he just laughed and joke all the way down to the pavement. A joke in the face of danger!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Folks let me reassure you. This hut is solid as a rock! It'll withstand anything that Mother Nature has to throw at us!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Well the skipper's right! This hut can stand anything! I mean look at this construction here!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Don't touch anything Gilligan! Do you want the whole hut to fall down!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm sorry skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now Gilligan after this disaster, you are in charge of the passengers."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " ME!? What about you!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " My duty as captain, to go down with the hut!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper, hey listen."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Listen? I don't her anything."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's what I mean! The storms over!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Gilligan's RIGHT! Oh we're saved!!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh my walls made it!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Look at my roof! It's as dry as a bone!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lovey! Lovey, we're saved!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " You know Thurston the last five years hasn't been any picnic for me either!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Folks (pause) I told you we could weather the storm... ...now I'll go out and see if there's any kind of real damage! Ha..ha..ha..ha!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You see, the skipper was right! If all us work together we can do anything huh!?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " you're right! Oh!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey skipper, what are you doing in the lagoon!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Never mind what am I doing in the lagoon! What's the hut doing out here!? Throw me a line Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Aye, aye sir!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Here skipper!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " This is mutiny!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh...ep! GILLIGAN! Thanks a lot Gilligan! Little buddy ha..ha! Clear skies ahead!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Uh huh. And all the passengers are building their own huts again."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " And so are we. Now I won't have to remind you about lending our tools out will I?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No! No! N  O  No no no no!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " OK Gilligan! Good boy!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "Hello Gilligan."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Could you carry the box please?"
+    }
+]

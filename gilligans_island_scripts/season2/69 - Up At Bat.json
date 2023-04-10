@@ -1,0 +1,1306 @@
+[
+    {
+        "Character": "skipper",
+        "Dialog": " Ahhhh, Gilligan, lets take a breather. Ohhhh, these coconuts get heavier with every step we take."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah they must weigh a ton. All morning long we collect coconuts down at the beach and, all afternoon we lug'em back to camp. Mile after mile and, foot after foot, nothing but lug'en coconuts! And my back is killing me!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well Gilligan why don't you put them down!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I never thought of that. Good idea."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Nice going Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll get them skipper, I'll get them."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan don't go in there! "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ip...ip...ip...It's an unexplored cave!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'll get it skipper!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Help! Skipper! Skipper it's after me! Skip...Owww! Oooo! Owww!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What is it little buddy what is it!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper! Hey skipper! It bit me!       (CONTINUED) It bit me on the neck!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What bit you!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Huh? It was dark in there, and I don't..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " There his is! Look out, look out skipper!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan, I saw one of those once in Mexico! Ip...ip...eh, a Vampire bat!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah, and it bit me on the neck! A Vampire bat!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " It bit you on the neck!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " A Vampire bat, bit...!? I'm gonna turn nto a Vampire!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": " "
+    },
+    {
+        "Character": "act i",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey professor! Professor!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " What is it!? What is it!? What's happened!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It flew right through the air and it bit me on the neck! I'm gonna be a Vampire! An...and turn into a bat! I'm gonna fly through the night, and drink blood and talk funny, gooodeeevning, and other weird things like that!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh can you help him professor!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah please help me professor! I...I wouldn't be a good Vampire! I faint at the sight of blood! I'll starve to death!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right Gilligan you just try to calm yourself. "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper you better tell me exactly what happened. Something a, bit Gilligan on the neck?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Exactly! You see, i...it was in a cave, and a big Vampire bat came out a bit him right on the neck there! And, now when there's a full moon he's gonna turn into a Vampire!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Nonsense."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " It's not nonsense. I saw... ...a movie once, and this bat bit this guy and he turned into a vampire. And he slept in a coffin. And when the full moon came up, he use to rise out of the coffin and he spread his cape and..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " What's the matter Gilligan!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I scared myself."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right all right now just stop right there."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'm surprised at both of you. Grown men, completely un-nerved by a silly superstitious fable."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You mean he won't turn into a Vampire!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan, it was only a movie!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah but I saw it three times and it always came out the same way!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " All right all right if it'll make you feel any better why don't you two seal up the mouth of that cave. That'll at least will keep the Vampires, I...I mean the BATS from becoming a nuisance."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh that's a good idea professor thanks! Come on lets go seal up that..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan wait a minute. You better get the girls to put a dressing on that wound right now."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah I better do it right now. Cause after I become a Vampire, they'll never look at me."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And stop saying that! Now I don't want you or the skipper ever mentioning this Vampire business again! There's no sense in upsetting the others over something so, preposterous! Agreed!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh all right professor, agreed. Come on Gilligan."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Ginger, what's the matter with your mirror?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh, the silver came all off the back. Nothing but glass now. See?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Yeah."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " All I get is a blank expression."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " You don't need a mirror, you're still beautiful."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh I know. But I like to get a another opinion."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Look, get in there and let the girls patch you up. I'll go get some shovels so we can close up the cave."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah, we don't want those bats to get out of the cave..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan shhhhhh! Remember now what the professor said, not a word of this to the girls!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " You can trust me. I'll never say Vampire again."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Good."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I mean that's one word I'll never use is Vampire. I mean I'll never say Vam..."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ok ok."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now go on in there."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Come in."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Come in."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hi Mary Ann, a hi Ginger. A, look what I've got. Just a simple ole every day bite on the neck nothing to worry about. Nothin to be scared of it's nothing it's really nothing at all."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " You're right, it's nothing."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " That's what you think."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Let me see."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " No don't get too close."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh Gilligan, bites aren't catchy!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " This one is."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh nonsense."
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " No, it's not bad. What bit you?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh, wh...wh...oh yeah something bit me, Oh I a forgot I bit myself."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Your self!? How could you bite yourself on the neck Gilligan?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I stood on a chair. A ladder? A tree?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Never mind how it happened, it still needs treatment. Come on Ginger help me with the bandages."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Now you sit down right here."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ok."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Now don't be nervous. Nobody ever died from a bite on the neck."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey , you're right!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah, nobody ever died from, a bite on the neck, and..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I can't see myself! I don't have any reflection! I've become one of them. They don't have any reflections either. I've become one of them. I've become one of them!!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm a Vampire skipper! When a Vampire looks in a mirror he can't see himself, and I couldn't see myself, so I'm a vampire! I'm a Vampire!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan you've got to get hold of yourself. You keep talking like this, you're going to make yourself sick!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Wait till I start biting NECKS! That'll really make me sick! Ichh!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Will you stop worrying about that mirror stuff!? Now the professor said that you weren't a Vampire, so you can believe the professor!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I can believe the professor."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Right! So, why don't you stop worrying and get some sleep."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Right, stop worrying and get some sleep."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Haaa...now you're being sensible, good night little buddy."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah. Now I'm being sensible. Good night skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Good night."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I mean, just because a bat bit me, um I can't see myself in a mirror, doesn't mean I'm a vampire."
+    },
+    {
+        "Character": "gillligan",
+        "Dialog": " Afraid to close my eyes... ...cause because I might turn into a bat and fly around and drink blood and bit my friend's necks... ...and things like that. Now I'm being sensible."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm not going to bit my friend's necks."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper how come you're putting a scarf around your neck?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ep...ep because it's cold in here Gilligan."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper it must be ninety to a hundred and ten in here!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " My NECK is cold."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " How could your neck be cold!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " My neck is cold for a very good reason Gilligan ep...ep...I'm...I'm getting a draft from my ears."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh yeah sure. Drafty ears. You think I'm a Vampire!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No I don't!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now ep...good night!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I'm going to turn into a bat and, bite... ...everybody. I'm going to bit all my friends!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't want to be a Vampire!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan. I just thought of a wonderful idea. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Now..."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " String! I'll get my kite!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No, not for your kite. "
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I'm going to tie this one end of the string, to your foot, and I'm going to tie the other end to me. And then, when you, get up in the night, and try and get out, I can get you, before you leave the hut."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah! That ought to work skipper! Even if I turn into a bat, because bats have feet!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Exactly, now stop worrying, and get some sleep."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Yeah skipper, stop worrying, and get some sleep. Good night. SKIPPER Good night."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Stop worrying and get some sleep, yeah."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Vampires. Bats. "
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Drinking blood. Bats."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Two million, four million, six million, I love to dream in round figures."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oohhhhhh! Robbers! Thieves! Cat buglers!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lovey! Hold them off, I'll go hide in the vault!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " What is that!?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " He tried to bite my throat!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " He tried to do what!?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " To bite my throat!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Gilligan you might have damaged that diamond necklace with your molars! (to Mrs. Howell) Are your stones hurt!?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh he came at me with that frightful... ...look that you get, when you're about to foreclose on a mortgage."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ee gad, what a frightening experience!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " He bit my neck!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I'll teach you to try and dine out of my wife you bounder you cad!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Oh wait a minute dear. Maybe he was walking in his sleep. His eyes look a bit glazed."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well he always has that glazed look. Gilligan, Gilligan! Are you asleep!? Are you asl...!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Mr. Howell, what are you doing in my hut?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Your hut!? It's OUR hut!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " You see he WAS walking in his sleep."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Well his conduct is inexcusable!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " What'd I do?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " What'd you do!? "
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You tried to make a midnight snack out of my wife's neck... ...that's what you tried to do!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Oh no! I'm a Vampire! I did it because I'm a Vampire!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Awe dear, the boys over wrought. Fix him a Bloody Mary."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No not a Bloody Mary!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I didn't mean to do it... ...Mr. Howell I just can't help myself. I'm a vampire!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Now don't you give up hope dear. Those new wonder drugs cure anything."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Lovey are you all right my dear?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Yes I, was scared though you know."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " ...and then my little buddy tried to bite Mrs. Howell on the neck! I mean you see its really happening professor! He's turning into a vampire!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Skipper that's ridiculous! I told you that Vampires are nothing but fairy tales."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " But then why'd he try to bite Mrs. Howell  on the neck!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well the explanation is obvious. Gilligan was so worried about becoming a Vampire that he became obsessed with the idea. When he fell asleep, his subconscious took over and he attacked Mrs. Howell."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " But what are we going to do about it!? I mean there's telling who's going to be "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Fortunately, I know a simple cure for this problem. I'll prepare an anti Vampire potion."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " An Anti Vampire potion!? Well professor what school did you go to!? Batman U!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh skipper, not a real anti Vampire potion! I'll merely brew up some of these native plants and produce a mild tranquillizer."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh I get it! But then Gilligan will think it's a real anti Vampire concoction."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Exactly,... "
+    },
+    {
+        "Character": "professor",
+        "Dialog": " ...and his psychological fears about becoming a Vampire will be removed once and for all."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh that's great professor, we'll start brewing the plants right away! I'll get Gilligan!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Go on Gilligan, drink it. Down the hatch!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Professor, are you sure this anti Vampire potion's gonna work?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Believe me Gilligan, if you're a Vampire, this potion will cure you. Now drink up."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Don't I get a cookie with it?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan will you drink it!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Ok."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Hey! I feel like a new man! Imagine that! One drink of the anti Vampire potion, and I feel better all ready!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Professor what's the matter with Gilligan!?"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Oh it's all right skipper. He was so hyper tense with worry that the tranquillizer had an immediate effect. Let's get him to bed."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well but you know I..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Come on skipper he won't bite you."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well all right."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I think he'll be just fine in the morning skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well thanks a lot professor."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " I'm going to turn in, good night."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Good night. Now I'll finally get some sleep."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Wake up little buddy! Gilligan? Ha...ha...ha...ha"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ahhhhh...how are you feeling this morning? Well, I'll bet you're like your old self now!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "act ii",
+        "Dialog": ""
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " My poor little buddy!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " ...a bat that goes eek eek and flaps its wings!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "    (SARCASTICALLY) That's a shame!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh a shame Ginger, why it's a disaster!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": "     (SARCASTICALLY) Do you think he can turn into a carrier pigeon too?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": "     (SARCASTICALLY) Why sure! We could tie a note on his leg, he could fly to Hawaii and be back in time for dinner!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You girls aren't taking me seriously at all. I'm telling you he's really a Vampire!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Mary Ann I think he means it."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Well certainly I mean it! The Howell's are over watching him right now! I'm out trying to find the professor cause he'll now what to do! You haven't seen him at all!?"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " No."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " I've got to find him."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Professor!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Imagine, a simple sailor like Gilligan turning into a bat!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Could happen. I once knew a movie producer that turned into a wolf."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Gilligan just flew in the window!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh...oh...oh Ginger don't you'll hurt him!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh I hope so!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Remember... ...it's still Gilligan!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh you're right he's still our friend. Oooo I'm sorry Gilligan! I wouldn't hurt you for anything in the whole world!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Don't panic girls I'll get him!!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh hi professor, you saved our lives!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Oh Gilligan's after our necks!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Gilligan!? What are you talking about!?"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " Oh he turned into a Vampire bat!"
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " He tried to attack us!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " He tried to bite our necks!!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Hold it hold it hold it, now listen to me! Now this is not Gilligan! And it is not a Vampire bat!"
+    },
+    {
+        "Character": "mary ann",
+        "Dialog": " It isn't!? Oh well the skipper said that..."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Well it's a perfectly understandable mistake. Now this is a common red fruit bat. It's perfectly harmless. However,... ...it can be mistaken for the Vampire bat."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " Only an expert can tell them apart. And fortunately, I happen to know a little something about bat anatomy."
+    },
+    {
+        "Character": "ginger",
+        "Dialog": " Well if this isn't Gilligan."
+    },
+    {
+        "Character": "all three",
+        "Dialog": " Where IS Gilligan!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " ...and when I turn into a bat, I won't be able to fly out and bite my friends. All my buddies will be safe. And I'll be in here, all alone. Forever. Boy, am I unselfish. Boy, am I noble. Boy, am I scared!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan! Gilligan little buddy I've got great news for you! You're all right! You weren't bitten by a Vampire bat you were bitten by a fruit bat! Gilligan!?"
+    },
+    {
+        "Character": "note",
+        "Dialog": " (IN GILLIGAN'S VOICE) Dear good pals. I am running away to save your lives. Don't try to find me, cause if you do I'll just stick my fangs in your neck. And that could wreck our friendship. Good-bye forever, your friend Gilligan. The Vampire."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Oh Gilligan. Why'd you do a dumb thing like that?"
+    },
+    {
+        "Character": "note",
+        "Dialog": " (IN GILLIGAN'S VOICE) P S. This was the only dumb thing I could think of doing."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Professor! Professor!"
+    },
+    {
+        "Character": "professor",
+        "Dialog": " This is serious. Gilligan isn't rational in his present state."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yes of course professor but he wouldn't stand a chance in the jungle all night."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yeah we got to find him before it gets dark."
+    },
+    {
+        "Character": "professor",
+        "Dialog": " And I suggest we organize search parties immediately. All right lets go."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Yes, Lovey I think you and I better go by way of our hut."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": "   (TALKING IN SLEEP) A Vampire. Turning into a bat. Biting. A Vampire, a vampire..."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Hurry Lovey! Lets get out of the fog, and find lodgings for the night aye!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " So gloomy here. Couldn't we find a more cheerful castle?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Nonsense! Have you no sense of adventure!?"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Open UP! Open up in there I say!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " There's something strange about this place. My pearl necklace just curdled."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Nonsense, they will welcome us with open arms. Open UP! Open UP! Oh..."
+    },
+    {
+        "Character": "ugly old lady",
+        "Dialog": " Go away! Please! Be gone and never come back! Cut out!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " She doesn't seem exactly overjoyed to see us."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " I know it's the language barrier I'll, speak the international language, of Money!"
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Here you are my dear, Mullah! Pesos! Lira! Deutschmark, here here! My wallet is a mix bill, take your pick!"
+    },
+    {
+        "Character": "ugly old lady",
+        "Dialog": " No gratuities are necessary."
+    },
+    {
+        "Character": "ugly old lady",
+        "Dialog": " Follow me."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Wild motel I must say. My the lady looks suspicious too."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " You're a linguist dear, ask her if she can accommodate us. The imperial suites of course."
+    },
+    {
+        "Character": "ugly old lady",
+        "Dialog": " I shall a, tell my mistress she has guests for this evening. "
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Ish!"
+    },
+    {
+        "Character": "vampiress",
+        "Dialog": " The bell tolls. Some unwary travelers have stumbled into our midst. I must wake my husband."
+    },
+    {
+        "Character": "vampiress",
+        "Dialog": " The moon is full, and guests await,... Wake up master! Get out of your crate!"
+    },
+    {
+        "Character": "vampire",
+        "Dialog": " Goooodeevening! I am the Vampire. Prince of evil, duke of darkness, king of terror. And other rotten things."
+    },
+    {
+        "Character": "vampiress",
+        "Dialog": " Master, guests have arrived. They're down stairs,... ...little realizing the danger that awaits them! "
+    },
+    {
+        "Character": "vampire",
+        "Dialog": " Yeth, yeth! I can hardly wait to put the bite on them."
+    },
+    {
+        "Character": "vampire",
+        "Dialog": " I shall swoop down upon their unsuspecting necks!"
+    },
+    {
+        "Character": "vampiress",
+        "Dialog": " What happened!?"
+    },
+    {
+        "Character": "vampire",
+        "Dialog": " I forgot to turn in to a bat!"
+    },
+    {
+        "Character": "vampiress",
+        "Dialog": " What kind of a Vampire are you any way!? Wait here, I'll go  get the victims."
+    },
+    {
+        "Character": "vampire",
+        "Dialog": " Yeah, but they see my coffin and they'll become suspithiss!"
+    },
+    {
+        "Character": "vampiress",
+        "Dialog": " I'll fix that."
+    },
+    {
+        "Character": "vampiress",
+        "Dialog": " Here! Twin bats! Ha...ha...ha...ha...ha"
+    },
+    {
+        "Character": "vampiress",
+        "Dialog": " Now I'll get you the victims. Meanwhile you'd better hide."
+    },
+    {
+        "Character": "vampire",
+        "Dialog": " Yes, that way they won't know I'm here till it's too late! I'll run and hide in the alcove."
+    },
+    {
+        "Character": "vampiress",
+        "Dialog": " We don't have an alcove, you schnook!"
+    },
+    {
+        "Character": "vampiress",
+        "Dialog": " This will be your room. I hope you like it."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Like it!? Madame your decorator should be flogged, and his ballet pumps burned."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " A bedroom without a stock ticker, barbaric!"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Look darling, we really should be more gracious to our hostess. A, what my husband means is,... ...that we want to thank you from the bottom... ...of our hearts, for allowing us to spend the night in this perfectly BEASTLY room."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Ah! Well-said Lovey my dear. Oh,..."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well it won't matter darling, you'll sleep like a dead man."
+    },
+    {
+        "Character": "vampiress",
+        "Dialog": " You're so right! Ha...ha...HA...ha...ha...ha!"
+    },
+    {
+        "Character": "vampiress",
+        "Dialog": " Uh! Some ones at the door. I...I must prepare another room."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " You were expecting other guests?"
+    },
+    {
+        "Character": "vampiress",
+        "Dialog": " No, but we'll make room. My husband loves to have extra people for dinner. Ha...ha...HA...ha...ha...ha!"
+    },
+    {
+        "Character": "whatney",
+        "Dialog": " I say I've knocked and knocked and nobody's answering inspector Sherlock. What do you make of that?"
+    },
+    {
+        "Character": "sherlock",
+        "Dialog": "       (PROFESSOR) Ohhh elementary my dear Whatney. No ones at home! We've come to the wrong castle! Here, see for yourself!"
+    },
+    {
+        "Character": "whatney",
+        "Dialog": " Silly of us I must say."
+    },
+    {
+        "Character": "whatney",
+        "Dialog": " Hey inspector, I think there's something wrong... ...with this glass. There's nothing... ...but an ugly old lady inside it."
+    },
+    {
+        "Character": "sherlock",
+        "Dialog": " Oh give that to me!"
+    },
+    {
+        "Character": "sherlock",
+        "Dialog": " I'm afraid... ...my associate has no manners. I must apologies for his remark, ugly old lady."
+    },
+    {
+        "Character": "ugly old lady",
+        "Dialog": " Thank you."
+    },
+    {
+        "Character": "sherlock",
+        "Dialog": " I am inspector Sherlock and this is my associate, Colonel Whatney."
+    },
+    {
+        "Character": "whatney",
+        "Dialog": " How do you do."
+    },
+    {
+        "Character": "sherlock",
+        "Dialog": " Have you been expecting us?"
+    },
+    {
+        "Character": "ugly old lady",
+        "Dialog": " Expecting you!? "
+    },
+    {
+        "Character": "ugly old lady",
+        "Dialog": " Five years ago I wrote you to come investigate the strange happenings in this house. FIVE years! What took you so long?"
+    },
+    {
+        "Character": "whatney",
+        "Dialog": " Wha...wha...well, the fact is we had a hard time finding a handsome cab."
+    },
+    {
+        "Character": "sherlock",
+        "Dialog": " Yes precisely! We had to walk!"
+    },
+    {
+        "Character": "ugly old lady",
+        "Dialog": " You walked! All the way from England!?"
+    },
+    {
+        "Character": "whatney",
+        "Dialog": " Yes of course, crossing the channel was devilishly slow. You see it was take one step and come up for air and another step, and come up for air and..."
+    },
+    {
+        "Character": "ugly old lady",
+        "Dialog": " Never mind! Come inside... ...the house quickly! "
+    },
+    {
+        "Character": "ugly old lady",
+        "Dialog": " Maybe you can help prevent a terrible CRIME!"
+    },
+    {
+        "Character": "whatney",
+        "Dialog": " Ep...ep After you inspector."
+    },
+    {
+        "Character": "sherlock",
+        "Dialog": " No, after you sir."
+    },
+    {
+        "Character": "whatney",
+        "Dialog": " Oh no no please...ep..."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " Oh I'm simply pooped my dear, wearing a full-length money belt all day is so exhausting. You know what I mean?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well don't go to bed yet dear. I have a premonition we're in deadly danger. The hairs on my Chinchilla are standing up."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " That's poppycock, you just over wrought from the journey isn't that right teddy dear?"
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " Well I can't help it darling. After all there's a rumor that there are Vampires in the neighborhood. And I despise Vampires. They're so toothy."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No I think your imagination is running amok. Any five-year-old child can tell you, there is no such thing as a Vampire. There's no such thing."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " There's a Vampire."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " That's the last time I listen to a five- year-old child."
+    },
+    {
+        "Character": "vampire",
+        "Dialog": " Gooodeevning! You're my type of folks. You're type A, you're type O."
+    },
+    {
+        "Character": "mrs howell",
+        "Dialog": " NO! NO! NO!..."
+    },
+    {
+        "Character": "mr howell",
+        "Dialog": " No! No! Here, take teddy!"
+    },
+    {
+        "Character": "whatney",
+        "Dialog": " I say inspector. Have you found any signs of the Vampire like the old lady said?"
+    },
+    {
+        "Character": "sherlock",
+        "Dialog": " A not a clue! My investigation proves conclusively that there is not a Vampire within a thousand miles of here!"
+    },
+    {
+        "Character": "whatney",
+        "Dialog": " Inspector, did you here a scream?"
+    },
+    {
+        "Character": "sherlock",
+        "Dialog": " I beg your pardon, what did you say?"
+    },
+    {
+        "Character": "whatney",
+        "Dialog": " I said, did you here a scream!?"
+    },
+    {
+        "Character": "sherlock",
+        "Dialog": " I can't here you old boy, someone's screaming!"
+    },
+    {
+        "Character": "sherlock",
+        "Dialog": " Ah Whatney! Our first clue!"
+    },
+    {
+        "Character": "whatney",
+        "Dialog": " What! What is it inspector!?"
+    },
+    {
+        "Character": "sherlock",
+        "Dialog": " Someone is screaming! Hurry Whatney!"
+    },
+    {
+        "Character": "sherlock",
+        "Dialog": " I say old boy, have you seen a Vampire?"
+    },
+    {
+        "Character": "vampire",
+        "Dialog": " Not lately. Why don't you put an ad in the newspapers."
+    },
+    {
+        "Character": "whatney",
+        "Dialog": " Ahhhh good thinking! SHERLOCK AND WHATNEY The Vampire!"
+    },
+    {
+        "Character": "sherlock",
+        "Dialog": " Old boy! My good man! "
+    },
+    {
+        "Character": "sherlock",
+        "Dialog": " My, good, man!"
+    },
+    {
+        "Character": "whatney",
+        "Dialog": " Use your head inspector!"
+    },
+    {
+        "Character": "whatney",
+        "Dialog": " Get up you! Get up you! Get up!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Get up! Get up Gilligan. Little buddy get up."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Get back! I am the Vampire!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Gilligan now wait a minute. It was all a mistake. It wasn't even a Vampire bat that bit you, you're just plain old Gilligan!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I warned you Colonel Whatney!"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Ohhhhhhh!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper? Is that you!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " No, it's not the skipper. I'm Frankenstein's monster!"
+    },
+    {
+        "Character": "fade out",
+        "Dialog": ""
+    },
+    {
+        "Character": "epilog",
+        "Dialog": ""
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Skipper, It's going to be great to get a good nights sleep without worrying about that Vampire junk."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " You bet your life little buddy! Can you imagine us believing all that superstitious nonsense about Vampires and bats and all that stuff."
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Isn't it silly!? Isn't it stupid!?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Stupid!? How...how could we been so stupid!?"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " I don't know. But we're sure not gonna fall for that junk again."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Yeah. Good night little buddy!"
+    },
+    {
+        "Character": "gilligan",
+        "Dialog": " Pleasant dreams skipper."
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Do you hear what I hear?"
+    },
+    {
+        "Character": "skipper",
+        "Dialog": " Lets get out of here! "
+    }
+]
