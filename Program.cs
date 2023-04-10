@@ -26,15 +26,18 @@ namespace OpenAiFineTuning
             foreach (string file in files)
             {
                 string file_name = System.IO.Path.GetFileNameWithoutExtension(file);
+                Console.Write("Retrieving from '" + file_name + "'... ");
                 string content = System.IO.File.ReadAllText(file);
                 List<Message>? msgs = JsonConvert.DeserializeObject<List<Message>>(content);
                 if (msgs != null)
                 {
                     CONVERSATIONS.Add(file_name, msgs);
+                    Console.WriteLine(msgs.Count.ToString("#,##0"));
                 }
             }
 
             //Read from the target
+            int on_number = 1;
             Stream s = System.IO.File.OpenRead(sms_xml);
             StreamReader sr = new StreamReader(s);
             while (true)
@@ -44,6 +47,9 @@ namespace OpenAiFineTuning
                 {
                     if (line.Trim().StartsWith("<sms "))
                     {
+                        Console.WriteLine("Parsing SMS # " + on_number.ToString("#,##0") + "... ");
+                        on_number = on_number + 1;
+
                         XElement x = XElement.Parse(line);
 
                         //Values we will extract
@@ -130,8 +136,10 @@ namespace OpenAiFineTuning
                 string path = Path.Combine(conversations_dir, kvp.Key + ".json");
                 if (System.IO.File.Exists(path))
                 {
+                    Console.WriteLine("Deleting file '" + path + "'");
                     System.IO.File.Delete(path);
                 }
+                Console.WriteLine("Writing '" + kvp.Key + "'");
                 FileStream fs = System.IO.File.Create(path);
                 StreamWriter sw = new StreamWriter(fs);
                 sw.Write(JsonConvert.SerializeObject(kvp.Value, Newtonsoft.Json.Formatting.Indented));
