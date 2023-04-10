@@ -14,7 +14,89 @@ namespace OpenAiFineTuning
         public static void Main(string[] args)
         {
 
+            AssembleTrainingFromConversations();
             
+        }
+
+        public static void AssembleTrainingFromConversations()
+        {
+
+            //settings
+            string conversations_dir = @"C:\Users\timh\Downloads\tah\conversations";
+            string output_file_path = @"C:\Users\timh\Downloads\tah\openai-fine-tuning\output.jsonl";
+            int character_limit = 10000; //How many characters a prompt is allowed to go up to
+
+
+            //The end-product
+            JArray TRAINING = new JArray();
+
+            //Assemble
+            string[] files = System.IO.Directory.GetFiles(conversations_dir);
+            foreach (string file in files)
+            {
+                Console.WriteLine("Working on '" + System.IO.Path.GetFileName(file) + "... ");
+                string content = System.IO.File.ReadAllText(file);
+                Message[]? msgs = JsonConvert.DeserializeObject<Message[]>(content);
+                if (msgs != null)
+                {
+                    List<Message> buffer = new List<Message>();
+                    foreach (Message msg in msgs)
+                    {
+
+                        if (msg.speaker == 1) //If this is a message where Tim responded, use the prompts
+                        {
+                            if (buffer.Count > 0)
+                            {
+
+                                //Remove until we are within the limit
+                                while (MessagesToConversationString(buffer.ToArray()).Length > character_limit)
+                                {
+                                    buffer.RemoveAt(0);
+                                }
+
+                                //Add
+                                JObject jo = new JObject();
+                                jo.Add("prompt", MessagesToConversationString(buffer.ToArray()));
+                                jo.Add("completion", "TIM: " + "\n" + msg.body);
+                                TRAINING.Add(jo);
+                            }
+                        }
+
+                        buffer.Add(msg); //Add the message to the buffer
+                    }
+                }
+            }
+        
+            //Output to file
+            Console.WriteLine("Writing... ");
+            FileStream fs = System.IO.File.OpenWrite(output_file_path);
+            StreamWriter sw = new StreamWriter(fs);
+            foreach (JObject jo in TRAINING)
+            {
+                sw.WriteLine(jo.ToString(Newtonsoft.Json.Formatting.None));
+            }
+            sw.Close();
+            fs.Close();
+
+            Console.WriteLine("Done! Written to " + output_file_path);
+        
+        }
+
+        private static string MessagesToConversationString(Message[] messages)
+        {
+            string ToReturn = "";
+            foreach (Message msg in messages)
+            {
+                if (msg.speaker == 0)
+                {
+                    ToReturn = ToReturn + "PARTNER: " + "\n" + msg.body + "\n\n";
+                }
+                else
+                {
+                    ToReturn = ToReturn + "TIM: " + "\n" + msg.body + "\n\n";
+                }
+            }
+            return ToReturn;
         }
     
         public static void AssembleConversationsFromSmsTexts()
