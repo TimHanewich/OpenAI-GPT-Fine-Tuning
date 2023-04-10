@@ -124,14 +124,6 @@
         "Dialog": " Maybe we need a softer hammer!"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act i",
-        "Dialog": ""
-    },
-    {
         "Character": "mr howell",
         "Dialog": " Oh skipper. You still expect to get the Queen Mary ready to sail in six days?"
     },
@@ -1172,14 +1164,6 @@
         "Dialog": " Well that sales girl was wrong. That perfume doesn't make men wild. It drives them absolutely batty!"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act ii",
-        "Dialog": ""
-    },
-    {
         "Character": "gilligan",
         "Dialog": " Skipper?"
     },
@@ -1238,10 +1222,6 @@
     {
         "Character": "skipper",
         "Dialog": " Gilligan will you cut the OUT! You can "
-    },
-    {
-        "Character": "help!",
-        "Dialog": ""
     },
     {
         "Character": "gilligan",
@@ -1530,14 +1510,6 @@
     {
         "Character": "skipper",
         "Dialog": " Oh Gilligan!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "gilligan",

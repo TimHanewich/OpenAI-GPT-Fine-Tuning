@@ -104,14 +104,6 @@
         "Dialog": " I thought not. Saw!"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act one",
-        "Dialog": ""
-    },
-    {
         "Character": "major",
         "Dialog": " You sent for me sir?"
     },
@@ -482,14 +474,6 @@
     {
         "Character": "mr howell",
         "Dialog": " You mean!?"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act ii",
-        "Dialog": ""
     },
     {
         "Character": "general",
@@ -1106,10 +1090,6 @@
     {
         "Character": "fade out",
         "Dialog": " "
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "gilligan",

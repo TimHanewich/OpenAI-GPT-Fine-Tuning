@@ -80,10 +80,6 @@
         "Dialog": " "
     },
     {
-        "Character": "act i",
-        "Dialog": ""
-    },
-    {
         "Character": "gilligan",
         "Dialog": " Hey professor! Professor!"
     },
@@ -696,14 +692,6 @@
         "Dialog": " Ahhhhh...how are you feeling this morning? Well, I'll bet you're like your old self now!"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act ii",
-        "Dialog": ""
-    },
-    {
         "Character": "skipper",
         "Dialog": " My poor little buddy!"
     },
@@ -1258,14 +1246,6 @@
     {
         "Character": "skipper",
         "Dialog": " No, it's not the skipper. I'm Frankenstein's monster!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "gilligan",

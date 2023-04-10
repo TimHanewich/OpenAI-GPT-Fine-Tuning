@@ -56,14 +56,6 @@
         "Dialog": " Help! Police! Help Police! Murder! Murder! Murder!"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act i",
-        "Dialog": ""
-    },
-    {
         "Character": "gilligan",
         "Dialog": " Help! Help police! Help police!"
     },
@@ -790,14 +782,6 @@
     {
         "Character": "mr howell",
         "Dialog": " Lovey! I...I've been framed! I'll appeal! I'll take it to the Supreme Court! I'll go even higher! Rules committee of the New Port country club! Ahhhhhh!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act ii",
-        "Dialog": ""
     },
     {
         "Character": "pilot",

@@ -84,14 +84,6 @@
         "Dialog": " Ah, that's just what I was looking for! Thanks."
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act one",
-        "Dialog": ""
-    },
-    {
         "Character": "professor",
         "Dialog": " Cough."
     },
@@ -438,14 +430,6 @@
     {
         "Character": "gilligan",
         "Dialog": " Look!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act two",
-        "Dialog": ""
     },
     {
         "Character": "professor",
@@ -1036,10 +1020,6 @@
         "Dialog": " Please rescue me!"
     },
     {
-        "Character": "fairy",
-        "Dialog": ""
-    },
-    {
         "Character": "gilligan",
         "Dialog": " No! First, I must rescue the old lady in the dungeon."
     },
@@ -1134,14 +1114,6 @@
     {
         "Character": "gilligan",
         "Dialog": " Come on I got to get this goose back home to my mother!"
-    },
-    {
-        "Character": "fairy",
-        "Dialog": ""
-    },
-    {
-        "Character": "i'd rather kiss the goose. here goes...",
-        "Dialog": ""
     },
     {
         "Character": "fairy",
@@ -1246,14 +1218,6 @@
     {
         "Character": "skipper",
         "Dialog": " Thank you, Professor."
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "skipper",

@@ -16,14 +16,6 @@
         "Dialog": " Hey mister! Hey mister!"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act one",
-        "Dialog": ""
-    },
-    {
         "Character": "gilligan",
         "Dialog": " Hey Skipper!"
     },
@@ -440,14 +432,6 @@
         "Dialog": " Heavens I've had an appendectomy!"
     },
     {
-        "Character": "lord beasley",
-        "Dialog": ""
-    },
-    {
-        "Character": "well, that sortie was a disappointment.",
-        "Dialog": ""
-    },
-    {
         "Character": "ginger",
         "Dialog": " Lord Beasley, may I come in?"
     },
@@ -654,14 +638,6 @@
     {
         "Character": "lord beasley",
         "Dialog": " Because I have the flares. So, you thought you could flatter and cajole and trick me into breaking my vow not to leave this island without the Pussycat Swallowtail! Shame on you! And after our two countries had built up a friendship based on mutual trust, despite of what happen in seventeen seventy-six! Now hear this!  We shall stay on this island until we catch the that butterfly, if it takes forever!  Goodnight!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act two",
-        "Dialog": ""
     },
     {
         "Character": "lord beasley",
@@ -1098,14 +1074,6 @@
     {
         "Character": "lord beasley",
         "Dialog": " That's the trouble with you Americans. You simply don't know how to hold your tea!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "skipper",

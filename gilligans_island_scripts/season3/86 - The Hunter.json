@@ -60,14 +60,6 @@
         "Dialog": " Perhaps not the four legged kind. I've always wondered what it'd be like to track down and kill the most challenging of all game."
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act one",
-        "Dialog": ""
-    },
-    {
         "Character": "kincaid",
         "Dialog": " ...so I explained to the authorities that because of the size of my helicopter, they'd have to send a boat. I gave them our exact position and the boat will be here tomorrow morning at ten o'clock."
     },
@@ -512,14 +504,6 @@
         "Dialog": " Bang!"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act two",
-        "Dialog": ""
-    },
-    {
         "Character": "gilligan",
         "Dialog": "      (out of breath) I've got to keep running, I'm exhausted. He's going to blast me into confetti. How long have I been running?"
     },
@@ -942,14 +926,6 @@
     {
         "Character": "skipper",
         "Dialog": " Timber!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "radio announcer",

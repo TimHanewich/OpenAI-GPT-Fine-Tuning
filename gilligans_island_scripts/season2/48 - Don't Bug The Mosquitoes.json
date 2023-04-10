@@ -92,14 +92,6 @@
         "Dialog": " Lagoon!!"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act one",
-        "Dialog": ""
-    },
-    {
         "Character": "bingo",
         "Dialog": " Don't look now man but I think we're surrounded by savages."
     },
@@ -424,10 +416,6 @@
         "Dialog": " Wild?"
     },
     {
-        "Character": "gilligan",
-        "Dialog": ""
-    },
-    {
         "Character": "skipper",
         "Dialog": " Gilligan I hope I NEVER get that rich."
     },
@@ -586,14 +574,6 @@
     {
         "Character": "all",
         "Dialog": " We're leaving tomorrow! We're leaving tomorrow! We're leaving tomorrow! We're leaving tomorrow..."
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act two",
-        "Dialog": ""
     },
     {
         "Character": "skipper",
@@ -1174,14 +1154,6 @@
     {
         "Character": "skipper",
         "Dialog": " Gilligan!"
-    },
-    {
-        "Character": "fade out:",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "ginger",

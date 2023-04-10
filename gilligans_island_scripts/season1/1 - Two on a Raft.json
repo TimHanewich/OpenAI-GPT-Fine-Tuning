@@ -56,14 +56,6 @@
         "Dialog": " Don't shut that off! That's the best part! I mean really!"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act one",
-        "Dialog": ""
-    },
-    {
         "Character": "gilligan",
         "Dialog": " Skipper! Hey Skipper! I finished it! I finished it!"
     },
@@ -704,14 +696,6 @@
         "Dialog": " It's too late! It's already abandoned us!"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act two",
-        "Dialog": ""
-    },
-    {
         "Character": "skipper",
         "Dialog": " You all right Gilligan?"
     },
@@ -1314,14 +1298,6 @@
     {
         "Character": "gilligan",
         "Dialog": " Oh boy it's good to be home again!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "skipper",

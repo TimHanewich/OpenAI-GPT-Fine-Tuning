@@ -216,14 +216,6 @@
         "Dialog": " Good night sir!"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act one",
-        "Dialog": ""
-    },
-    {
         "Character": "gilligan",
         "Dialog": " Halt who goes.friend.or.foe."
     },
@@ -952,14 +944,6 @@
         "Dialog": " Gilligan!"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act two",
-        "Dialog": ""
-    },
-    {
         "Character": "gilligan",
         "Dialog": " Professor? It's getting kind of late. Why don't we call off the search and go back to camp?"
     },
@@ -970,10 +954,6 @@
     {
         "Character": "gilligan",
         "Dialog": " Oh. Well would it be all right for the cowards to quit and go back to camp?"
-    },
-    {
-        "Character": "professor",
-        "Dialog": ""
     },
     {
         "Character": "all this talk about voodoo and witchcraft",
@@ -1388,24 +1368,12 @@
         "Dialog": " Ooooo,Oooooo Gilligan! Oh don't go in."
     },
     {
-        "Character": "ginger",
-        "Dialog": ""
-    },
-    {
         "Character": "gilligan",
         "Dialog": " Well, at least we know the flare gun works!"
     },
     {
         "Character": "skipper",
         "Dialog": " Oh Gilligan!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "mr howell",

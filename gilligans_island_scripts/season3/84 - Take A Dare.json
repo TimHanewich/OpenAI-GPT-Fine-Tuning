@@ -99,14 +99,7 @@
         "Character": "skipper",
         "Dialog": " Oh Gilligan! Move! Lets get some bananas!"
     },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act i",
-        "Dialog": ""
-    },
+
     {
         "Character": "skipper",
         "Dialog": "        (STRAINED) All right Gilligan, give me your, bananas and, pick up the pails of fish."
@@ -924,14 +917,6 @@
         "Dialog": " The part that goes on here is missing.   GILLIGAN AND SKIPPER Missing!"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act ii",
-        "Dialog": ""
-    },
-    {
         "Character": "skipper",
         "Dialog": " Any luck professor!?"
     },
@@ -1342,10 +1327,6 @@
     {
         "Character": "barkley",
         "Dialog": " Say a,..."
-    },
-    {
-        "Character": "barkley",
-        "Dialog": ""
     },
     {
         "Character": "ginger",
@@ -1770,14 +1751,6 @@
     {
         "Character": "radio",
         "Dialog": "      (BARKLEY) OH ME!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "skipper",

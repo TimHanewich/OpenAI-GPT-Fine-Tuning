@@ -156,14 +156,6 @@
         "Dialog": " You'd better wipe those wire cutters off before they get rusty."
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act one",
-        "Dialog": ""
-    },
-    {
         "Character": "radio",
         "Dialog": " THIS IS ALICE MCNEAL SIGNING OFF AS I START THE LAST LEG OF MY ROUND THE WORLD FLIGHT. OPEN UP THAT GOLDEN GATE CAUSE SAN FRANCISCO HERE I COME!"
     },
@@ -314,10 +306,6 @@
     {
         "Character": "skipper",
         "Dialog": " We were about a mile off shore. The transmitter got hit.we were strafed by enemy fighters. I had to do something "
-    },
-    {
-        "Character": "fast!",
-        "Dialog": ""
     },
     {
         "Character": "gilligan",
@@ -706,14 +694,6 @@
     {
         "Character": "mr howell",
         "Dialog": " Nobody rushes a Howell ha.ha.ha!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act two",
-        "Dialog": ""
     },
     {
         "Character": "gilligan",
@@ -1154,14 +1134,6 @@
     {
         "Character": "radio",
         "Dialog": " NICE TO HAVE TALKED TO YOU DOWN THERE. WHO EVERY YOU ARE! WE SEEM TO HAVE BEEN CUT OFF. MEANWHILE, HAPPY LANDINGS!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "gilligan",

@@ -80,14 +80,6 @@
         "Dialog": " Down here!  Over here! Oh yeah!"
     },
     {
-        "Character": "fade out:",
-        "Dialog": ""
-    },
-    {
-        "Character": "act one",
-        "Dialog": ""
-    },
-    {
         "Character": "skipper",
         "Dialog": " Oh professor did you find anything?"
     },
@@ -550,14 +542,6 @@
     {
         "Character": "professor",
         "Dialog": " How would you like to do us a very big favor?"
-    },
-    {
-        "Character": "fade out:",
-        "Dialog": ""
-    },
-    {
-        "Character": "act two",
-        "Dialog": ""
     },
     {
         "Character": "professor",
@@ -1242,14 +1226,6 @@
     {
         "Character": "professor",
         "Dialog": " Right! Robot walk!"
-    },
-    {
-        "Character": "fade out:",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "skipper",

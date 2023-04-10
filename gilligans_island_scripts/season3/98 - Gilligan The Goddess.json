@@ -1,19 +1,7 @@
 [
     {
-        "Character": "teaser",
-        "Dialog": ""
-    },
-    {
         "Character": "gilligan",
         "Dialog": " What do they think this is a freeway!?"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act one",
-        "Dialog": ""
     },
     {
         "Character": "mr howell",
@@ -554,14 +542,6 @@
     {
         "Character": "gilligan",
         "Dialog": " Oh skipper, can we lay down now?"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act two",
-        "Dialog": ""
     },
     {
         "Character": "skipper",
@@ -1434,14 +1414,6 @@
     {
         "Character": "gilligan",
         "Dialog": " I don't think so look!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "skipper",

@@ -108,14 +108,6 @@
         "Dialog": " Skipper..."
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act i",
-        "Dialog": ""
-    },
-    {
         "Character": "professor",
         "Dialog": " ...and they actually blamed the skipper for the shipwreck and the loss of the Minnow?"
     },
@@ -712,14 +704,6 @@
         "Dialog": " Oh, well, nobody's perfect."
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act ii",
-        "Dialog": ""
-    },
-    {
         "Character": "skipper",
         "Dialog": " Gillig...!"
     },
@@ -1249,14 +1233,6 @@
     },
     {
         "Character": "admiral gilligan",
-        "Dialog": ""
-    },
-    {
-        "Character": "ha...ha...ha...ha!",
-        "Dialog": ""
-    },
-    {
-        "Character": "admiral gilligan",
         "Dialog": " A vast you naves!"
     },
     {
@@ -1422,10 +1398,6 @@
     {
         "Character": "fade out",
         "Dialog": " "
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "gilligan",

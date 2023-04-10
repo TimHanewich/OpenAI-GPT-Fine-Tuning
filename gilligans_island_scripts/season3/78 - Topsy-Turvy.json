@@ -68,14 +68,6 @@
         "Dialog": " How come...the whole world is upside down!?"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act one",
-        "Dialog": ""
-    },
-    {
         "Character": "professor",
         "Dialog": " I've got my medical book in the supply hut. I'll see if there's a cure for your condition."
     },
@@ -724,14 +716,6 @@
         "Dialog": " Five professor, six professor seven professor more! Eight professor,..."
     },
     {
-        "Character": "fade out:",
-        "Dialog": ""
-    },
-    {
-        "Character": "act two",
-        "Dialog": ""
-    },
-    {
         "Character": "professor",
         "Dialog": " All right Gilligan close your eyes."
     },
@@ -810,10 +794,6 @@
     {
         "Character": "mr howell",
         "Dialog": " Well lucky boy. Imagine seeing four Howell's "
-    },
-    {
-        "Character": "in one viewing.",
-        "Dialog": ""
     },
     {
         "Character": "skipper",
@@ -970,10 +950,6 @@
     {
         "Character": "ginger",
         "Dialog": " Do you still see...       (CONTINUED)"
-    },
-    {
-        "Character": "...two of me?",
-        "Dialog": ""
     },
     {
         "Character": "gilligan",
@@ -1462,14 +1438,6 @@
     {
         "Character": "fade out:",
         "Dialog": " "
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
-    },
-    {
-        "Character": "gilligan",
-        "Dialog": ""
     },
     {
         "Character": "skipper",

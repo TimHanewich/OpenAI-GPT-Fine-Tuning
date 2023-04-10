@@ -128,14 +128,6 @@
         "Dialog": " My boy. (pause) This is your home. (pause) And it's going to be mine. For the rest of my life."
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act one",
-        "Dialog": ""
-    },
-    {
         "Character": "skipper",
         "Dialog": " Be reasonable Wrong Way you've got to go back and get help!"
     },
@@ -648,10 +640,6 @@
         "Dialog": " I mean really hurt?"
     },
     {
-        "Character": "gillgian",
-        "Dialog": ""
-    },
-    {
         "Character": "wrong way",
         "Dialog": " I don't believe it I don't believe it!"
     },
@@ -740,14 +728,6 @@
         "Dialog": " Wa... that would mean goin back to Hawaia. I'll have to think that over. Goin back to Hawaia?"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act two",
-        "Dialog": ""
-    },
-    {
         "Character": "gilligan",
         "Dialog": " Skipper, if I see Wrong Way, do I have to faint again?"
     },
@@ -794,14 +774,6 @@
     {
         "Character": "mary ann",
         "Dialog": " Oh, ok, your coffee will be ready in a minute. "
-    },
-    {
-        "Character": "professor",
-        "Dialog": ""
-    },
-    {
-        "Character": "hey!",
-        "Dialog": ""
     },
     {
         "Character": "professor",
@@ -1506,14 +1478,6 @@
     {
         "Character": "gilligan",
         "Dialog": " Good luck Wrong Way!!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "ginger",

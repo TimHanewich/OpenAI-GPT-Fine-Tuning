@@ -8,14 +8,6 @@
         "Dialog": " Stay right here! Don't go away! Oh boy! Oh Boy! Oh boy!"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act one",
-        "Dialog": ""
-    },
-    {
         "Character": "skipper",
         "Dialog": " How we doing professor!? How we doing!?"
     },
@@ -282,10 +274,6 @@
     {
         "Character": "gilligan",
         "Dialog": " Thank you...ah thank you ah this is Mrs. Howell..."
-    },
-    {
-        "Character": "gilligan",
-        "Dialog": ""
     },
     {
         "Character": "wrong way",
@@ -730,14 +718,6 @@
     {
         "Character": "wrong way",
         "Dialog": " Contact!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act two",
-        "Dialog": ""
     },
     {
         "Character": "wrong way",
@@ -1350,14 +1330,6 @@
     {
         "Character": "gilligan",
         "Dialog": " Oh it's a long story skipper! But there goes the bravest man I've ever known! Next to you."
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "radio announcer",

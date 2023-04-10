@@ -120,14 +120,6 @@
         "Dialog": " All I said was, we should have a beauty contest."
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act i",
-        "Dialog": ""
-    },
-    {
         "Character": "ginger",
         "Dialog": " Well, how do I look?"
     },
@@ -477,10 +469,6 @@
     },
     {
         "Character": "gilligan",
-        "Dialog": ""
-    },
-    {
-        "Character": "gilligan",
         "Dialog": " GLADYS GIVE ME MY HAT!!!"
     },
     {
@@ -674,14 +662,6 @@
     {
         "Character": "mr howell",
         "Dialog": " So right!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act ii",
-        "Dialog": ""
     },
     {
         "Character": "gilligan",
@@ -1312,10 +1292,6 @@
         "Dialog": " Ooo! Ooo!"
     },
     {
-        "Character": "ginger",
-        "Dialog": ""
-    },
-    {
         "Character": "mr howell",
         "Dialog": " We're even Steven."
     },
@@ -1430,14 +1406,6 @@
     {
         "Character": "gilligan",
         "Dialog": " I don't think so!? Wooooe!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "skipper",

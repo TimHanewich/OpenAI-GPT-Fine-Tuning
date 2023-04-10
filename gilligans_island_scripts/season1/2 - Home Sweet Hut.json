@@ -156,10 +156,6 @@
         "Dialog": " Gilligan this is just a guess, but I'd say the real big storms will start about thirty seconds ago!"
     },
     {
-        "Character": "act one",
-        "Dialog": ""
-    },
-    {
         "Character": "skipper",
         "Dialog": " Folks, today we had a little touch of bad weather. At this time I'd like to say thanks to Mr. and Mrs. Howell, for lending us these clothes while ours are drying out."
     },
@@ -446,10 +442,6 @@
     {
         "Character": "skipper",
         "Dialog": " Thanks to you Gilligan, somebody already has!"
-    },
-    {
-        "Character": "gilligan",
-        "Dialog": ""
     },
     {
         "Character": "skipper",
@@ -806,14 +798,6 @@
     {
         "Character": "mr howell",
         "Dialog": " Nigh, nigh."
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act two",
-        "Dialog": ""
     },
     {
         "Character": "skipper",
@@ -1418,14 +1402,6 @@
     {
         "Character": "mr howell",
         "Dialog": " This is mutiny!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "skipper",

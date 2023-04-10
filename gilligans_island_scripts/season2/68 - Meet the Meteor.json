@@ -200,14 +200,6 @@
         "Dialog": " Oh, what?"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act i",
-        "Dialog": ""
-    },
-    {
         "Character": "professor",
         "Dialog": " This simple form of Geiger counter will be able to tell us whether that meteor is radioactive."
     },
@@ -644,10 +636,6 @@
         "Dialog": " Oh please. Keep digging! Now for goodness sakes, the professors got a way of using these cosmic rays that I think are going to get us off the island."
     },
     {
-        "Character": "skipper",
-        "Dialog": ""
-    },
-    {
         "Character": "professor",
         "Dialog": " This reflective screen I'm making will focus those cosmic rays and shoot them straight up in to the air. A weather plane or radiation detection station is bound to spot them, investigate, and we'll be rescued."
     },
@@ -944,14 +932,6 @@
         "Dialog": " All right Gilligan!"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act ii",
-        "Dialog": ""
-    },
-    {
         "Character": "skipper",
         "Dialog": " Professor this is the worst spot we've ever been in. Can't you think of something?"
     },
@@ -1244,10 +1224,6 @@
         "Dialog": " Oh yes of course Thurston. Come over here."
     },
     {
-        "Character": "mr. howell",
-        "Dialog": ""
-    },
-    {
         "Character": "mrs. howell",
         "Dialog": " Ah, where's your bow tie Thurston?"
     },
@@ -1490,14 +1466,6 @@
     {
         "Character": "skipper",
         "Dialog": " Yes!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "professor",

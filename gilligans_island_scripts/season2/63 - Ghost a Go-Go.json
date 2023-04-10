@@ -60,14 +60,6 @@
         "Dialog": " ...ghooooooooo"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act one",
-        "Dialog": ""
-    },
-    {
         "Character": "skipper",
         "Dialog": " Come on Gilligan, we both have things to do!"
     },
@@ -860,14 +852,6 @@
         "Dialog": " And listen to this Gilligan! Boat has all the things you need for long trip. Take it, it is for you. Signed your friend, the ghost!"
     },
     {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "act two",
-        "Dialog": ""
-    },
-    {
         "Character": "skipper",
         "Dialog": " Gilligan we've got everything we need! Food, water, compass!"
     },
@@ -1584,10 +1568,6 @@
         "Dialog": " Who ever did this thinks we are now dead, right? All right then..."
     },
     {
-        "Character": "continued",
-        "Dialog": ""
-    },
-    {
         "Character": "gilligan",
         "Dialog": " Oh no not again, we just got finished being blown all to pieces!"
     },
@@ -1622,14 +1602,6 @@
     {
         "Character": "professor",
         "Dialog": " Now you all know what to do. Scatter and move in and out and around the huts. All right! "
-    },
-    {
-        "Character": "professor",
-        "Dialog": ""
-    },
-    {
-        "Character": "move out!",
-        "Dialog": ""
     },
     {
         "Character": "gilligan",
@@ -1758,14 +1730,6 @@
     {
         "Character": "skipper",
         "Dialog": " Get him quick!"
-    },
-    {
-        "Character": "fade out",
-        "Dialog": ""
-    },
-    {
-        "Character": "epilog",
-        "Dialog": ""
     },
     {
         "Character": "gilligan",
