@@ -13,13 +13,32 @@ namespace OpenAiFineTuning
             Speech[][] scripts = GetAllScripts();
             foreach (Speech[] script in scripts)
             {
+
+                Speech? prompt = null;
+
                 foreach (Speech s in script)
                 {
                     if (s.Character == "gilligan")
                     {
-                        Console.WriteLine(s.Dialog);
-                        Console.WriteLine();
+                        if (prompt != null)
+                        {
+                            if (prompt.Character != "gilligan")
+                            {
+
+
+                                if (prompt.Dialog.Contains("?"))
+                                {
+                                    Console.WriteLine(prompt.Character + ": " + prompt.Dialog.Trim());
+                                    Console.WriteLine();
+                                    Console.WriteLine(s.Character + ": " + s.Dialog.Trim());
+                                    Console.ReadLine();
+                                    Console.Clear();
+                                }
+                                
+                            }
+                        }
                     }
+                    prompt = s;
                 }
             }
         }
