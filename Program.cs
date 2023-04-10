@@ -32,6 +32,7 @@ namespace OpenAiFineTuning
                         string body = "";
                         string with_number = "";
                         int speaker = -1; //0 = somebody else, 1 = tim
+                        DateTimeOffset date = new DateTime();
 
                         //Get the body
                         XAttribute? xbody = x.Attribute("body");
@@ -62,10 +63,18 @@ namespace OpenAiFineTuning
                         }
                     
 
+                        //Date
+                        XAttribute? xdate = x.Attribute("date");
+                        if (xdate != null)
+                        {
+                            date = DateTimeOffset.FromUnixTimeMilliseconds(Convert.ToInt64(xdate.Value));
+                        }
+
                         //Construct
                         Message m = new Message();
                         m.speaker = speaker;
                         m.body = body;
+                        m.date = date.DateTime;
 
 
                         //Add
