@@ -11,7 +11,17 @@ namespace OpenAiFineTuning
         public static void Main(string[] args)
         {
             Speech[][] scripts = GetAllScripts();
-            Console.WriteLine(scripts.Length.ToString());
+            foreach (Speech[] script in scripts)
+            {
+                foreach (Speech s in script)
+                {
+                    if (s.Character == "gilligan")
+                    {
+                        Console.WriteLine(s.Dialog);
+                        Console.WriteLine();
+                    }
+                }
+            }
         }
     
         public static void Download()
