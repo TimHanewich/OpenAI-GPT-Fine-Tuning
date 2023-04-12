@@ -104,7 +104,19 @@ namespace OpenAiFineTuning.SpongeBob
                 li = StripHTML(li);
                 li = li.Replace("\n", "");
                 li = li.Replace("\t", "");
-                ToReturn.Add(li);
+
+                //Trim out the nonsense
+                if (li.Contains("<!-- NewPP"))
+                {
+                    int loc1 = li.IndexOf("<!-- NewPP");
+                    li = li.Substring(0, loc1);
+                    ToReturn.Add(li);
+                    break;
+                }
+                else
+                {
+                    ToReturn.Add(li);
+                }
             }
 
             Transcript = ToReturn.ToArray();
