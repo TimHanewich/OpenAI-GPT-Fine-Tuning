@@ -2,7 +2,8 @@
 I've prepared training data in the format that is required by OpenAI/Azure OpenAI (.jsonl files). You can download them from the table below:
 |Description|Size|Download|
 |-|-|-|
-|Every SpongeBob SquarePants episode, 10,000 character prompt limit|449 MB|[here]()|
+|Every SpongeBob SquarePants episode, 10,000 character prompt limit|449 MB|[here](https://timhmsft.blob.core.windows.net/downloadable/spongebob_training_f161f36fb6254a709ff38019589c88cf.jsonl?sp=r&st=2023-04-12T16:02:42Z&se=2999-04-13T00:02:42Z&sv=2021-12-02&sr=b&sig=twlNBZH0jjtmRCWeiMBckY%2Fkqknnsa1%2BvoxPbScf8zE%3D)|
+|Every SpongeBob SquarePants episode, 10,000 character prompt limit, but **cleansed of errors**|448 MB|[here](https://timhmsft.blob.core.windows.net/downloadable/spongebob_training_eaefeeec703e488abee1f79ce413c651.jsonl?sp=r&st=2023-04-12T16:51:54Z&se=2999-04-13T00:51:54Z&sv=2021-12-02&sr=b&sig=WmXqrOHG6VT72XI1hMk8UAaSpMDTT9tVm9ln9EMOr6o%3D)|
 
 ## Gilligan's Island
 Gilligans Island Scripts: http://www.gilligansisle.com/scripts.html
