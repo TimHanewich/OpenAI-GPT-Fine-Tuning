@@ -6,6 +6,7 @@ using System.Net.Http;
 using Newtonsoft.Json.Linq;
 using System.Xml;
 using System.Xml.Linq;
+using OpenAiFineTuning.SpongeBob;
 
 namespace OpenAiFineTuning
 {
@@ -14,7 +15,10 @@ namespace OpenAiFineTuning
         public static void Main(string[] args)
         {
 
-            AssembleTrainingFromConversations();
+            TranscriptLink[] links = TranscriptLink.GetAllTranscriptLinksAsync().Result;
+
+            Console.WriteLine(JsonConvert.SerializeObject(links, Newtonsoft.Json.Formatting.Indented));
+
             
         }
 

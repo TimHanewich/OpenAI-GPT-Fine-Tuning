@@ -30,3 +30,6 @@ Each JSON file in the `conversations` folder contains the conversation like this
 ]
 ```
 - `speaker` 0 is the person speaking with Tim, `speaker` 1 is Tim's response.
+
+## Spongebob Scripts
+- Scripts can be found [here](https://spongebob.fandom.com/wiki/List_of_transcripts).
