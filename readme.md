@@ -4,6 +4,8 @@ I've prepared training data in the format that is required by OpenAI/Azure OpenA
 |-|-|-|
 |Every SpongeBob SquarePants episode, 10,000 character prompt limit|449 MB|[here](https://timhmsft.blob.core.windows.net/downloadable/spongebob_training_f161f36fb6254a709ff38019589c88cf.jsonl?sp=r&st=2023-04-12T16:02:42Z&se=2999-04-13T00:02:42Z&sv=2021-12-02&sr=b&sig=twlNBZH0jjtmRCWeiMBckY%2Fkqknnsa1%2BvoxPbScf8zE%3D)|
 |Every SpongeBob SquarePants episode, 10,000 character prompt limit, but **cleansed of errors**|448 MB|[here](https://timhmsft.blob.core.windows.net/downloadable/spongebob_training_eaefeeec703e488abee1f79ce413c651.jsonl?sp=r&st=2023-04-12T16:51:54Z&se=2999-04-13T00:51:54Z&sv=2021-12-02&sr=b&sig=WmXqrOHG6VT72XI1hMk8UAaSpMDTT9tVm9ln9EMOr6o%3D)|
+|The same file as above, but trimmed the bottom portion of it to limit the file size|283 MB|[here](https://timhmsft.blob.core.windows.net/downloadable/spongebob_training_d098454a128a4301bd2762613e9ee6f6.jsonl?sp=r&st=2023-04-12T20:56:01Z&se=2999-04-13T04:56:01Z&sv=2021-12-02&sr=b&sig=V%2F%2BinePNI%2FvRjuVXgRU3yudyhsQp5bUJoHwzBZGFW%2B0%3D)|
+|Same as above, but trimmed bottom portion to limit file size|145 MB|[here]()|
 
 ## Gilligan's Island
 Gilligans Island Scripts: http://www.gilligansisle.com/scripts.html
