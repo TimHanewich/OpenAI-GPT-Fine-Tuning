@@ -415,7 +415,7 @@ namespace OpenAiFineTuning
                                 //Add
                                 JObject jo = new JObject();
                                 jo.Add("prompt", ArrayToString(buffer.ToArray()));
-                                jo.Add("completion", msg);
+                                jo.Add("completion", "\n\n" + msg);
                                 TRAINING.Add(jo);
                             }
 
