@@ -18,7 +18,8 @@ namespace OpenAiFineTuning
             TranscriptLink[]? links = Newtonsoft.Json.JsonConvert.DeserializeObject<TranscriptLink[]>(System.IO.File.ReadAllText(@"C:\Users\timh\Downloads\tah\OpenAI-GPT-Fine-Tuning\data\spongebob\TranscriptLinks.json"));
             if (links != null)
             {
-                string[] transcript = links[0].GetTranscriptAsync().Result;
+                links[0].GetTranscriptAsync().Wait();
+                Console.WriteLine(JsonConvert.SerializeObject(links[0] , Newtonsoft.Json.Formatting.Indented));
             }
             
         }

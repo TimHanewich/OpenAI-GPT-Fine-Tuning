@@ -12,12 +12,14 @@ namespace OpenAiFineTuning.SpongeBob
         public string Number {get; set;}
         public string Title {get; set;}
         public string TranscriptUrl {get; set;}
+        public string[]? Transcript {get; set;}
 
         public TranscriptLink()
         {
             Number = string.Empty;
             Title = string.Empty;
             TranscriptUrl = string.Empty;
+            Transcript = null;
         }
 
         public static async Task<TranscriptLink[]> GetAllTranscriptLinksAsync()
@@ -73,7 +75,7 @@ namespace OpenAiFineTuning.SpongeBob
             return ToReturn.ToArray();
         }
     
-        public async Task<string[]> GetTranscriptAsync()
+        public async Task GetTranscriptAsync()
         {
             HttpClient hc = new HttpClient();
             HttpResponseMessage response = await hc.GetAsync(TranscriptUrl);
@@ -94,17 +96,18 @@ namespace OpenAiFineTuning.SpongeBob
             }
 
 
+            List<string> ToReturn = new List<string>();
             string[] lis = focus_ul.Split(new string[]{"<li>"}, StringSplitOptions.RemoveEmptyEntries);
             for (int t = 1; t < lis.Length; t++)
             {
                 string li = lis[t];
                 li = StripHTML(li);
-                Console.WriteLine(li);
-                Console.WriteLine();
-                Console.ReadLine();
+                li = li.Replace("\n", "");
+                li = li.Replace("\t", "");
+                ToReturn.Add(li);
             }
 
-            return new string[]{};
+            Transcript = ToReturn.ToArray();
         }
 
         private string StripHTML(string input)
