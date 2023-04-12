@@ -1,3 +1,10 @@
+## Training Data
+I've prepared training data in the format that is required by OpenAI/Azure OpenAI (.jsonl files). You can download them from the table below:
+|Description|Size|Download|
+|-|-|-|
+|Every SpongeBob SquarePants episode, 10,000 character prompt limit|449 MB|[here]()|
+
+## Gilligan's Island
 Gilligans Island Scripts: http://www.gilligansisle.com/scripts.html
 
 Needs work:
@@ -6,7 +13,7 @@ Needs work:
 - http://www.gilligansisle.com/scripts/script71.html
 - http://www.gilligansisle.com/scripts/script91.html
 - http://www.gilligansisle.com/scripts/script95.html
-- Everyone that uses the HTML
+- Every one that uses the HTML
 
 ## Structure for Text Messages Data Container
 Folder structure:
@@ -33,9 +40,3 @@ Each JSON file in the `conversations` folder contains the conversation like this
 
 ## Spongebob Scripts
 - Scripts can be found [here](https://spongebob.fandom.com/wiki/List_of_transcripts).
-
-## Training Data
-I've prepared training data in the format that is required by OpenAI/Azure OpenAI (.jsonl files). You can download them from the table below:
-|Description|Size|Download|
-|-|-|-|
-|Every SpongeBob SquarePants episode, 10,000 character prompt limit|449 MB|[here]()|
