@@ -382,7 +382,7 @@ namespace OpenAiFineTuning
         {
             //settings
             string episodes_json_path = @"C:\Users\timh\Downloads\tah\OpenAI-GPT-Fine-Tuning\data\spongebob\episodes.json";
-            string output_file_path = @"C:\Users\timh\Downloads\tah\OpenAI-GPT-Fine-Tuning\data\spongebob\spongebob_training.jsonl";
+            string output_file_path = @"C:\Users\timh\Downloads\tah\OpenAI-GPT-Fine-Tuning\data\spongebob\spongebob_training_eaefeeec703e488abee1f79ce413c651.jsonl";
             int character_limit = 10000; //How many characters a prompt is allowed to go up to
 
 
