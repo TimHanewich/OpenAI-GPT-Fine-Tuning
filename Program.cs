@@ -15,28 +15,7 @@ namespace OpenAiFineTuning
         public static void Main(string[] args)
         {
 
-            TranscriptLink[] links = TranscriptLink.GetAllTranscriptLinksAsync().Result;
-            foreach (TranscriptLink link in links)
-            {
-                Console.Write("Working on '" + link.TranscriptUrl + "'... ");
-                try
-                {
-                    link.GetTranscriptAsync().Wait();
-                    if (link.Transcript != null)
-                    {
-                        Console.WriteLine("Success w/ " + link.Transcript.Length.ToString("#,##0") + " items!");
-                    }
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine("FAILURE! Msg: " + ex.Message);
-                }
-            }
-
-
-            //Write
-            System.IO.File.WriteAllText(@"C:\Users\timh\Downloads\tah\OpenAI-GPT-Fine-Tuning\data\spongebob\TranscriptLinks.json", JsonConvert.SerializeObject(links, Newtonsoft.Json.Formatting.None));
-        
+            AssembleTrainingFromSpongeBob();
         }
 
         public static void AssembleTrainingFromConversations()
@@ -396,6 +375,90 @@ namespace OpenAiFineTuning
             return ToReturn.ToArray();
         }
     
+
+        # region "SpongeBob"
+
+        public static void AssembleTrainingFromSpongeBob()
+        {
+            //settings
+            string episodes_json_path = @"C:\Users\timh\Downloads\tah\OpenAI-GPT-Fine-Tuning\data\spongebob\episodes.json";
+            string output_file_path = @"C:\Users\timh\Downloads\tah\OpenAI-GPT-Fine-Tuning\data\spongebob\spongebob_training.jsonl";
+            int character_limit = 10000; //How many characters a prompt is allowed to go up to
+
+
+            //The end-product
+            JArray TRAINING = new JArray();
+
+            Episode[]? episodes = JsonConvert.DeserializeObject<Episode[]>(System.IO.File.ReadAllText(episodes_json_path));
+
+            if (episodes != null)
+            {
+                //Assemble
+                foreach (Episode e in episodes)
+                {
+                    
+                    if (e.Transcript != null)
+                    {
+                        List<string> buffer = new List<string>();
+                        foreach (string msg in e.Transcript)
+                        {
+
+                            if (buffer.Count >= 1)
+                            {
+
+                                //Remove until we are within the limit
+                                while (ArrayToString(buffer.ToArray()).Length > character_limit)
+                                {
+                                    buffer.RemoveAt(0);
+                                }
+
+                                //Add
+                                JObject jo = new JObject();
+                                jo.Add("prompt", ArrayToString(buffer.ToArray()));
+                                jo.Add("completion", msg);
+                                TRAINING.Add(jo);
+                            }
+
+                            buffer.Add(msg); //Add the message to the buffer
+                        }
+                    }
+                    
+                }
+            
+                //Output to file
+                Console.WriteLine("Writing... ");
+                FileStream fs = System.IO.File.OpenWrite(output_file_path);
+                StreamWriter sw = new StreamWriter(fs);
+                foreach (JObject jo in TRAINING)
+                {
+                    sw.WriteLine(jo.ToString(Newtonsoft.Json.Formatting.None));
+                }
+                sw.Close();
+                fs.Close();
+
+                Console.WriteLine("Done! Written to " + output_file_path);
+            
+            }
+
+            
+        }
+
+        public static string ArrayToString(string[] arr)
+        {
+            string ToReturn = "";
+            foreach (string s in arr)
+            {
+                ToReturn = ToReturn + s + "\n\n";
+            }
+            if (ToReturn.EndsWith("\n\n"))
+            {
+                ToReturn = ToReturn.Substring(0, ToReturn.Length - "\n\n".Length);
+            }
+
+            return ToReturn;
+        }
+
+        #endregion
     
     }
 }
