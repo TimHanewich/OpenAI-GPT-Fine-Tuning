@@ -7,14 +7,14 @@ using System.Text.RegularExpressions;
 
 namespace OpenAiFineTuning.SpongeBob
 {
-    public class TranscriptLink
+    public class Episode
     {
         public string Number {get; set;}
         public string Title {get; set;}
         public string TranscriptUrl {get; set;}
         public string[]? Transcript {get; set;}
 
-        public TranscriptLink()
+        public Episode()
         {
             Number = string.Empty;
             Title = string.Empty;
@@ -22,14 +22,14 @@ namespace OpenAiFineTuning.SpongeBob
             Transcript = null;
         }
 
-        public static async Task<TranscriptLink[]> GetAllTranscriptLinksAsync()
+        public static async Task<Episode[]> GetAllEpisodesAsync()
         {
             HttpClient hc = new HttpClient();
             HttpResponseMessage response = await hc.GetAsync("https://spongebob.fandom.com/wiki/List_of_transcripts");
             string content = await response.Content.ReadAsStringAsync();
 
             //Get each data point in each table
-            List<TranscriptLink> ToReturn = new List<TranscriptLink>();
+            List<Episode> ToReturn = new List<Episode>();
             string[] parts = content.Split(new string[]{"<table "}, StringSplitOptions.RemoveEmptyEntries);
             for (int t = 1; t < parts.Length; t++)
             {
@@ -41,7 +41,7 @@ namespace OpenAiFineTuning.SpongeBob
                     {
 
                         string row = rows[r];
-                        TranscriptLink tl = new TranscriptLink();
+                        Episode tl = new Episode();
 
                         //Get episode number
                         int loc1 = row.IndexOf("<center");
