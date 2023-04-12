@@ -3,6 +3,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Net;
 using System.Net.Http;
+using System.Text.RegularExpressions;
 
 namespace OpenAiFineTuning.SpongeBob
 {
@@ -70,6 +71,45 @@ namespace OpenAiFineTuning.SpongeBob
             }
 
             return ToReturn.ToArray();
+        }
+    
+        public async Task<string[]> GetTranscriptAsync()
+        {
+            HttpClient hc = new HttpClient();
+            HttpResponseMessage response = await hc.GetAsync(TranscriptUrl);
+            string content = await response.Content.ReadAsStringAsync();
+
+            //Select which ul has the highest number of list items - because this is likely what we want
+            string focus_ul = "";
+            int winning_li_count = int.MinValue;
+            string[] uls = content.Split(new string[]{"<ul>"}, StringSplitOptions.RemoveEmptyEntries);
+            for (int t = 1; t < uls.Length; t++)
+            {
+                string[] lis2 = uls[t].Split(new string[]{"<li>"}, StringSplitOptions.RemoveEmptyEntries);
+                if (lis2.Length > winning_li_count)
+                {
+                    focus_ul = uls[t];
+                    winning_li_count = lis2.Length;
+                }
+            }
+
+
+            string[] lis = focus_ul.Split(new string[]{"<li>"}, StringSplitOptions.RemoveEmptyEntries);
+            for (int t = 1; t < lis.Length; t++)
+            {
+                string li = lis[t];
+                li = StripHTML(li);
+                Console.WriteLine(li);
+                Console.WriteLine();
+                Console.ReadLine();
+            }
+
+            return new string[]{};
+        }
+
+        private string StripHTML(string input)
+        {
+            return Regex.Replace(input, "<[a-zA-Z/].*?>", String.Empty);
         }
     }
 }
